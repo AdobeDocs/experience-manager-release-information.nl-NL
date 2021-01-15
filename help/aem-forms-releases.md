@@ -3,9 +3,9 @@ title: AEM Forms-releases
 description: Bevat een lijst met alle AEM Forms-releases en bijbehorende pakketten
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 72047e39b9ee80a80b91d2d9b96c9ba6e51ea0e9
 workflow-type: tm+mt
-source-wordcount: '12231'
+source-wordcount: '12261'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">AEM Forms-invoegtoepassing voor Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.234.zip">AEM Forms-invoegtoepassing voor Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.234.zip">AEM Forms-invoegtoepassing voor Mac OS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.32.zip">AEM Forms-compatibiliteitspakket</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/adobe-lc-mobileworkspace-src-2.5.24.zip">AEM Forms App-bron</a></li>
       <br><b>JEE-patchinstallatieprogramma's</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Jboss/Win/AEMForms-6.5.0-0020_jboss_win.zip">JBoss Windows</a></li>
@@ -55,7 +56,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE-installatieprogramma: AEMForms-6.5.0-0020<br /> </p> AEM Forms Add-on-pakketten: 6,0,234</p> <p>Client SDK: 6.0.234<br /> </p></td> 
+    <td><p>AEM Forms JEE-installatieprogramma: AEMForms-6.5.0-0020<br /> </p> AEM Forms Add-on-pakketten: 6,0,234</p> <p>AEM Forms-compatibiliteitspakket: 2,0,32</p><p>Client SDK: 6.0.234<br /> </p></td> 
    </tr> 
    <tr> 
     <td>3 sep. 2020</td> 
@@ -266,7 +267,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
   <tr> 
    <td>12 dec. 2019</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM Forms Service Pack 7 Forms add-on pakket voor AEM 6.4.7.0</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-LX.zip">AEM Forms-invoegtoepassing voor Linux</a><br /> </li> 
@@ -330,7 +331,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
   <tr> 
    <td>20 december 2018</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms Service Pack 3 Forms add-on pakket voor AEM 6.4.3.0</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-AIX">AEM Forms-invoegtoepassing voor AIX</a></li> 
