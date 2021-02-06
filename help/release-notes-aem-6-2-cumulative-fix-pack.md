@@ -1,10 +1,10 @@
 ---
 title: AEM 6.2 Cumulatieve Fix Pack
-description: 'null'
+description: Experience Manager 6.2 Opmerkingen bij de release Cumulative Fix Pack. Dig dieper in op de problemen die zijn vastgesteld in verschillende cumulatieve fixeerpakketten in Experience Manager-onderdelen.
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
 workflow-type: tm+mt
-source-wordcount: '19916'
+source-wordcount: '19937'
 ht-degree: 0%
 
 ---
@@ -1690,7 +1690,7 @@ De het werkschemaconsole van Projecten toont een NullPointerException op pagina 
 
 **Mobile Forms**
 
-* In de voorvertoning van mobiele formulieren wordt overlappende inhoud weergegeven, maar het formulier wordt correct weergegeven voor PDF-weergave. NPR-17105
+* In het voorbeeld van mobiele formulieren wordt overlappende inhoud weergegeven, maar het formulier wordt correct weergegeven voor PDF-rendering. NPR-17105
 
 **Forms Portal**
 
