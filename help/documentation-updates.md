@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of veranderd in [!DNL Experience Manager] documentatie is
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
+source-git-commit: 94a5511d9f88f023fa8947dd4cf4ff7a43979dac
 workflow-type: tm+mt
-source-wordcount: '3219'
+source-wordcount: '3220'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 >
 >AEM als Cloud Service wordt maandelijks vrijgegeven.
 >
->Zie [Release-aantekeningen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) voor documentatie met betrekking tot de afzonderlijke versies (huidige en oudere versies).
+>Zie [Release-aantekeningen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) voor documentatie met betrekking tot de afzonderlijke versies (huidige en eerdere versies).
 
 | Date | Onderwerp | Wijzigingen |
 | --- | --- | --- |
