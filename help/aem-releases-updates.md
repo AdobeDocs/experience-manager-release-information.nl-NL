@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] releaseupdates'
 description: '[!DNL Adobe Experience Manager] releaseupdates'
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 6435add7b1aee2a5a2b1d0f0a0d37c3c55885672
+source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '310'
 ht-degree: 2%
 
 ---
@@ -23,15 +23,11 @@ In dit artikel wordt de meest recente versie voor elke releasecategorie weergege
 
 [!DNL Experience Manager] als  [!DNL Cloud Service] volgt op een maandrelease cadence. Als gevolg hiervan zijn nieuwe functies elke maand beschikbaar als doorlopende updates naar [!DNL Experience Manager].
 
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020 11,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
-
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020 10,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
-
-De opmerkingen bij de maandelijkse release bevatten ook een nieuwe sectie die is gecategoriseerd op componentnamen. Voor meer informatie over de vorige [!DNL Experience Manager]als [!DNL Cloud Service] versies, zie [alle versienota&#39;s voor [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html).
+Zie [[!DNL Experience Manager] als a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) voor details van de huidige (recentste) versie. Van hieruit kunt u ook naar details van eerdere versies (chronologisch gerangschikt) navigeren.
 
 ## [!DNL Experience Manager] on-premisse en beheerde services  {#aem-on-prem-managed-services}
 
-Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een lijst van de recentste Cumulatieve versie van Fix Pack, de recentste versie van Service Pack, en de belangrijkste versie en leidt u aan de documentatie voor die versieversies. [!DNL Adobe] raadt u aan het nieuwste servicepack te bekijken en toe te passen, gevolgd door het nieuwste cumulatieve fixpack voor uw  [!DNL Experience Manager] versie, zodat uw implementatie stabiel, veilig en up-to-date blijft.
+Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een lijst van de recentste Cumulatieve versie van Fix Pack, de recentste versie van Service Pack, en de belangrijkste versie en leidt u aan de documentatie voor die versieversies. [!DNL Adobe] raadt u aan het nieuwste servicepakket te bekijken en toe te passen, gevolgd door het nieuwste cumulatieve reparatiepakket voor uw  [!DNL Experience Manager] versie, zodat uw implementatie stabiel, veilig en up-to-date blijft.
 
 ### [!DNL Experience Manager] 6,5  {#aem-65}
 
