@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] releaseupdates'
 description: '[!DNL Adobe Experience Manager] releaseupdates'
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 73b15ea55fcd259dd514be990cb2c78e86737591
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een li
 
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
 
 * [[!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
 
@@ -43,7 +43,7 @@ Zie [nieuw in [!DNL Experience Manager] 6.5 Service Packs](https://experiencelea
 
 [!DNL Experience Manager] 6.4 productupdates worden geleverd via driemaandelijkse GVB&#39;s. Dit zijn onder andere foutoplossingen.
 
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulatief Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
+* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulatief Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
 
 * [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html)
 
