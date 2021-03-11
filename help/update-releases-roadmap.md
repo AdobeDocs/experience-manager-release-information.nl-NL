@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] routekaart voor releases'
 description: '[!DNL Adobe Experience Manager] routekaart voor releases'
 translation-type: tm+mt
-source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '347'
 ht-degree: 5%
 
 ---
@@ -24,8 +24,6 @@ ht-degree: 5%
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.1.0 | 2021,1,0 | Maandelijkse release | 28 januari 2021 |
-| [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.2.0 | 2021,2,0 | Maandelijkse release | 25 februari 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.3.0 | 2021,3,0 | Maandelijkse release | 25 maart 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.4.0 | 2021,4,0 | Maandelijkse release | 29 april 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.5.0 | 2021,5,0 | Maandelijkse release | 27 mei 2021 |
@@ -48,7 +46,6 @@ Productupdates in termen van nieuwe eigenschappen, verhogingen, en insectenmoeil
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0. | Service Pack | 11 maart 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0. | Service Pack | 27 mei 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0. | Service Pack | 26 aug. 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0. | Service Pack | 25 nov. 2021 |
@@ -59,19 +56,7 @@ Productupdates in termen van nieuwe eigenschappen, verhogingen, en insectenmoeil
 
 ### [!DNL Experience Manager] 6,4  {#aem64}
 
-[!DNL Experience Manager] 6.4 productupdates worden geleverd via driemaandelijkse GVB&#39;s. Dit zijn onder andere foutoplossingen. Zie [[!DNL Experience Manager] 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) voor meer informatie over het meest recente vrijgegeven GVB.
-
-| Geen | Versie | Type | Schema |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.4 Service Pack 8 GVB 4 | 6.4.8.4. | Cumulatief reparatiepakket | 25 feb. 2021 |
-
->[!NOTE]
->
->[!DNL Experience Manager] Forms geeft de invoegpakketten één week na de geplande releasedatum voor  [!DNL Experience Manager] Cumulative Fix Pack uit.
-
->[!NOTE]
->
->[!DNL Experience Manager] 6.4 Service Pack 8 GVB 4 is het laatste GVB voor  [!DNL Experience Manager] 6.4.
+[!DNL Experience Manager] 6.4 Service Pack 8 GVB 4 is het laatste GVB voor  [!DNL Experience Manager] 6.4. Voor meer informatie over het meest recente vrijgegeven GVB, zie  [[!DNL Experience Manager] 6.4 Cumulative Fix Pack versienota](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
 
 >[!MORELIKETHIS]
 >
