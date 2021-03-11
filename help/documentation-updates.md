@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of veranderd in [!DNL Experience Manager] documentatie is
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '3220'
+source-wordcount: '3254'
 ht-degree: 2%
 
 ---
@@ -58,6 +58,7 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 
 | Datum | Onderwerp | Wijzigingen |
 | --- | --- | --- |
+| 11 mrt. 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 25 november 2020 | Toegankelijkheid in Dynamic Media | Dynamic Media en Dynamic Media Viewers ondersteunen toetsenbordbesturing en ondersteunende hulpmiddelen, zoals JAWS en NVDA-schermlezers, in de hele gebruikersinterface voor het schrijven van programmacode. Zie [Toegankelijkheid in Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic). |
 | 26 november 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 3 september 2020 | CDN-validatie in Dynamic Media | U kunt nu een aanvraag vanuit Dynamic Media verzenden om de CDN-cache binnen enkele minuten te laten verlopen. Deze functie is handig wanneer u elementen bijwerkt en u wilt dat deze wijzigingen direct op uw website van kracht worden.<br>Zie De CDN-cache  [ongeldig maken via Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
@@ -79,6 +80,7 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 
 | Datum | Onderwerp | Wijzigingen |
 | --- | --- | --- |
+| 25 februari 2021 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulatief Fix Pack 4 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) is beschikbaar. |
 | 26 november 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulatief Fix Pack 3 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) is beschikbaar. |
 | 3 september 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulatief Fix Pack 2 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 2](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html) is beschikbaar. |
 | 29 juli 2020 | [Beheer van meerdere sites] | Er zijn updates aangebracht in de procedures [Nieuwe synchronisatiehandeling maken](https://docs.adobe.com/content/help/en/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) en [Een nieuwe uitrolconfiguratie maken.](https://docs.adobe.com/content/help/en/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) |
