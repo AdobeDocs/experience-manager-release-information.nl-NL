@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of veranderd in [!DNL Experience Manager] documentatie is
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
 workflow-type: tm+mt
-source-wordcount: '3254'
+source-wordcount: '3247'
 ht-degree: 2%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # [!DNL Experience Manager] Documentatie: Recente documentatieupdates  {#aem-documentation-recent-documentation-updates}
 
-Deze pagina bevat belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager] sinds het begin van het nieuwe jaar.
+Deze pagina bevat belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager].
 
 U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekijken.
 
