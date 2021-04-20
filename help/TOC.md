@@ -7,9 +7,9 @@ user-guide-title: Updates van de Adobe Experience Manager-release en Routekaart
 breadcrumb-title: Release-informatie AEM
 user-guide-description: Bekijk de nieuwste AEM release-updates.
 feature-set: Experience Manager
-feature: Geen informatie
-role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practice
-level: Begin, tussenpersoon, ervaren
+feature: Release Information
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: tm+mt
