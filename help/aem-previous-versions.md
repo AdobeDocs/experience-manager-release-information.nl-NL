@@ -1,14 +1,14 @@
 ---
 title: Oudere versies van AEM, CQ en CRX
 description: Documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
+exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 translation-type: tm+mt
-source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
+source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
-
 
 # Oudere versies van [!DNL Adobe Experience Manager], CQ, en CRX {#older-versions-aem-cq-crx}
 
@@ -71,13 +71,17 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 ### Installeer het pakket op uw lokale instantie {#install-package-local-instance}
 
+>[!NOTE]
+>
+>Voor AEM 6.2, zou u uw lokale instantie met een verhoogde maximumheapgrootte kunnen moeten beginnen, door dit bevel bijvoorbeeld te gebruiken: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+
 1. Open de [!DNL Experience Manager] gebruikersinterface. Voer in een webbrowser de volgende gegevens in: `http://localhost:4502/`. Meld u aan als beheerder.
 
 1. Selecteer **[!UICONTROL Tools]** > **[!UICONTROL Deployment]** > **[!UICONTROL Packages]**.
 
 1. Van de UI van de Manager van het Pakket, uitgezochte **[!UICONTROL Upload Package]**.
 
-1. Blader naar de locatie waar u het AEM 5.6.1-pakket (aem-docs-5-6-1.zip) hebt gedownload.
+1. Blader naar de locatie waar u het AEM hebt gedownload.
 
 1. Selecteer het pakket en klik **[!UICONTROL OK]**.
 
@@ -87,7 +91,7 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 1. Selecteer **[!UICONTROL Install]** nogmaals in het bevestigingsdialoogvenster. Opmerking: de installatie zal een paar minuten duren .
 
-1. Start de documentatiepagina in een webbrowser. Als u het voorbeeld AEM 5.6.1 gebruikt, is de URL: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Start de documentatiepagina in een webbrowser. Gebruikend het AEM 5.6.1 voorbeeld, zou URL zijn: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Help ophalen van de [!DNL Experience Manager]-community {#get-help-from-aem-community}
 
