@@ -2,14 +2,14 @@
 title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of veranderd in [!DNL Experience Manager] documentatie is
 contentOwner: trushton
+exl-id: 8c136a03-f961-4854-af38-45457b85d289
 translation-type: tm+mt
-source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
+source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
 workflow-type: tm+mt
 source-wordcount: '3247'
 ht-degree: 2%
 
 ---
-
 
 # [!DNL Experience Manager] Documentatie: Recente documentatieupdates  {#aem-documentation-recent-documentation-updates}
 
@@ -27,7 +27,7 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 
 | Date | Onderwerp | Wijzigingen |
 | --- | --- | --- |
-| 2 december 2020 | Voorinstellingen batchset | Leer hoe u afbeeldingssets kunt automatiseren en het maken van centrifuges kunt uitvoeren met behulp van voorinstellingen voor batchsets in Dynamic Media. Zie [Voorinstellingen batchset](https://experienceleague.corp.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia). |
+| 2 december 2020 | Voorinstellingen batchset | Leer hoe u afbeeldingssets kunt automatiseren en het maken van centrifuges kunt uitvoeren met behulp van voorinstellingen voor batchsets in Dynamic Media. Zie [Voorinstellingen batchset](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia). |
 | 2 december 2020 | Toegankelijkheid in Dynamic Media | Dynamic Media en Dynamic Media Viewers ondersteunen toetsenbordbesturing en ondersteunende hulpmiddelen, zoals JAWS en NVDA-schermlezers, in de hele gebruikersinterface voor het schrijven van programmacode. Zie [Toegankelijkheid in Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/accessibility-dm.html#dynamicmedia). |
 | 29 oktober 2020 | Kernonderdelen | Versie 2.12.0 van de Componenten van de kern introduceert een nieuwe POST vormmanager; de mogelijkheid om aangepaste CSS-, JavaScript- en metagegevenstags op te nemen via een contextbewuste configuratie; en een **DataLayerBuildernut** om de integratie van de gegevenslaag in douanecomponenten te vereenvoudigen. De versie is beschikbaar samen met [ontwerpdocumentatie](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) en [ontwikkelaardetails en projectdownload beschikbaar op GitHub.](https://github.com/adobe/aem-core-wcm-components) |
 | 24 september 2020 | Inbox-melding na een nieuwe Dynamic Media-configuratie | Wanneer een nieuwe configuratie van Dynamic Media zijn opstelling beëindigt, zult u een statusbericht binnen [!DNL Experience Manager] Inbox ontvangen. Deze melding geeft aan of de configuratie is gelukt. Als de configuratie ontbreekt, geeft het bericht u een foutencode. Gebruik deze foutcode wanneer u contact opneemt met de Adobe.<br>Zie  [Problemen met een nieuwe Dynamic Media-configuratie oplossen.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#troubleshoot-dm-config) |
