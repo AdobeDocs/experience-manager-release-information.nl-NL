@@ -2,10 +2,9 @@
 title: '[!DNL Adobe Experience Manager] routekaart voor releases'
 description: '[!DNL Adobe Experience Manager] routekaart voor releases'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-translation-type: tm+mt
-source-git-commit: e73837adaeb3407c4c92de0c927e92e0044dac27
+source-git-commit: 0926a739fe07b10b425d198317a92724fcc85503
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 4%
 
 ---
@@ -24,7 +23,6 @@ ht-degree: 4%
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.4.0 | 2021,4,0 | Maandelijkse release | 6 mei 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.5.0 | 2021,5,0 | Maandelijkse release | 27 mei 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.6.0 | 2021,6,0 | Maandelijkse release | 24 juni 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.7.0 | 2021,7,0 | Maandelijkse release | 29 juli 2021 |
@@ -39,7 +37,7 @@ Naast de maandelijkse versies zijn verschillende kritieke updates beschikbaar in
 
 Productupdates in termen van nieuwe eigenschappen, verhogingen, en insectenmoeilijke situaties voor gesteunde [!DNL Experience Manager] op-gebouw en beheerde diensten worden geleverd door driemaandelijkse de dienstpakken en Cumulatieve Pakken van de Correctie (GFPs). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
-### [!DNL Experience Manager] 6,5  {#aem65}
+### [!DNL Experience Manager] 6,5 {#aem65}
 
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager] 6.5 de versienota&#39;s van het de dienstpak](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html).
 
@@ -53,7 +51,7 @@ Productupdates in termen van nieuwe eigenschappen, verhogingen, en insectenmoeil
 >
 >[!DNL Experience Manager] Forms geeft de add-on pakketten één week na de geplande releasedatum van  [!DNL Experience Manager] Service Pack vrij.
 
-### [!DNL Experience Manager] 6,4  {#aem64}
+### [!DNL Experience Manager] 6,4 {#aem64}
 
 [!DNL Experience Manager] 6.4 Service Pack 8 GVB 4 is het laatste GVB voor  [!DNL Experience Manager] 6.4. Voor meer informatie over het meest recente vrijgegeven GVB, zie  [[!DNL Experience Manager] 6.4 Cumulative Fix Pack versienota](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
 
