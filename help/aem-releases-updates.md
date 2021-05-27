@@ -2,14 +2,13 @@
 title: '[!DNL Adobe Experience Manager] releaseupdates'
 description: '[!DNL Adobe Experience Manager] releaseupdates'
 contentOwner: AK
-translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 2%
 
 ---
-
 
 # [!DNL Adobe Experience Manager] releases en updates  {#aem-releases-and-updates}
 
@@ -33,7 +32,7 @@ Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een li
 
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
 
 * [[!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
 
