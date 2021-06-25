@@ -2,10 +2,9 @@
 title: Oudere versies van AEM, CQ en CRX
 description: Documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-translation-type: tm+mt
-source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -20,7 +19,7 @@ De versies van [!DNL Experience Manager], CQ en CRX die op deze pagina worden ve
 >
 >Als u wilt weten wanneer een [!DNL Experience Manager]-versie het einde van de kernondersteuning bereikt, raadpleegt u [producten en technische ondersteuningsperioden](https://helpx.adobe.com/support/programs/eol-matrix.html) en doorzoekt u `AEM`.
 
-### Voordat u {#before-installation} installeert
+### Voordat u gaat installeren {#before-installation}
 
 Voordat u het pakket downloadt, moet u bepalen wie de inhoud zal verbruiken. Dit besluit zal bepalen hoe het wordt opgesteld:
 
@@ -40,6 +39,7 @@ Als u hulp nodig hebt bij het maken of beheren van uw Adobe ID, [raadpleeg dan d
 
 | [!DNL Experience Manager] Versie | Software Distribution Link |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6,3 | [Download AEM-DOCS-6.3 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6,2 | [Download AEM-DOCS-6.2 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6,1 | [Download AEM-DOCS-6.1 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
 | [!DNL Experience Manager] 6,0 | [Download AEM-DOCS-6.0 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
@@ -69,7 +69,7 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 ![Voorbeeld van softwaredistributie](assets/screen_shot_2020-07-10at161922.jpg)
 
-### Installeer het pakket op uw lokale instantie {#install-package-local-instance}
+### Het pakket op uw lokale instantie installeren {#install-package-local-instance}
 
 >[!NOTE]
 >
@@ -93,6 +93,6 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 1. Start de documentatiepagina in een webbrowser. Gebruikend het AEM 5.6.1 voorbeeld, zou URL zijn: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
-## Help ophalen van de [!DNL Experience Manager]-community {#get-help-from-aem-community}
+## Hulp van de [!DNL Experience Manager]-community {#get-help-from-aem-community}
 
 Als u vragen hebt over het gebruiken van Experience Manager, adviseren wij dat u [tot onze ervaren communautaire deskundigen in  [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) richt.
