@@ -8,10 +8,9 @@ breadcrumb-title: Release-informatie AEM
 user-guide-description: Bekijk de nieuwste AEM release-updates.
 feature-set: Experience Manager
 feature: Geen informatie
-role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: e89dcf7b57b2af9674fd5016f0764311702966a7
+source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -19,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Updates bij de release van Adobe Experience Manager en Routekaart {#aem-release-updates}
+# Updates van de Adobe Experience Manager-release en Routekaart {#aem-release-updates}
 
 + [Homepage van informatie vrijgeven](home.md)
 + [Updates AEM](aem-releases-updates.md)
