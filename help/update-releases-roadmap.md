@@ -2,14 +2,14 @@
 title: '[!DNL Adobe Experience Manager] routekaart voor releases'
 description: '[!DNL Adobe Experience Manager] routekaart voor releases'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
+source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '317'
 ht-degree: 4%
 
 ---
 
-# [!DNL Experience Manager] routekaart voor releases  {#aem-releases-roadmap}
+# [!DNL Experience Manager] routekaart voor releases {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] biedt voortdurend nieuwe functies, verbeteringen aan bestaande functies en oplossingen voor problemen voor gebruikers die het product gebruiken, Managed Services  [!DNL Cloud Service]en on-premise aanbiedingen. Dit artikel maakt een lijst van de aanstaande versies voor [!DNL Experience Manager].
 
@@ -23,8 +23,6 @@ ht-degree: 4%
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.5.0 | 2021,5,0 | Maandelijkse release | 27 mei 2021 |
-| [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.6.0 | 2021,6,0 | Maandelijkse release | 24 juni 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.7.0 | 2021,7,0 | Maandelijkse release | 29 juli 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.8.0 | 2021,8,0 | Maandelijkse release | 26 augustus 2021 |
 | [!DNL Experience Manager] als  [!DNL Cloud Service] 2021.9.0 | 2021,9,0 | Maandelijkse release | 30 september 2021 |
@@ -33,7 +31,7 @@ ht-degree: 4%
 
 Naast de maandelijkse versies zijn verschillende kritieke updates beschikbaar in [!DNL Experience Manager] als [!DNL Cloud Service] met een dagelijkse releasefrequentie.
 
-## [!DNL Experience Manager] on-premisse en beheerde services  {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] on-premisse en beheerde services {#aem-on-prem-managed-services}
 
 Productupdates in termen van nieuwe eigenschappen, verhogingen, en insectenmoeilijke situaties voor gesteunde [!DNL Experience Manager] op-gebouw en beheerde diensten worden geleverd door driemaandelijkse de dienstpakken en Cumulatieve Pakken van de Correctie (GFPs). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
