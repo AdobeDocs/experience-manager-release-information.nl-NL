@@ -3,14 +3,14 @@ title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of veranderd in [!DNL Experience Manager] documentatie is
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
 workflow-type: tm+mt
-source-wordcount: '3262'
+source-wordcount: '3277'
 ht-degree: 2%
 
 ---
 
-# [!DNL Experience Manager] Documentatie: Recente documentatieupdates  {#aem-documentation-recent-documentation-updates}
+# [!DNL Experience Manager] Documentatie: Recente documentatieupdates {#aem-documentation-recent-documentation-updates}
 
 Deze pagina bevat belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager].
 
@@ -53,10 +53,11 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 | 25 februari 2020 | Op rollen gebaseerde machtigingen | Cloud Manager heeft vooraf geconfigureerde rollen met de juiste machtigingen. Elk van de rollen heeft specifieke toestemmingen, vooraf geconfigureerde taken, of toestemmingen, verbonden aan elke rol. [Op rol gebaseerde toestemmingen ](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/what-is-required/role-based-permissions.html) pagineren de beschikbare functies en de rollen die de functie kunnen uitvoeren. |
 | 15 februari 2020 | Dispatcher in de cloud | De secties [Dispatcher en CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) en [Expliciete invalidatie van het cachegeheugen van de Verzender](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) zijn bijgewerkt om de beschikbare opties en de manier waarop ze werken te verduidelijken. |
 
-## [!DNL Experience Manager] 6,5  {#aem-65}
+## [!DNL Experience Manager] 6,5 {#aem-65}
 
 | Datum | Onderwerp | Wijzigingen |
 | --- | --- | --- |
+| 26 augustus 2021 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 27 mei 2021 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 11 mrt. 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 25 november 2020 | Toegankelijkheid in Dynamic Media | Dynamic Media en Dynamic Media Viewers ondersteunen toetsenbordbesturing en ondersteunende hulpmiddelen, zoals JAWS en NVDA-schermlezers, in de hele gebruikersinterface voor het schrijven van programmacode. Zie [Toegankelijkheid in Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic). |
@@ -76,7 +77,7 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 | 5 maart 2020 | [!DNL Experience Manager] 6.5 Service Pack 4 | [[!DNL Experience Manager] 6.5 Service Pack 4](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/sp-release-notes.html) is beschikbaar. |
 | 4 maart 2020 | Dynamic Media configureren - Scene7-modus | Een nieuwe optie Alle inhoud synchroniseren is nu beschikbaar op de Dynamic Media-configuratiepagina in Opties > Cloud Services.<br>Zie Een Dynamic Media-configuratie  [maken.](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services) |
 
-## [!DNL Experience Manager] 6,4  {#aem-64}
+## [!DNL Experience Manager] 6,4 {#aem-64}
 
 | Datum | Onderwerp | Wijzigingen |
 | --- | --- | --- |
@@ -90,7 +91,7 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 | 30 maart 2020 | Dynamic Media - Smart Imaging | Het volledige Help-onderwerp voor Smart Imaging is bijgewerkt met nieuwe informatie, waaronder voorbeelden van afbeeldingselementen die de toegevoegde optimalisatie voor Smart Imaging weergeven.<br>Zie  [Slimme afbeeldingen.](https://docs.adobe.com/content/help/en/experience-manager-64/assets/dynamic/imaging-faq.html) |
 | 5 maart 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 | [[!DNL Experience Manager] 6.4 Service Pack 8](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html) is beschikbaar. |
 
-## [!DNL Experience Manager] 6,3  {#aem-2}
+## [!DNL Experience Manager] 6,3 {#aem-2}
 
 | Datum | Onderwerp | Wijzigingen |
 | --- | --- | --- |
@@ -98,19 +99,19 @@ U kunt [vorige documentatieupdates](previous-documentation-updates.md) ook bekij
 | 30 maart 2020 | Dynamic Media - Smart Imaging | Het volledige Help-onderwerp Slimme afbeeldingen is bijgewerkt met nieuwe informatie.<br>Zie  [Slimme afbeeldingen.](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html) |
 | 5 maart 2020 | [!DNL Experience Manager] 6.3.3.8. | [Cumulatief Fix Pack 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) voor  [!DNL Experience Manager] 6.3 is beschikbaar. |
 
-## [!DNL Experience Manager] 6,2  {#aem-62}
+## [!DNL Experience Manager] 6,2 {#aem-62}
 
 | Datum | Onderwerp | Wijzigingen |
 |---|---|---|
 | 19 juni 2020 | Adobe Experience Manager | Bij Adobe streven we ernaar om eerlijke terminologie te gebruiken in onze code, onze documentatie en onze ervaringen.<br>Daarom hebben we een aantal wijzigingen aangebracht in deze documentatiereeks en zullen we dat ook in de toekomst blijven doen. |
 
-## [!DNL Experience Manager] 6,1  {#aem-61}
+## [!DNL Experience Manager] 6,1 {#aem-61}
 
 | Datum | Onderwerpen | Wijzigingen |
 |---|---|---|
 | 19 juni 2020 | Adobe Experience Manager | Bij Adobe streven we ernaar om eerlijke terminologie te gebruiken in onze code, onze documentatie en onze ervaringen.<br>Daarom hebben we een aantal wijzigingen aangebracht in deze documentatiereeks en zullen we dat ook in de toekomst blijven doen. |
 
-## [!DNL Experience Manager] bureaubladtoepassing  {#aem-desktop-app}
+## [!DNL Experience Manager] bureaubladtoepassing {#aem-desktop-app}
 
 | Datum | Onderwerpen | Wijzigingen |
 |---|---|---|
