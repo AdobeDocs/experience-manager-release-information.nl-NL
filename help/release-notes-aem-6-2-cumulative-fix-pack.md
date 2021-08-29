@@ -1,21 +1,20 @@
 ---
 title: AEM 6.2 Cumulatieve Fix Pack
 description: Experience Manager 6.2 Opmerkingen bij de release Cumulative Fix Pack. Dig dieper in op de problemen die zijn vastgesteld in verschillende cumulatieve fixeerpakketten in Experience Manager-onderdelen.
-translation-type: tm+mt
-source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
+exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
+source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
 workflow-type: tm+mt
-source-wordcount: '19937'
+source-wordcount: '19931'
 ht-degree: 0%
 
 ---
-
 
 # AEM 6.2 Opmerkingen bij de release Cumulative Fix Pack{#release-notes-aem-cumulative-fix-pack}
 
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
 -->
 
-## Informatie {#release-information} opheffen
+## Gegevens vrijgeven {#release-information}
 
 | **Product** | Adobe Experience Manager |
 |---|---|
@@ -34,7 +33,7 @@ Adobe introduceerde een single-delivery model voor het vrijgeven van moeilijke s
 
 Voor meer informatie over GFP en andere soorten versies, zie [Maintenance Release Vehicle](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
 
-## Informatie over de release {#about-the-release}
+## Over de release {#about-the-release}
 
 AEM Cumulative Fix Pack 6.2 SP1-GVB20 is het laatste Cumulatieve Pak van de Fix voor AEM 6.2 en is een belangrijke update die zeer belangrijke klantenmoeilijke situaties omvat die sinds de algemene beschikbaarheid van [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) worden vrijgegeven.
 
@@ -45,18 +44,15 @@ AEM Cumulative Fix Pack 6.2 SP1-GVB20 is het laatste Cumulatieve Pak van de Fix 
 >[!NOTE]
 >
 >* Een nieuwe bundel `discovery-  api` bundel Johnzon 1.0.0 is inbegrepen met AEM Cumulative Fix Pack 6.2 SP1-GVB10. Bovendien wordt een gebruiker van de dienstgebruiker sling-Discovery toegevoegd met lees en schrijf voorrechten voor de knoop */var/discovery* in de bewaarplaats van CRX.
-   >
-   >
-* De e-mailbundel van apache commons **org.apache.commons/commons-email/1.5** is toegevoegd en vervangt **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
-   >
-   >
-* Adobe raadt aan om gestreken fijn papier via de installatiemap te implementeren voor klanten met een groot aantal gebruikers AEM.
+>
+>* De e-mailbundel van apache commons **org.apache.commons/commons-email/1.5** is toegevoegd en vervangt **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
+>
+>* Adobe raadt aan om gestreken fijn papier via de installatiemap te implementeren voor klanten met een groot aantal gebruikers AEM.
 
 >
 
 
-
-## Inbegrepen kwesties {#issues-included}
+## Ingesloten problemen {#issues-included}
 
 In deze sectie worden alle problemen en hotfixes vermeld die in het huidige GVB zijn opgenomen.
 
@@ -97,7 +93,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Wanneer alle handtekeningen in een PDF worden gecontroleerd met PDF Advanced Electronic Signatures (PAdES), wordt InvalidOperationException gegenereerd. NPR-27848: Hotfix voor CQ-4244837
 
-#### Forms - correspondentie {#forms-correspondence}
+#### Forms - Correspondentie {#forms-correspondence}
 
 * Als de letter wordt voorvertoond als PDF, wordt het tekstveld op de master pagina niet gebruikt voor de opgegeven waarde op het tabblad Gegevens of de opgegeven gegevenskoppeling. NPR-29239: Hotfix voor CQ-4266856.
 
@@ -109,7 +105,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Geen nieuwe AEM Forms-oplossingen gevonden in Forms JEE-installatieprogramma.
 
-## Hotfixes en de Pakken van de Eigenschap inbegrepen in vorige Cumulatieve Packs van de Moeilijke situatie {#hotfixes-and-feature-packs-included-in-previous-cumulative-fix-packs}
+## Hotfixes en de Pakken van de Eigenschap inbegrepen in vorige Cumulatieve Pakken van de Moeilijke situatie {#hotfixes-and-feature-packs-included-in-previous-cumulative-fix-packs}
 
 ### Cumulatief Fix Pack 19 {#cumulative-fix-pack-1}
 
@@ -153,7 +149,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 * Woordenboek is niet ongeldig voor resourcebundels die sling:basename gebruiken. NPR-27624
 
-### Aanwezigheid {#sustenance}
+### Sustenance {#sustenance}
 
 * Activiteitenlogbestanden voor pakketbeheer moeten worden uitgepakt in een afzonderlijk logbestand. NPR-27323: Hotfix voor graniet-14866
 * Een gestandaardiseerde uitdrukking/formulering/loglijn(en) in error.log die moet worden weergegeven wanneer de installatie is voltooid. NPR-27835
@@ -174,7 +170,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Geen nieuwe AEM Forms-oplossingen gevonden in Forms JEE-installatieprogramma.
 
-### OSGI-pakketten en -inhoudspakketten zijn opgenomen {#osgi-bundles-and-content-packages-included}
+### SDAB-pakketten en -inhoudspakketten {#osgi-bundles-and-content-packages-included}
 
 In de volgende tekst wordt de lijst met OSGI-bundels en -inhoudspakketten in het GVB opgenomen.
 
@@ -196,7 +192,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Het lek in ReplicationEventListener is gecorrigeerd voor een sessie.
 * Ondersteuning voor omleiding is toegevoegd aan de basispaginacomponent.
 
-### Elementen {#assets-1}
+### Activa {#assets-1}
 
 * Camera Raw processen blijven vastzitten tijdens perioden van enorme inname, waardoor uiteindelijk alle workflowverwerking wordt geblokkeerd. NPR-26990: Hotfix voor NPR-23860
 * De downloadfunctionaliteit gebruikt AEM Assets via assetdownload servlet, zodat anonieme gebruikers alle middelen kunnen downloaden. NPR-27054, Hotfix voor CQ-4254732
@@ -216,7 +212,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 * com.day.cq.personalization.impl.BrandsRetriever loopt de volledige boom om de beschikbare merken te verzamelen. NPR-27060: Hotfix voor CQ-4255790
 
-### WCM - Elementen {#wcm-foundation-components}
+### WCM - Elementen van de Stichting {#wcm-foundation-components}
 
 * Probleem met zoekfunctionaliteit met de lijstcomponent Foundation. NPR-26817: Hotfix voor CQ-4250324
 
@@ -244,7 +240,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Geen nieuwe AEM Forms-oplossingen gevonden in Forms JEE-installatieprogramma.
 
-#### OSGI-pakketten en -inhoudspakketten zijn opgenomen {#osgi-bundles-and-content-packages-included-1}
+#### SDAB-pakketten en -inhoudspakketten {#osgi-bundles-and-content-packages-included-1}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB18
 
@@ -265,12 +261,12 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Veranderingen in de mening van het publiek om omslagstructuur voor multi-huurdersimplementatie te steunen.
 * Bijwerken naar jqueryui   clientlib v1.12.1.
 
-### Elementen {#assets-2}
+### Activa {#assets-2}
 
 * Voor het starten van workflows vanuit de gebruikersinterface van middelen moet de gebruiker beschikken over de machtigingen voor schrijven, verwijderen en wijzigen. NPR-25688: Hotfix voor CQ-4250140
 * De knoppen Publiceren en Publiceren worden zichtbaar, zelfs voor gebruikers die geen machtigingen voor repliceren hebben. NPR-25094
 * (Workflow) De workflow Slim tagelement wordt niet verwerkt door de AEM proxyconfiguratie. NPR-25915: Hotfix voor CQ-4248202
-* Verwijder de S7-pollingimporter uit de S7-cloudserviceconfiguratie. NPR-25239: Hotfix voor CQ-95236
+* Verwijder de S7-opiniepeilingimportmodule uit de S7-cloudserviceconfiguratie. NPR-25239: Hotfix voor CQ-95236
 
 ### Sites {#sites-2}
 
@@ -329,14 +325,14 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Niet-verwante formulierelementen die als verwijzingen worden gerapporteerd tijdens het publiceren van de pagina. NPR-26167: Hotfix voor CQ-4251004
 
-### Forms - JEE-installatieprogramma {#forms-jee-installer-3}
+### Forms - JEE Installer {#forms-jee-installer-3}
 
 #### Documentbeveiliging {#document-security}
 
 * Variabele wordt gevuld met gegevenstype List, subtype is tekenreeks, maar fout &#39;kan object niet dwingen&#39;. NPR-26194: Hotfix voor CQ-4252287
 * Kan geen toegang krijgen tot watermerkconfiguraties na installatie van 6.2-SP1-GVB15. NPR-26130: Hotfix voor CQ-4250984
 
-### OSGI-pakketten en -inhoudspakketten zijn opgenomen {#osgi-bundles-and-content-packages-included-2}
+### SDAB-pakketten en -inhoudspakketten {#osgi-bundles-and-content-packages-included-2}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB17
 
@@ -357,7 +353,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Oplossingen in de functionaliteit voor weergeven/verbergen van een vervolgkeuzelijst.
 * Upgrade naar nieuwste Jackson versie 2.8.11
 
-### Elementen {#assets-3}
+### Activa {#assets-3}
 
 * Kan geen workflow starten vanuit een lijstweergave. NPR-24393: Hotfix voor CQ-4245788
 * (Firefox/Chrome) Kan geen elementen downloaden op de pagina voor het delen van bedrijfsmiddelen. NPR-24523: Hotfix voor CQ-4224408
@@ -407,7 +403,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * De bewerkingen voor het lezen van metagegevens worden niet beëindigd. NPR-24240: Hotfix voor graniet-1986
 * Werk de functionaliteit bij naar 9.4.11.v20180605 om kwetsbaarheden te verhelpen. NPR-25033: Hotfix voor graniet-22120
 
-### WCM - Elementen {#wcm-foundation-components-1}
+### WCM - Elementen van de Stichting {#wcm-foundation-components-1}
 
 * PageComparator die ClassCastException werpt terwijl het sorteren van pagina&#39;s. NPR-24123: Hotfix voor CQ-4244048
 * De functionaliteit tonen/verbergen van de formuliervervolgkeuzelijst werkt niet zoals u had verwacht. NPR-24562: Hotfix voor CQ-4222853
@@ -448,7 +444,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * De lijneinden van het venster in het manuscriptdossiers van Shell veroorzaken LCM om niet in UNIX te lopen. NPR-22958
 
-### OSGI-pakketten en -inhoudspakketten zijn opgenomen {#osgi-bundles-and-content-packages-included-3}
+### SDAB-pakketten en -inhoudspakketten {#osgi-bundles-and-content-packages-included-3}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB16
 
@@ -470,7 +466,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Update naar het nieuwste bestand adobe-reader-extensions-dsc.jar voor oplossingen in Extension Reader.
 * Aangepaste validatiehaak om &#39;:invalid&#39; items voor de invoer van het verhogingsgetal te overwegen.
 
-### Elementen {#assets-4}
+### Activa {#assets-4}
 
 * De EmbedXMP-gegevens worden altijd ingesteld op &quot;actief&quot; voor het genereren van profielen. NPR-22776: Hotfix voor CQ-4234498
 * Kan meerdere standaardwaarden niet instellen in velden met meerdere waarden. NPR-22900: Hotfix voor CQ-4239000
@@ -517,7 +513,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Als u Omngelijkzoek gebruikt met een afbreekquery, wordt een serverfout geretourneerd. NPR-22999: Hotfix voor graniet-19674
 * DatePicker biedt geen ondersteuning voor het handmatig instellen van een hint voor externe tekst die door een verborgen veld wordt ingesteld. Als u de teksthint wijzigt, treedt er een omzettingsfout op. NPR-2333: Hotfix voor graniet-21194
 
-### WCM - Elementen {#wcm-foundation-components-2}
+### WCM - Elementen van de Stichting {#wcm-foundation-components-2}
 
 * De Component van CAPTCHA is afgekeurd voor betere veiligheid, als u component CAPTCHA gebruikt, dan bericht &quot;de component Captcha is afgekeurd en zou niet meer moeten worden gebruikt.&quot; zal na het installeren van 6.2 SP2-GVB15 of recentere versie worden getoond. AEM component kan worden aangepast om reCAPTCHA voor betere veiligheid NPR-22151 te omvatten: Hotfix voor CQ-4220052
 * De component van de Stichting WCM &quot;Lijst&quot;is kwetsbaar aan Opgeslagen dwars-Plaats Scripting. NPR-23206: Hotfix voor CQ-4240760
@@ -552,7 +548,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Proactieve hotfixes voor scripts die verwijzen naar andere sites. NPR-20624: Hotfix voor CQ-4206055
 * XSS-kwetsbaarheid (Storage Cross-Site Scripting) is opgeslagen op het tabblad Notities van Forms Manager. NPR-27157: Hotfix voor CQ-4255556
 
-#### Versleutelingsservice {#encryption-service}
+#### Coderingsservice {#encryption-service}
 
 * (OSGI) [JEE] Onjuiste handtekeningstatus voor PDF met bijlage bij verificatie met behulp van &quot;PDF-proces valideren&quot;. NPR-23269, NPR-23737
 
@@ -566,7 +562,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 * De convertor HTML naar PDF werkt niet. NPR-21545
 
-### OSGI-pakketten en -inhoudspakketten zijn opgenomen {#osgi-bundles-and-content-packages-included-4}
+### SDAB-pakketten en -inhoudspakketten {#osgi-bundles-and-content-packages-included-4}
 
 In de volgende tekst wordt de lijst met OSGI-bundels en -inhoudspakketten in het GVB opgenomen.
 
@@ -590,7 +586,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Bijgewerkte cq-msm-core voor efficiënte synchronisatie Livecopyindex.
 * Gestroomlijnde replicatiefunctionaliteit voor verschillende rollouts.
 
-### Elementen {#assets-5}
+### Activa {#assets-5}
 
 * Gebruikers kunnen geen elementen downloaden met een disclaimer- en lange bestandsnaam. NPR-22163: Hotfix voor CQ-4235274
 * Eén aanhalingsteken voorkomt dat de metagegevens worden bijgewerkt in de bulkweergave en de gebruikersinterface wordt volledig verbroken wanneer u de eigenschappen van een element opent met behulp van de snelle werkbalkhandelingen. NPR-22317, NPR-22353: Hotfix voor CQ-4236990, CQ-4236469
@@ -647,7 +643,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 * (Klassieke UI) De component toont de standaardwaarden zelfs als de bijbehorende modeldienst van vormgegevens aan leeg gebied wordt geplaatst. NPR-21903: Hotfix voor GRANITE-1974
 
-### WCM - Elementen {#wcm-foundation-components-3}
+### WCM - Elementen van de Stichting  {#wcm-foundation-components-3}
 
 * Fout bij het publiceren van een pagina van Actieve kopie die naar een pagina van de Importeur in de Campagnes van Adobe wijst. NPR-22470: Hotfix voor CQ-4237164
 * JavaScript-fouten tijdens het openen van de Experience Fragments Editor. NPR-22598: Hotfix voor CQ-4238415
@@ -668,7 +664,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 ### Forms JEE-installatieprogramma {#forms-jee-installer-6}
 
-#### LCM {#install-lcm} installeren
+#### LCM installeren {#install-lcm}
 
 * Jsafe Jars bijwerken naar Cryptoj 6.1.3.1 in installatieprogramma en LCM. NPR-22744
 
@@ -678,7 +674,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * (HTML Workspace) Wanneer een gebruiker een taak aanvraagt, wordt het aantal wachtrijen voor die bepaalde gebruiker vernieuwd, maar niet voor andere gebruikers, tenzij de pagina wordt vernieuwd. NPR-1978: Hotfix voor CQ-4233665
 
-### OSGI-bundels en inhoudspakketten opgenomen in GVB14 {#osgi-bundles-and-content-packages-included-in-cfp}
+### SDAB-pakketten en -inhoudspakketten in GVB14 {#osgi-bundles-and-content-packages-included-in-cfp}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB14
 
@@ -696,7 +692,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Oplossingen voor het gebruik van doelsynchronisatiepubliek.
 * Meer veelzijdigheid voor Correspondentiebeheer om speciale tekens te kunnen gebruiken.
 
-### Elementen {#assets-6}
+### Activa {#assets-6}
 
 * Versie wissen kan oude versies van elementen niet verwijderen. NPR-21682: Hotfix voor CQ-4212996
 * Het opnieuw ordenen van mappen onder een map die opnieuw kan worden geordend, duurt niet voort. NPR-21964: Hotfix voor CQ-4231761
@@ -726,7 +722,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 * jcr-eigenschap ontbreekt voor gebruikers-id van initiator tijdens het maken van een vertaalproject. NPR-21715: Hotfix voor CQ-4230713
 
-### WCM - Elementen {#wcm-foundation-components-4}
+### WCM - Elementen van de Stichting {#wcm-foundation-components-4}
 
 * De functionaliteit tonen/verbergen van de formuliervervolgkeuzelijst werkt niet zoals u had verwacht. NPR-22164: Hotfix voor CQ-4235288
 
@@ -748,7 +744,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 ### Forms JEE-installatieprogramma {#forms-jee-installer-7}
 
-#### Assembler Service {#assembler-service}
+#### Assembler-service {#assembler-service}
 
 * PDF-bestand dat is gegenereerd met 6.2.0-ASM-1017-003, is verbroken. NPR-21427: Hotfix voor CQ-4228046
 
@@ -756,7 +752,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * OCR-fout door onverwachte paginagrootte (PDF) van PNG-, JPEG- en TIFF-bestanden. NPR-19489: Hotfix voor CQ-4209079
 
-## OSGI-bundels en inhoudspakketten opgenomen in GVB13 {#osgi-bundles-and-content-packages-included-in-cfp-1}
+## SDAB-pakketten en -inhoudspakketten in GVB13 {#osgi-bundles-and-content-packages-included-in-cfp-1}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB13
 
@@ -775,7 +771,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verbeterde weergave van pagina&#39;s met meerdere geneste componenten.
 * Verbeterde synchronisatie van publicatiedata voor middelen tussen AEM en Adobe Digital Publishing Suite.
 
-### Elementen {#assets-7}
+### Activa {#assets-7}
 
 * Te veel tekens in OmniSearch zorgen ervoor dat AEM server vastloopt. NPR-21083: Hotfix voor CQ-4223602
 * Waarden die zijn opgegeven in de tweede optie in een multiwaardeveld in een metagegevensschema, worden niet toegevoegd aan de eerder opgegeven waarden in de CRX-de. NPR-21220: Hotfix voor CQ-4224526
@@ -846,7 +842,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Werk jsafe-jars bij naar cryptoj 6.1.3.1 in Core, Encryption, Signature &amp; Document Security. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
-#### LCM {#install-lcm-1} installeren
+#### LCM installeren {#install-lcm-1}
 
 * Werk Jsafe Jars bij naar Cryptoj 6.1.3.1 in installer &amp; LCM. NPR-21362
 
@@ -862,7 +858,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Werk jsafe jars bij naar cryptoj 6.1.3.1 in RE. NPR-21357
 
-## OSGI-bundels en -inhoudspakketten opgenomen in GVB12.1 {#osgi-bundles-and-content-packages-included-in-cfp-2}
+## SDAB-pakketten en -inhoudspakketten opgenomen in GVB12.1 {#osgi-bundles-and-content-packages-included-in-cfp-2}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB12.1
 
@@ -883,7 +879,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verbeterde mogelijkheden voor videocodering voor Dynamic Media-bestanden.
 * Oplossingen in Correcte Component en LiveCopies.
 
-### Elementen {#assets-8}
+### Activa {#assets-8}
 
 * Dynamic Media video encoding failed for files that include spaces in their names. NPR-20818: Hotfix voor CQ-102469
 * Meerdere XSS-kwetsbaarheden (cross-site scripting) in sommige SWF-bestanden in AEM snel begin CQ-auteur/-publicatie. NPR-21071, NPR-21072
@@ -929,7 +925,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Beveiligingspatch toegepast op Apache Sling XSS Protection API om de mogelijkheid van XSS-omzeilen uit te sluiten. NPR-21290: Hotfix voor GRANITE-19924
 * XSS-bypass in XSSAPI#getValidHref-functie. NPR-21174: Hotfix voor graniet-19924
 
-### Mobiele toepassingen {#mobile-apps}
+### Mobiele apps {#mobile-apps}
 
 * Correctie van problemen met curl Head-aanvragen voor OOTB-middelen in AEM. NPR-20511: Hotfix voor CQ-4221520 en CQ-103024
 
@@ -954,7 +950,7 @@ De belangrijkste markeringen voor AEM Forms zijn:
 
 ### Forms JEE-installatieprogramma {#forms-jee-installer-9}
 
-#### Assembler Service {#assembler-service-1}
+#### Assembler-service {#assembler-service-1}
 
 * docConvertor kan PDF/A niet maken met de fout &quot;Het voorvoegsel &quot;stEvent&quot; voor element &quot;stEvent:action&quot; is niet gebonden&quot;. NPR-21032: Hotfix voor CQ-4222540
 * Er wordt een uitzondering gegenereerd met de naam java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailedReason.SIGNED_IN_FUTURE while invoking service OMPFSubmission/PDFA/PDFtoPDFA. Hierdoor wordt voorkomen dat het kortstondige verificatieproces van handtekeningen wordt voltooid totdat de server opnieuw wordt gestart. NPR-20792
@@ -967,7 +963,7 @@ De belangrijkste markeringen voor AEM Forms zijn:
 
 * Met het voorbereiden van het gegevensproces worden meerdere malen aangeroepen wanneer het mobiele formulier wordt weergegeven met dataref-parameters. NPR-19801: Hotfix voor CQ-4230427: CQ-4230400
 
-## OSGI-bundels en inhoudspakketten opgenomen in GVB11 {#osgi-bundles-and-content-packages-included-in-cfp-3}
+## SDAB-pakketten en -inhoudspakketten in GVB11 {#osgi-bundles-and-content-packages-included-in-cfp-3}
 
 Lijst van OSGi-bundels opgenomen in AEM 6.2 SP1-GVB11
 
@@ -986,7 +982,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Prestaties worden hersteld in de component Multiple image in-place Editor.
 * Configuratie-updates in Apache Sling JCR ResourceBundleProvider.
 
-### Elementen {#assets-9}
+### Activa {#assets-9}
 
 * Voorvertoning van element werkt niet als workflows voor bijwerken van element zijn uitgeschakeld. NPR-20543: Hotfix voor CQ-4204986
 * Renderproblemen met klasse toegevoegd aan graniet: class, eigenschap (cq-damadmin-admin-assets-upload). NPR-20514: Hotfix voor CQ-4219238
@@ -1008,7 +1004,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 ### Platform {#platform-7}
 
-* Wanneer betreden het gebruiken van anonieme zitting, ClientLibraryProxyServlet geen volmachtsverzoeken aan cliëntbibliotheken op de publicatie instantie en werpt HTTP 404 niet gevonden fout. NPR-20195: Hotfix voor graniet-14409
+* Wanneer betreden gebruikend anonieme zitting, ClientLibraryProxyServlet geen volmachtsverzoeken aan cliëntbibliotheken op de publicatie instantie en werpt HTTP 404 niet gevonden fout. NPR-20195: Hotfix voor graniet-14409
 
 ### Integratie {#integration-10}
 
@@ -1023,7 +1019,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Wanneer Datepicker een veld is in meerdere velden, worden de waarden die zijn opgeslagen in datumvelden niet voortgezet tijdens het bewerken van de component. NPR-2007: Hotfix voor GRANITE-19147
 * Vorige query&#39;s worden niet afgebroken als opeenvolgende query&#39;s worden geactiveerd, wat leidt tot onjuiste resultaten. NPR-20397: Hotfix voor GRANITE-19306
 
-### WCM - Elementen {#wcm-foundation-components-6}
+### WCM - Elementen van de Stichting {#wcm-foundation-components-6}
 
 * De eigenschap ImageMap bestaat nog steeds nadat de afbeeldingen uit de component Multiple image in-place editor zijn verwijderd. NPR-20142: Hotfix voor CQ-4222982
 
@@ -1049,7 +1045,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 * Het dialoogvenster CAC / Selectie van certificaat voor wederzijdse verificatie moet certificaten met Enhanced Key Usage (EKU) weergeven als client-auth- of smartcard-aanmelding. NPR-20708
 * Forms JEE biedt ondersteuning voor PKCS#11-wederzijdse verificatie. NPR-15001
 
-## OSGI-bundels en inhoudspakketten opgenomen in GVB10 {#osgi-bundles-and-content-packages-included-in-cfp-4}
+## SDAB-pakketten en -inhoudspakketten in GVB10 {#osgi-bundles-and-content-packages-included-in-cfp-4}
 
 Lijst van OSGi-bundels opgenomen in AEM GVB 6.2 SP1-GVB10
 
@@ -1072,14 +1068,14 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verbeterde adaptieve Forms om PDF als bijlagen toe te voegen in Safari.\
    Biedt een nieuwe Dynamic Media die verbinding maakt met de nieuwe Dynamic Media Publishing Infrastructure voor snellere en schaalbaardere replicatie.
 
-### Elementen {#assets-10}
+### Activa {#assets-10}
 
 * AEM Assets kan subelementverwijzingen voor InDesign-elementen niet extraheren door dubbele koppelingen naar het element te maken. NPR-19006: Hotfix voor CQ-4204186
 * De sorteeroptie werkt niet voor elementen binnen de collectie onder Handel. NPR-19508: Hotfix voor CQ-4213622
 * Wanneer een element met dezelfde naam als een reeds bestaand element naar dezelfde locatie wordt verplaatst, wordt de waarde van cq: lastReplicationAction voor de elementen wordt onderling verwisseld, waardoor onjuiste metagegevens worden gemaakt. NPR-19531
 * Er wordt een foutbericht weergegeven wanneer u een groot aantal elementen publiceert, ondanks dat alle elementen correct zijn gepubliceerd. NPR-19629: Hotfix voor CQ-4219611
 * Statische uitvoeringen worden weergegeven met vaste afmetingen en geven niet de grootte van de eigenlijke vertoning weer. NPR-2004
-* AEM instantie wordt traag wanneer meerdere elementen (meer dan 4) naar Brand Portal worden gepubliceerd. NPR-2009
+* AEM wordt traag wanneer meerdere elementen (meer dan 4) naar Brand Portal worden gepubliceerd. NPR-2009
 
 ### Sites {#sites-10}
 
@@ -1100,7 +1096,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Aangepast bestand at.js publiceert niet wanneer het wordt geopend met de anonieme gebruiker. NPR-19542: Hotfix voor CQ-4219592
 * Het migreren Analytics bestaande geloofsbrieven aan Authentificatie WSSE. NPR-19962
 
-### Merk-portal {#brand-portal}
+### Brand Portal {#brand-portal}
 
 * Publicatietags van AEM naar Brand Portal inschakelen vanuit tagbeheer-/tagingconsole. NPR-20271
 
@@ -1128,11 +1124,11 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Verbindingsbeheer is niet beschikbaar tijdens afsluiten. Met de functie Jreliëf wordt de JDBC-afhankelijkheid verwijderd voordat de auteur EAR wordt gedeactiveerd, wat leidt tot corruptieproblemen. NPR-19703
 
-## Onderdeelpakketten {#feature-packs-included-1}
+## Functiepakketten inbegrepen {#feature-packs-included-1}
 
 * Verbeteringen op gebied van miniatuurcorrectie en transparantie in Dynamic Media. NPR-15207
 
-## OSGI-bundels en -inhoudspakketten opgenomen in GVB9 {#osgi-bundles-and-content-packages-included-in-cfp-5}
+## SDAB-pakketten en -inhoudspakketten opgenomen in GVB9 {#osgi-bundles-and-content-packages-included-in-cfp-5}
 
 Lijst met inhoudspakketten bijgewerkt in AEM 6.2SP1-GVB9
 
@@ -1154,7 +1150,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Ingeschakelde hoofdlettergevoelige zoekfunctionaliteit voor documentfragmentinhoud.
 * Lijst met Linux-bibliotheken toegevoegd aan de installatiedocumentatie van AEM Forms.
 
-### Elementen {#assets-11}
+### Activa {#assets-11}
 
 * Problemen met het toepassen van het filter Onderzoek op slimme verzamelingen in Safari-browser. NPR-19511
 * Metagegevens van PDF-trefwoorden worden niet correct geëxtraheerd en gewijzigd wanneer er meerdere trefwoorden aan een PDF-element zijn gekoppeld. Om dit probleem op te lossen, is de eigenschap voor metagegevens van het veld Onderwerp verwijderd voor PDF-elementen. U kunt echter wel het metagegevensschema bewerken om een tekstveld met meerdere waarden toe te voegen voor het veld Onderwerp. NPR-19126
@@ -1222,15 +1218,15 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 ### Forms JEE Installer {#forms-jee-installer-12}
 
-#### LCM {#install-lcm-2} installeren
+#### LCM installeren {#install-lcm-2}
 
 * In het beheerdersscherm in Microsoft Windows wordt versie 6.0 weergegeven na de installatie van GFP6. Hotfix voor CQ-4217573
 
-## Onderdeelpakketten {#feature-packs-included-2}
+## Functiepakketten inbegrepen {#feature-packs-included-2}
 
 * Verbeteringen aan TouchUI-knoppen in de bureaubladtoepassing. NPR-18676
 
-## OSGi-bundels opgenomen in GVB8 {#osgi-bundles-included-in-cfp}
+## OSGi-bundels in GVB8 {#osgi-bundles-included-in-cfp}
 
 Lijst van OSGi-bundels bijgewerkt in AEM 6.2SP1-GVB8
 
@@ -1251,7 +1247,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * AT.JS, een implementatiebibliotheek voor integratie aan de clientzijde met Adobe Target die is ontworpen voor zowel standaard webimplementaties als toepassingen van één pagina, wordt ondersteund voor het doelbibliotheekbestand.
 * Verbeterde AEM door een door de gebruiker configureerbare time-outperiode voor Marketing Cloud-oplossingen (Analytics, DTM, Target en S&amp;P) in te voeren.
 
-### Elementen {#assets-12}
+### Activa {#assets-12}
 
 * Tijdens het testen van videoinvoer met AEM 6.3 geconfigureerd met Dynamic Media-Cloud Services wordt de uitzondering &#39;Te veel geopende bestanden&#39; veroorzaakt. NPR-18734; Hotfix voor CQ-4211407
 * De vanity URL-instelling voor elementen op een pagina werkt niet nadat de AEM opnieuw is gestart. NPR-18634; Hotfix voor graniet-18085
@@ -1304,7 +1300,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 
 * De resultaten van het vertaalonderzoek omvatten geen namen van vertaalprojecten. NPR-18224; Hotfix voor CQ-4210658
 
-### Merk-portal {#brand-portal-1}
+### Brand Portal {#brand-portal-1}
 
 * Publicatietags van AEM naar Brand Portal inschakelen vanuit tagbeheer-/tagingconsole. CQ-4212165
 
@@ -1329,8 +1325,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 >* Inhoud zonder regeleinde in de CM Text Editor loopt niet om. NPR-19449
 
 >
->
-Dit zou in het toekomstige GVB aan de orde komen.
+>Dit zou in het toekomstige GVB aan de orde komen.
 
 #### Adaptieve Forms {#adaptive-forms-9}
 
@@ -1339,17 +1334,17 @@ Dit zou in het toekomstige GVB aan de orde komen.
 * Script om de knoptitel te wijzigen bij de initialisatiegebeurtenis van het deelvenster met hulplijnen werkt niet. NPR-18476
 * De rolbar wordt niet gezien in het juiste paneel voor regels die onder regelredacteur worden gecreeerd. NPR-18716
 
-#### AEM Forms-toepassing {#aem-forms-app}
+#### AEM Forms App {#aem-forms-app}
 
 * Forms wordt niet correct gerenderd in AEM Forms App wanneer deze zich in de offline modus bevindt of niet is verbonden met het netwerk. CQ-4218368
 
-### Forms JEE Installer {#forms-jee-installer-13}
+### Forms JEE Installer  {#forms-jee-installer-13}
 
 #### PDFG-service {#pdfg-service-3}
 
 * PDF Generator kan geen PDF-documenten met opgegeven bladwijzers maken. Hotfix voor CQ-4211102
 
-## OSGi-bundels opgenomen in GVB7 {#osgi-bundles-included-in-cfp-1}
+## OSGi-bundels in GVB7 {#osgi-bundles-included-in-cfp-1}
 
 Lijst met OSGi-bundels bijgewerkt in AEM 6.2SP1-GVB7
 
@@ -1367,7 +1362,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Introductie van QuickActions op Hybride Apparaten.
 * Synchronisatieproblemen op componentniveau oplossen met live kopieën.
 
-### Elementen {#assets-13}
+### Activa {#assets-13}
 
 * De klant wordt geblokkeerd wanneer de gebruiker die niet de vereiste toestemming heeft om verrichting op activa probeert te bewegen. NPR-18330; Hotfix voor CQ-4212560
 * Het samenvoegen van meerdere configuraties voor slimme-inhoudsservices veroorzaakt een gebruiksprobleem. NPR-18273; Hotfix voor CQ-4201557
@@ -1443,7 +1438,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * De gebruikersinterface van AEM Forms bevat alle elementen in de oudste eerste volgorde. Gebruikers kunnen de middelen niet opnieuw rangschikken in de nieuwste eerste volgorde. NPR-18451
 
-### Forms JEE Installer {#forms-jee-installer-14}
+### Forms JEE Installer  {#forms-jee-installer-14}
 
 **Uitvoerservice**
 
@@ -1453,7 +1448,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Kan een PDF-document niet ondertekenen met de externe Hardware Security Module. NPR-18017
 
-## OSGi-bundels opgenomen in GVB6 {#osgi-bundles-included-in-cfp-2}
+## OSGi-bundels in GVB6 {#osgi-bundles-included-in-cfp-2}
 
 Lijst van OSGi-bundels bijgewerkt in AEM 6.2SP1-GVB6
 
@@ -1472,10 +1467,10 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verschillende problemen met WCM-componenten en -workflows zijn opgelost, zoals Unpublish en Version Purge.
 * Verbeterde responsiviteit van de actiebalk voor de weergave van werkbalkhandelingen en koraalcomponenten.
 
-### Elementen {#assets-14}
+### Activa {#assets-14}
 
 * Prestatieverbeteringen in de functie Publiceren naar Brand Portal. NPR-17189; Hotfix voor CQ-4204150
-* Als u middelen deelt met de optie Koppeling delen, wordt er geen zip-bestand met een platte mapstructuur gemaakt om te downloaden. NPR-17513; Hotfix voor CQ-4209381
+* Als u middelen deelt met de optie Koppeling delen, wordt er geen zip-bestand met een platte mapstructuur gemaakt om te worden gedownload. NPR-17513; Hotfix voor CQ-4209381
 * Als u een element in DAM selecteert en op Publiceren klikt, wordt de optie Publiceren naar Brand Portal niet weergegeven op de pagina met de elementdetails. NPR-17351; Hotfix voor CQ-94905
 * In de de werkschemastappen van DAM, moeten de binaire die stromen van Zitting of ResourceResolver worden verworven in een definitief blok worden gesloten om ervoor te zorgen dat de middellekken niet voorkomen. NPR-17385; Hotfix voor CQ-4209452
 * Als u een Word-document in DAM uploadt, resulteert dit in een null pointer-uitzondering en blijft de werkstroominstantie vastzitten in de status Running. NPR-17160; Hotfix voor CQ-4207358
@@ -1559,7 +1554,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * De mogelijkheden van vormgebruikers, of het gebruiken van de JEE admin UI console of de console OSGi zou het zelfde moeten zijn. NPR-17670
 
-### Functiepacks opgenomen in GVB5 {#feature-packs-included-in-cfp}
+### Functiepakketten in GVB5 {#feature-packs-included-in-cfp}
 
 **Forms JEE-pakket**
 
@@ -1614,7 +1609,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Het aantal resultaten dat op het scherm Gebruikersbeheer wordt weergegeven, is anders in de Kaart- en lijstweergave. NPR-16241; Hotfix voor GRANITE-16914
 * Workflowmeldingen kunnen niet lui worden geladen wanneer ze in de Google Chrome-browser worden weergegeven in de modus Volledig scherm. NPR-17013: Hotfix voor CQ-4207567
 
-### Elementen {#assets-15}
+### Activa {#assets-15}
 
 * De richting van de afbeelding wordt niet correct toegepast tijdens het importeren van een afbeelding met een gedefinieerde richting. NPR-16750: Hotfix voor CQ-4204356
 * In de weergave op de tijdlijn van middelen worden geen elementen weergegeven, ook al is Alles tonen standaard ingesteld. NPR-16957: Hotfix voor CQ-98780
@@ -1690,7 +1685,7 @@ De het werkschemaconsole van Projecten toont een NullPointerException op pagina 
 
 **Mobile Forms**
 
-* In het voorbeeld van mobiele formulieren wordt overlappende inhoud weergegeven, maar het formulier wordt correct weergegeven voor PDF-rendering. NPR-17105
+* In de voorvertoning van mobiele formulieren wordt overlappende inhoud weergegeven, maar het formulier wordt correct weergegeven voor PDF-weergave. NPR-17105
 
 **Forms Portal**
 
@@ -1702,7 +1697,7 @@ De het werkschemaconsole van Projecten toont een NullPointerException op pagina 
 
 * Een specifiek bestand is niet Reader Extended voor AEM OSGI-installatie. NPR-16625
 
-#### Forms JEE Installer {#forms-jee-installer-16}
+#### Forms JEE Installer  {#forms-jee-installer-16}
 
 **Kern**
 
@@ -1732,7 +1727,7 @@ De het werkschemaconsole van Projecten toont een NullPointerException op pagina 
 
 * Verbetering in de Inline Condition Editor voor Correspondentiebeheer. NPR-10981
 
-### OSGi-bundels opgenomen in GVB4 {#osgi-bundles-included-in-cfp-4}
+### OSGi-bundels in GVB4 {#osgi-bundles-included-in-cfp-4}
 
 Lijst van OSGi-bundels bijgewerkt tussen AEM 6.2 SP1 en GVB4
 
@@ -1767,7 +1762,7 @@ De belangrijkste kenmerken van GVB3 zijn:
 * Formulierbeperking kan de eigenschap `ConstraintMessage` niet lezen. NPR-16388: Hotfix voor CQ-101330
 * De `wcm/foundation/components/parsys`-component geeft de tijdelijke aanduiding **[!UICONTROL 'Drag components here]** niet weer. NPR: 16748: Hotfix voor CQ-4205187
 
-### Elementen {#assets-16}
+### Activa {#assets-16}
 
 * De pdf-rasterizer werkt niet meer en veroorzaakt problemen met het geheugen na de installatie van 6.2 SP1 of Hotfix 12430. NPR-15991
 * De meta-gegevens voor een koordbezit, `documentNumber` verschijnt als datum terwijl het een aantal zou moeten zijn. NPR-16134: Hotfix voor GRANITE-16916
@@ -1833,7 +1828,7 @@ De belangrijkste kenmerken van GVB3 zijn:
 
 * De statische codeanalyse van Barcoded Forms Service (BCF) meldt kwesties. NPR-13855
 
-#### Forms JEE Installer {#forms-jee-installer-17}
+#### Forms JEE Installer  {#forms-jee-installer-17}
 
 **Procesbeheer - HTML-werkruimte**
 
@@ -1849,14 +1844,14 @@ De belangrijkste kenmerken van GVB3 zijn:
 * Het wijzigen van de formulierlandinstelling in het Frans (Canada) in de spellingcontrole voor woordenboeken werkt niet in AEM Forms Designer.\
    NPR-15896
 
-### Functiepacks opgenomen in GVB3 {#feature-packs-included-in-cfp-2}
+### Functiepakketten die zijn opgenomen in GVB3 {#feature-packs-included-in-cfp-2}
 
 **Forms Add-on-pakket**
 
 * Bij het verwijderen van middelen in correspondentiebeheer, zou een waarschuwingsbericht in het error.log- dossier moeten worden geregistreerd. NPR-13225
 * Verbeter de zoekfunctionaliteit terwijl u een voorbeeld van een letter weergeeft in het beheer van correspondentie, zodat u tekst in de inhoud van het tekstfragment kunt zoeken in plaats van alleen in de titel of het label van de letter te zoeken. NPR-16103
 
-### OSGi-bundels opgenomen in GVB3 {#osgi-bundles-included-in-cfp-5}
+### OSGi-bundels in GVB3 {#osgi-bundles-included-in-cfp-5}
 
 Lijst van OSGi-bundels bijgewerkt tussen AEM 6.2 SP1 en GVB3
 
@@ -1914,7 +1909,7 @@ FileDe belangrijkste hoogtepunten van Cumulative Fix Pack 2 zijn:
 * Als u de pagina Bewerken sluit in de modus Tijdlijn verdraaien en deze probeert opnieuw te openen vanuit Siteadmin, treedt er een fout op met status &#39;500&#39; in plaats van de pagina opnieuw te openen. NPR-14965: Hotfix voor CQ-109647:
 * In de DAM-gebruikersinterface (Digital Asset Manager) leidt de zoekopdracht &#39;Volgorde van autorisaties zoeken&#39; tot de uitzondering &#39;Onvoldoende geheugen&#39;. NPR: 15307: HotFix voor CQ-98542
 
-### Elementen {#assets-17}
+### Activa {#assets-17}
 
 * Nadat u een element hebt gezocht in de zoekfunctie, selecteert u een element en probeert u eigenschappen te bewerken door op Eigenschappen weergeven te klikken en op de knop Opslaan te klikken, wordt de gebruiker omgeleid naar een lege pagina. NPR-15900: Hotfix voor CQ-4202372
 * Elementen De gebruikersinterface reageert niet op gebeurtenissen. Het selecteren van een element en het klikken op &#39;Publiceren&#39; of &#39;Uitvoeringen&#39; leidt niet tot enige activiteit. NPR-15828: Hotfix voor CQ-4202247
@@ -1929,10 +1924,10 @@ FileDe belangrijkste hoogtepunten van Cumulative Fix Pack 2 zijn:
 * In de component Dam Viewer leidt het gebruik van de uitvoermodus &#39;nosamplcontent&#39; tot fouten met dynamische media. NPR-15449: Hotfix voor CQ-4195425
 * Als u tijdens het maken van videoprofielen zowel een voorinstelling voor videocodering van hoge kwaliteit als een voorinstelling voor videocodering van gemiddelde kwaliteit kiest, worden de aangebrachte wijzigingen niet opgeslagen. NPR-15447: Hotfix voor CQ-4195482
 * Hoewel het uploaden van een middel naar Brand Portal mislukt als gevolg van een reactie op een serverfout, wordt de status bijgewerkt naar &#39;Published&#39; in de interface van het Brand-portaal, waardoor het moeilijk wordt om het gemiste bestand bij te houden. NPR-15442: Hotfix voor CQ-4197968
-* Wanneer u een elementmap publiceert naar de Brand Portal, waar het publiceren meer dan een uur duurt, kunnen sommige bestanden niet worden gepubliceerd. NPR-15441: Hotfix voor CQ-4199493
+* Wanneer u een map met middelen publiceert naar de Brand Portal, waar het publiceren meer dan een uur duurt, kunnen sommige bestanden niet worden gepubliceerd. NPR-15441: Hotfix voor CQ-4199493
 * Wanneer u de console van de Finder van middelen gebruikt in de kolomweergave, mislukt het maken van een map een keer, hoewel het lukt om het opnieuw te proberen. NPR-15370: Hotfix voor CQ-4199448
 * Als een element of map die is geselecteerd in de DAM-gebruikersinterface een komma in de naam heeft, is het tabblad Referenties niet beschikbaar en wordt het bericht &quot;Lijst met referenties is niet beschikbaar voor meerdere selecties&quot; weergegeven. NPR-15362: Hotfix voor CQ-4199721
-* Als u een map publiceert naar Brand Portal, verandert de gepubliceerde status van de map niet, ook al worden de elementen in de map gepubliceerd. NPR-15292: Hotfix voor CQ-4197667
+* Als u een map naar Brand Portal publiceert, verandert de gepubliceerde status van de map niet, ook al worden de middelen in de map gepubliceerd. NPR-15292: Hotfix voor CQ-4197667
 * Tijdens het navigeren naar de middelenconsole in Touch UI wordt een uitzondering weergegeven bij het activeren van bepaalde elementen. NPR-15217: HotFix voor CQ-108779
 * Een video publiceren naar YouTube wanneer de verbinding via een proxyserver wordt gemaakt. NPR-15109: HotFix voor CQ-110332
 * Een element gebruiken met een naam die een punt of punt (.) bevat in data-Smart-resource wordt niet omgezet naar hetzelfde element en het uitvoerpad wordt beëindigd op de punt. NPR-15069: Hotfix voor CQ-4195914
@@ -1993,7 +1988,7 @@ FileDe belangrijkste hoogtepunten van Cumulative Fix Pack 2 zijn:
 * De Prefill-service werkt niet voor XDP Forms. NPR-15466
 * Wanneer u concepten en verzendingen van adaptieve formulieren in de database opslaat, wordt de status van het adaptieve formulier beschadigd wanneer de databaseconnectiviteit om welke reden dan ook mislukt (bijvoorbeeld na een lange periode van inactiviteit). NPR-15297
 
-#### Forms JEE Installer {#forms-jee-installer-18}
+#### Forms JEE Installer  {#forms-jee-installer-18}
 
 `**Core**`
 
@@ -2003,7 +1998,7 @@ FileDe belangrijkste hoogtepunten van Cumulative Fix Pack 2 zijn:
 
 * Terwijl het gebruiken van de dienst van de Output om een specifieke vorm met dataxml samen te voegen, is de reactietijd 20 keer zoals vergeleken bij de tijd die door ES4 SP1 server voor de zelfde verrichting wordt genomen. NPR-15283
 
-#### AEM Forms-toepassing {#aem-forms-app-1}
+#### AEM Forms App {#aem-forms-app-1}
 
 * Wanneer het terugkrijgen van niet-bewaarde taken, moet het bericht dat bij terugwinning van niet bewaarde taken wordt getoond duidelijker worden gemaakt om gebruikersfout te verminderen. NPR-15377
 * AEM Forms-app genereert geen formulieren die zijn gemaakt van aangepaste sjablonen. NPR-15892
@@ -2050,7 +2045,7 @@ De belangrijkste hoogtepunten van AEM 6.2 SP2-GVB1 zijn:
 * Wanneer de Dialoog PageProperties van de Redacteur wordt voorgelegd, schrijft de Bewerker van de Post MSM sommige parameters van het verzoek in plaats van de `msm:writeLiveCopyConfig` parameter. NPR-14434
 * Meerdere problemen met betrekking tot de component Rollout, actieve kopieën en andere aspecten van MSM. NPR-12235
 
-### Elementen {#assets-18}
+### Activa {#assets-18}
 
 * UnPack-workflow kan afbeeldingen met speciale tekens in de naam van het afbeeldingsbestand niet verwerken. NPR-15227: Hotfix voor CQ-103887
 * Elementen met de expressie Herhalen met voorwaarde worden niet correct weergegeven. Wanneer de gebruiker een voorvertoning weergeeft van de `*CDN3835RLCEN*`-lettertypesjabloon, worden geen elementen weergegeven die zich in het doelgebied van het hoofdtekst bevinden. Wanneer het element `*VIPReassement*` (een optioneel element) dat vooraf is geselecteerd niet is geselecteerd, worden de andere elementen die vooraf zijn geselecteerd, in de letter weergegeven. NPR-14844
@@ -2084,7 +2079,7 @@ De belangrijkste hoogtepunten van AEM 6.2 SP2-GVB1 zijn:
 * Sinds de Jquery-update kunnen gebruikers geen elementverzameling selecteren en de selectie van een inhoudsfragment in het deelvenster Inhoud koppelen bevestigen. NPR-14847: Backport for CQ-4194209
 * Ondanks het aanroepen van oneindig sorteren aan de clientzijde, worden alleen de artikelen/banners/verzamelingen die momenteel in de gebruikersinterface worden weergegeven, gesorteerd. NPR-14493: Hotfix voor CQ-109926
 * Verzoek om de onderzoekseigenschap voor AEM mobiel-op-bestelling dienst uit te voeren. Bij het zoeken met trefwoorden naar artikelen, verzamelingen of banners worden geen overeenkomsten geretourneerd. NPR-14093: Hotfix voor CQ-101394
-* Wanneer u de component Coral-select (*granite/ui/components/koral/foundation/form/select*) in een dialoogvenster gebruikt, werkt de initialisatie van waarden niet correct in Internet Explorer (IE11- of Edge-browsers) wanneer de geselecteerde waarde één item bevat. NPR-13395: Hotfix voor CQ-101013
+* Wanneer u de component Coral-Select (*granite/ui/components/koral/foundation/form/select*) in een dialoogvenster gebruikt, werkt de initialisatie van waarden niet correct in Internet Explorer (IE11- of Edge-browsers) wanneer de geselecteerde waarde één item bevat. NPR-13395: Hotfix voor CQ-101013
 
 ### Projecten {#projects-5}
 
@@ -2105,7 +2100,7 @@ De belangrijkste hoogtepunten van AEM 6.2 SP2-GVB1 zijn:
 
 * Wanneer een gebruiker na het integreren van AEM 6.2 met Search&amp;Promote een term doorzoekt die een banner retourneert, reageert de zoekfunctionaliteit niet meer. NPR-14549: GVB voor CQ-109631
 
-###  Dynamic Media {#dynamic-media}
+###  Dynamic Media  {#dynamic-media}
 
 * Talloze AEM-Scene7-verkooptaken die zijn gemaakt en geannuleerd wanneer tijdens AEM activering als archieftaken tijdens replicatie is geregistreerd. NPR-12835: Hotfix voor CQ-86115
 
@@ -2168,7 +2163,7 @@ De belangrijkste hoogtepunten van AEM 6.2 SP2-GVB1 zijn:
 * Forms Designer loopt vast wanneer de gebruiker het hulpprogramma Spellingcontrole uitvoert met de optie Landinstelling formulier als Frans (Canada). NPR-13740
 * Forms Designer loopt vast wanneer de gebruiker gebeurtenis calculate of validate selecteert voor een formulierveld en de taal wijzigt in JavaScript en `this.` invoert in het venster **[!UICONTROL Script Editor]**. NPR-12974
 
-### Functiepacks opgenomen in GVB1 {#feature-packs-included-in-cfp-3}
+### Functiepakketten die zijn opgenomen in GVB1 {#feature-packs-included-in-cfp-3}
 
 `Mobile Forms` (Forms-invoegtoepassingspakket):
 
@@ -2194,11 +2189,11 @@ U kunt het GVB-pakket direct van de Distributie van de Software downloaden of de
 1. Tik **[!UICONTROL Adobe Experience Manager]** beschikbaar in het koptekstmenu.
 1. Tik op de pakketnaam, selecteer **[!UICONTROL Accept EULA Terms]** en tik **[!UICONTROL Download]**.
 
-## Installatie-instructies voor GVB {#installation-instructions-for-cfp}
+## Installatie-instructies voor gestreken fijn papier {#installation-instructions-for-cfp}
 
 Deze sectie doorloopt u door de vereisten en de stappen om GVB te installeren.
 
-### Voordat u {#before-you-install} installeert
+### Voordat u gaat installeren {#before-you-install}
 
 >[!NOTE]
 >
@@ -2235,7 +2230,7 @@ Het GVB kan automatisch in een lopende instantie op de volgende manieren worden 
 * Plaats het pakket in ../crx-quickstart/install terwijl de server actief is. Het pakket wordt automatisch geïnstalleerd.
 * Gebruik [HTTP API van de Manager van het Pakket](https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/package-manager.html) - zorg ervoor dat u `cmd=install&recursive=true` gebruikt - zodat wordt het genestelde pakket geïnstalleerd.
 
-### Installatie {#validate-installation} valideren
+### Installatie valideren {#validate-installation}
 
 1. Op de pagina Productinformatie (/system/console/productinfo ) moet nu de bijgewerkte versietekenreeks &quot;Adobe Experience Manager, Version 6.2.0.SP1-GVB20&quot; onder Geïnstalleerde producten worden weergegeven.
 1. Alle OSGI-bundels zijn actief of FRAGMENT in de OSGI Console (Webconsole gebruiken: /systeem/console/bundels).
@@ -2248,13 +2243,13 @@ Het GVB kan automatisch in een lopende instantie op de volgende manieren worden 
 >
 >Sinds AEM 6.2 SP1-GVB1, is het logboekniveau in Jackrabbit FileVault veranderd van INFO in DEBUG voor de meeste berichten. Om installatielogboeken voor een inhoudspakket te verkrijgen dat op AEM 6.2 SP1-GVB1 of hoger wordt geïnstalleerd, laat DEBUG logboekniveau voor `org.apache.jackrabbit.vault.packaging.impl` toe.
 
-### AEM Forms {#install-forms} installeren
+### AEM Forms installeren {#install-forms}
 
 >[!NOTE]
 >
 >Sla deze sectie over als u AEM Forms niet gebruikt.
 
-#### Invoegtoepassing AEM Forms {#install-aem-forms-add-on} installeren
+#### AEM Forms-invoegtoepassing installeren {#install-aem-forms-add-on}
 
 >[!NOTE]
 >
@@ -2264,11 +2259,11 @@ Het GVB kan automatisch in een lopende instantie op de volgende manieren worden 
 1. Download het overeenkomstige Forms add-on pakket dat u vindt op [AEM Forms releases](aem-forms-releases.md) voor uw besturingssysteem.
 1. Installeer het invoegpakket voor Forms zoals beschreven in [Invoegpakketten voor AEM formulieren installeren](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html).
 
-#### AEM Forms JEE-bundelpakket {#install-aem-forms-jee-bundles-package} installeren
+#### AEM Forms JEE-bundelpakket installeren {#install-aem-forms-jee-bundles-package}
 
 Correcties in AEM Forms JEE worden geleverd via een afzonderlijk installatieprogramma. Zie [GFP installeren op AEM Forms JEE](install-cfp-aem-forms-jee.md) voor informatie over het installeren van een GFP op AEM Forms op JEE.
 
-#### Installatieprogramma voor Forms Designer {#designer-installer}
+#### Installatieprogramma van Forms Designer {#designer-installer}
 
 1. Voer het bestand Designer6.2.0_&lt;Language>_Cumulative_QF.msp uit om de update te installeren.
 1. Klik in het welkomstscherm op **update**. De installatie wordt gestart.
@@ -2290,9 +2285,9 @@ Met AEM Cumulatieve Pak 6.2 SP1-GFP7 van de Moeilijke situatie en recentere vers
 
 >[!NOTE]
 >
->Met AEM Cumulatieve Pak 6.2 SP1-GFP6 en recentere versies van de Correctie, is de configuratie OSGi die voor Onderzoek &amp; bevordert Integratie wordt gebruikt Apache de Configuratie van de Volmacht van HTTP van Componenten. De proxyconfiguratie van Day Commons HTTP Client 3.1 wordt niet meer gebruikt.
+>Met AEM Cumulatieve Pak 6.2 SP1-GFP6 en recentere versies van de Correctie, de configuratie OSGi die voor Onderzoek &amp; bevordert Integratie wordt gebruikt is de Configuratie van de Volmacht van de Volmacht van Apache HTTP van Componenten. De proxyconfiguratie van Day Commons HTTP Client 3.1 wordt niet meer gebruikt.
 
-## Replicatiestatus uitschakelen in taggconsole (Classic UI) (NPR-15842) {#disable-replication-status-in-tagging-console-classic-ui-npr}
+## Replicatiestatus uitschakelen in taggen-console (Classic UI) (NPR-15842) {#disable-replication-status-in-tagging-console-classic-ui-npr}
 
 Voor het geval u GVB3 of later gebruikt, volg deze instructies om de Status van de Replicatie in de Tagingconsole in Klassieke UI onbruikbaar te maken:
 
@@ -2313,7 +2308,7 @@ Voor het geval u GVB3 of later gebruikt, volg deze instructies om de Status van 
 >
 >Deze configuratie-instellingen zijn specifiek voor AEM Forms-klanten die documentbeveiliging gebruiken.
 
-NPR-21355 is opgenomen in GVB12.1. Als u GVB12.1 of later installeert, dan voer de hieronder procedure uit om NPR-21355 op JBoss toepassingsserver te vormen. Als u CFP12.1 installeert op de AEM Forms-server die wordt uitgevoerd op Oracle WebLogic- of IBM WebSpehere-toepassingsservers, is geen aanvullende configuratie vereist:
+NPR-21355 is opgenomen in GVB12.1. Als u GVB12.1 of later installeert, dan voer de hieronder procedure uit om NPR-21355 op JBoss toepassingsserver te vormen. Als u GVB12.1 installeert op de server van AEM Forms die op de toepassingsservers van WebLogic van het Oracle of van IBM WebSpehere loopt, wordt geen extra configuratie vereist:
 
 1. Maak een back-up van het bestand module.xml en verwijder het bestand en maak het bestand. De standaardlocatie van het bestand is [AEM_Forms_Installation_directory]/jreliëf/modules/system/layers/base/com/adobe/livecycle/main/
 
@@ -2380,7 +2375,7 @@ De telling voor gedeelde Rij verfrist zich, door gebrek, niet voor andere gebrui
 1. De telling voor gedeelde rij begint voor andere gebruikers in de werkruimte te verfrissen.
 1. Als u de opiniepeiling wilt uitschakelen, wijzigt u de waarde in 0 en importeert u het XML-bestand opnieuw.
 
-## Wijzigingen in gebruikersinterface {#ui-changes}
+## UI-wijzigingen {#ui-changes}
 
 * Gedragingen bij het weergeven van titels op de afbeeldingskaart voor afbeelding met dc: title, eigenschap ingesteld op String [] ( multifield ): alleen de nieuwste gewijzigde titel wordt weergegeven op de afbeeldingskaart in de gebruikersinterface, hoewel alle titels worden opgeslagen in CRX. Hotfix voor CQ-4217165
 
@@ -2398,7 +2393,7 @@ De volgende voorbijgaande fouten kunnen voorkomen wanneer u AEM 6.2 SP1-GVBx ins
 De oplossing is echter om de AEM na een upgrade opnieuw te starten.
 
 * De Interne Fout van de Server van HTTP 500 wordt ontvangen wanneer de WebConsole componentendetailpagina wordt geopend.
-* Fouten als **componentinstantie maken** en **Service-factory null** heeft geretourneerd vanwege opnieuw opstarten van opslagruimte:
+* Fouten als **componentinstantie maken** en **Service factory retourneerde null** optreedt als gevolg van opnieuw opstarten van opslagruimte:
 
    * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] Kan componentinstantie niet maken vanwege het niet binden van reference profileManager
    * org.apache.sling.commons.planner FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory heeft null geretourneerd. (Component: com.day.cq.tagging.impl.TagGarbageCollector (1687)
@@ -2442,7 +2437,7 @@ Om Uber Jar in een Geweven project te gebruiken, omvat het volgende gebiedsdeel 
 </dependency>
 ```
 
-## OSGI-pakketten en -inhoudspakketten zijn opgenomen {#osgi-bundles-and-content-packages-included-5}
+## SDAB-pakketten en -inhoudspakketten {#osgi-bundles-and-content-packages-included-5}
 
 In de volgende tekst wordt de lijst met OSGI-bundels en -inhoudspakketten in het GVB opgenomen.
 
@@ -2456,5 +2451,5 @@ In de volgende tekst wordt de lijst met OSGI-bundels en -inhoudspakketten in het
 >* [Opmerkingen bij de release AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM productpagina](http://www.adobe.com/solutions/web-experience-management.html)
 >* [AEM 6.2-documentatie](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Abonneren op productupdates voor ](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe)   [Adobe Priority](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+>* [Updates van producten met prioriteit Adobe](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
 
