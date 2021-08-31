@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 Cumulatieve Fix Pack
 description: AEM 6.2 Opmerkingen bij de release Cumulative Fix Pack.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19915'
+source-wordcount: '19890'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 | **Product** | Adobe Experience Manager |
 |---|---|
 | **Versie** | 6,2 |
-| **Geen** | [Cumulatief Fix Pack 6.2 SP1-GVB20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Geen** | Cumulatief Fix Pack 6.2 SP1-GVB20 |
 | **Vereiste** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Algemene beschikbaarheid** | 6 juni 2019 |
 
@@ -956,7 +956,7 @@ De belangrijkste markeringen voor AEM Forms zijn:
 
 #### Workbench {#workbench}
 
-* Certificaatverificatie inschakelen voor Workbench-gebruikers. NPR-17548: Hotfix voor CQ-4214486
+* Certificaatverificatie inschakelen voor Workbench-gebruikers. NPR-17548: Hotfix voor CQ-4214488
 
 #### Procesbeheer {#process-management-2}
 
@@ -2206,7 +2206,7 @@ Deze sectie doorloopt u door de vereisten en de stappen om GVB te installeren.
 
 * AEM 6.2 Service Pack 1 is een voorwaarde voor het GVB. Zie [AEM 6.2 Opmerkingen bij de release Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) voor installatie-instructies.
 
-* De Cumulatieve download van het Pak van de Moeilijke situatie is beschikbaar op [Softwaredistributie](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), die u direct van de AEM instantie kunt toegang hebben.
+* De Cumulatieve download van het Pak van de Moeilijke situatie is beschikbaar op [Softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), die u direct van de AEM instantie kunt toegang hebben.
 * Voor een clusterplaatsing die ( RDBMK of MongoDB) gebruikt, kan het pakket van GFP op om het even welke instanties worden geïnstalleerd van de Auteur die de Manager van het Pakket gebruikt.
 
 * Voordat u het cumulatieve reparatiepakket installeert, moet u zorgen dat u een momentopname maakt of een back-up maakt van uw AEM.

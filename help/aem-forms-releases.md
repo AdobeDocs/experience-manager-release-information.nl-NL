@@ -3,9 +3,9 @@ title: AEM Forms-releases
 description: Bevat een lijst met alle AEM Forms-releases en bijbehorende pakketten
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '9745'
+source-wordcount: '9735'
 ht-degree: 0%
 
 ---
@@ -218,7 +218,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI Reference Site Package</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov Reference Site Package</a></li> 
      </ul> </td> 
-    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <a href="https://repo.adobe.com/nexus/content/repositories/public/com/adobe/aemfd/aemfd-client-sdk/6.0.80/">6.0.80</a></p> <p>AEM Websphere Global Security Configuration Package: 6.5.0.20190329.1.935745</p> <p>Bron AEM Forms-toepassing: 5,0,16</p> <p> </p> </td> 
+    <td><p>AEM Forms Add-on Packages &amp; Client SDK: 6,0,80</p> <p>AEM Websphere Global Security Configuration Package: 6.5.0.20190329.1.935745</p> <p>Bron AEM Forms-toepassing: 5,0,16</p> <p> </p> </td> 
    </tr> 
   </tbody> 
  </table>
@@ -408,7 +408,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
   <tr> 
    <td>20 december 2018</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM Forms Service Pack 3 Forms add-on pakket voor AEM 6.4.3.0</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-AIX">AEM Forms-invoegtoepassing voor AIX</a></li> 

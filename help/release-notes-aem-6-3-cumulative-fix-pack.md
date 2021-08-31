@@ -1,9 +1,9 @@
 ---
 title: AEM 6.3 Cumulatieve Fix Pack
 description: AEM 6.3 Opmerkingen bij de release Cumulative Fix Pack.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '15906'
+source-wordcount: '15883'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 | **Product** | Adobe Experience Manager |
 |---|---|
 | **Versie** | 6,3 |
-| **Geen** | Cumulatief Fix Pack 6.3.3.8 op [PackageShare](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8), [Software Distribution(Beta)](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
+| **Geen** | Cumulatief Fix Pack 6.3.3.8 op [Softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
 | **Vereiste** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **Algemene beschikbaarheid** | 5 maart 2020 |
 
@@ -718,7 +718,7 @@ De belangrijkste hoogtepunten van **AEM Cumulative Fix Pack** zijn:
 * Met het bericht &#39;Alles markeren gelezen&#39; wordt alleen de eerste 10 weergegeven als ongelezen zonder dat de pagina wordt vernieuwd. NPR-27036: Hotfix voor CQ-4254058
 * De Paginering Klikken en laden van pagina&#39;s bij Sectie van opmerkingen van gemeenschappen. NPR-27030: Hotfix voor CQ-4251228
 * (Forum Search) De knop Terug slaat de pagina over en gaat terug naar forum.html. NPR-26949: Hotfix voor CQ-4254804
-* Ongelezen melding neemt niet meer dan 21 toe. NPR-26947: Hotfix voor CQ-4251251
+* Ongelezen melding neemt niet meer dan 21 toe. NPR-26949: Hotfix voor CQ-4251251
 * (De baan van SearchScheduledPosts) voegt toe laat/maakt schakelaar in ConfigMgr toe. NPR-26924: Hotfix voor CQ-4250463
 * Tomcat-pad (/aempublish) daalt bij schuiven op de pagina Toewijzingen. NPR-26919: Hotfix voor CQ-4254345
 * NullPointerException terwijl het creëren van een groep en een lid. NPR-26778: Hotfix voor CQ-4248095
@@ -1201,7 +1201,7 @@ De belangrijkste markeringen voor AEM Forms zijn:
 
 #### Workbench {#workbench}
 
-* Certificaatverificatie ingeschakeld voor Workbench-gebruikers. NPR-20644: Hotfix voor CQ-4214486
+* Certificaatverificatie ingeschakeld voor Workbench-gebruikers. NPR-20644: Hotfix voor CQ-4214488
 * Het serverlogboek downloaden met Workbench werkt alleen voor de ene server, maar voor de andere server werkt het niet. NPR-21079: Hotfix voor CQ-4229842
 
 #### Procesbeheer {#process-management-1}
@@ -1502,7 +1502,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 * Verzenden naar JEE-workflow retourneert geen uitvoerparameter van JEE-zijde naar AEM en genereert een fout met de tekst ‘Negeren omdat de waarde niet primitief is’. NPR-20265
 * Adaptieve Forms staat PDF niet toe als bijlage in Safari. NPR-19625
-* RestoreGuideState overschrijft de aangepaste contextProperty map. CQ-422877
+* RestoreGuideState overschrijft de CustomContextProperty-kaart. CQ-422877
 * Wanneer het vormen van Google reCaptcha gebruikend Cloud Service, in milieu&#39;s die configuratie van org.apache.http.proxyconfigurator voor externe verbindingen vereisen, schijnen de vraag van de POST niet door PROXY te gaan. NPR-20454
 * Adaptieve Forms op basis van XSD-schema&#39;s verzendt onjuiste XML-waarden voor numerieke velden in installaties met een ander decimaalteken dan &quot;&quot;. resulteert in fouten. NPR-20444
 * Proxy-instellingen die zijn ingesteld voor &#39;Apache HTTP Components Proxy Configuration&#39; worden niet ondersteund wanneer een HTTP-aanvraag wordt ingediend bij een externe server. De onderbrekingskwesties van de verbinding gebruikend de vraag van de GET of van de POST van HTTP. NPR-20457, NPR-20456, NPR-20455, NPR-20451
@@ -1544,7 +1544,7 @@ AEM Forms-oplossingen worden geleverd via invoegpakketten en andere patchinstall
 
 #### Standaardservices {#standard-services}
 
-* docConvertor ondersteunt geen transparanties voor afvlakking in PDF en kan geen PDF/A maken. NPR-16228: Hotfix voor CQ-4214488
+* docConvertor ondersteunt geen transparanties voor afvlakking in PDF en kan geen PDF/A maken. NPR-16228: Hotfix voor CQ-4214486
 
 #### Kern {#core-2}
 
@@ -1721,7 +1721,7 @@ AEM Cumulative Fix Pack 6.3.0.1 is een belangrijke update die verscheidene inter
 
 ## Instructies voor gestreken fijn papier downloaden via softwaredistributie {#download-instructions-for-cfp-via-package-share}
 
-U kunt het pakket van GFP direct van [Softwaredistributie](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) downloaden of de volgende stappen uitvoeren:
+U kunt het pakket van GFP direct van [Softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) downloaden of de volgende stappen uitvoeren:
 
 1. Open [Softwaredistributie](https://experience.adobe.com/downloads). U hebt een Adobe ID nodig om u aan te melden bij de softwaredistributie.
 1. Tik **[!UICONTROL Adobe Experience Manager]** beschikbaar in het koptekstmenu.

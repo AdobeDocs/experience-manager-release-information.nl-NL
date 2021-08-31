@@ -2,14 +2,13 @@
 title: Cumulatieve herstelpakketten installeren op AEM Forms JEE
 description: Overzicht van stappen voor installatie en configuratie van Cumulative Fix Pack (GVB) op AEM Forms JEE
 contentOwner: AK
-translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
-
 
 # Cumulatieve herstelpakketten installeren op AEM[!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
@@ -22,13 +21,13 @@ Voer de volgende stappen uit, in de gespecificeerde opeenvolging, om cumulatief 
 1. Installeer de nieuwste AEM GVB [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
 1. Het [!DNL Forms] Add-on-pakket installeren voor AEM GVB [6.3.3.x](aem-forms-releases.md)
 
-### AEM [!DNL Forms JEE] bundelpakket {#install-aem-forms-jee-bundles-package} installeren
+### AEM [!DNL Forms JEE] bundelpakket installeren {#install-aem-forms-jee-bundles-package}
 
-[[!DNL  Forms JEE] AEMpackage](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG) (aemfd-jee-bundles-package-6.3GVB1; versie 1.0.2) biedt de  [!DNL Forms] gebruiker AEM dezelfde rechten en mogelijkheden als  [!DNL Forms JEE] de gebruiker bij AEM  [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+AEM [!DNL  Forms JEE]-pakket (aemfd-jee-bundles-package-6.3GVB1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als op AEM [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Aanvullende instructies voor CQ-4208044 {#additional-instructions-for-cq}
 
-Als u AEM 6.3 [!DNL Forms JEE] server met het gegevensbestand van Oracle gebruikt, vorm de volgende montages na plaatsing van GVB1, namelijk nadat de Manager van de Configuratie in werking wordt gesteld. Deze instelling is vereist voor het synchroniseren van gebruikers, groepen en groepsleden wanneer de domeinsynchronisatie van de onderneming wordt uitgevoerd. Zie CQ-4208044 in [AEM 6.3 release notes](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205).
+Als u AEM 6.3 [!DNL Forms JEE] server met het gegevensbestand van het Oracle gebruikt, vorm de volgende montages na plaatsing van GVB1, namelijk nadat de Manager van de Configuratie in werking wordt gesteld. Deze instelling is vereist voor het synchroniseren van gebruikers, groepen en groepsleden wanneer de domeinsynchronisatie van de onderneming wordt uitgevoerd. Zie CQ-4208044 in [AEM 6.3 release notes](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205).
 
 1. Meld u aan bij de gebruikersinterface **Admin**.
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
@@ -49,14 +48,14 @@ Voer de volgende stappen uit, in de gespecificeerde opeenvolging, om cumulatief 
 
 1. Neem contact op met [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) voor het installatieprogramma van AEM 6.2 [!DNL Forms JEE] voor het GVB.
 1. Voer het GVB-installatieprogramma uit en configureer AEM [!DNL Forms JEE] zoals beschreven in [AEM installeren en configureren [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
-1. Installeer [AEM Hotfix 12785 versie 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785).
+1. Installeer AEM Hotfix 12785 versie 7.0.
 1. Installeer [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 1. Installeer de nieuwste [AEM 6.2 Service Pack1 GVB](release-notes-aem-6-2-cumulative-fix-pack.md).
 1. Installeer het [!DNL Forms] Add-on-pakket voor [AEM 6.2 Service Pack 1 GVB](aem-forms-releases.md).
 
-### AEM [!DNL Forms JEE] bundelpakket {#install-aem-forms-jee-bundles-package-1} installeren
+### AEM [!DNL Forms JEE] bundelpakket installeren {#install-aem-forms-jee-bundles-package-1}
 
-[AEM Forms JEE-pakket](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&amp;$$login$$=%24%24login%24%24) (aemfd-jee-bundles-package-6.2GVB5; versie 1.0.2) biedt de  [!DNL Forms] gebruiker AEM dezelfde rechten en mogelijkheden als  [!DNL Forms JEE] de gebruiker bij AEM  [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+AEM Forms JEE-pakket (aemfd-jee-bundles-package-6.2GVB5; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als op AEM [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Time-out configureren voor bewerkingen op componentniveau (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -94,7 +93,7 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
    &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot; instellen
 
-## AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee} installeren en configureren
+## AEM [!DNL Forms JEE] installeren en configureren {#install-and-configure-aem-forms-jee}
 
 1. Maak een back-up van de map /Implementeren. Dit is vereist als u besluit de snelle oplossing te verwijderen.
 1. Stop uw toepassingsserver.
