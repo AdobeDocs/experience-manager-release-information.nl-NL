@@ -2,7 +2,7 @@
 title: Oudere versies van AEM, CQ en CRX
 description: Documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
+source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ## Oudere versies van [!DNL Experience Manager] documentatie {#older-version-aem-documentation}
 
-De versies van [!DNL Experience Manager], CQ en CRX die op deze pagina worden vermeld zijn Einde van Leven en niet meer officieel verkocht door Adobe. Onze laatste versies van officiële documentatie voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Wij adviseren u aan de recentste versie (die momenteel [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html)) is.
+De versies van [!DNL Adobe Experience Manager], CQ en CRX die op deze pagina worden vermeld zijn Einde van Leven en niet meer officieel verkocht door Adobe. Onze laatste versies van officiële documentatie voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Wij adviseren u aan de recentste versie - [[!DNL Adobe Experience Manager] als Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) te bevorderen.
 
 >[!NOTE]
 >
