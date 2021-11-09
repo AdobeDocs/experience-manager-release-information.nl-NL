@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] routekaart voor releases'
 description: '[!DNL Adobe Experience Manager] routekaart voor releases'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 92a62256c873371aa95c2afce1d7b02773e9f3b7
+source-git-commit: dcd72e5b5a4bbcf7c9892b654a18f4b687dc2c2c
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 4%
+source-wordcount: '311'
+ht-degree: 3%
 
 ---
 
@@ -23,8 +23,6 @@ ht-degree: 4%
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2021,9,0 | 2021,9,0 | Maandelijkse release | 6 oktober 2021 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2021 10,0 | 2021 10,0 | Maandelijkse release | 4 november 2021 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2021 11,0 | 2021 11,0 | Maandelijkse release | 2 december 2021 |
 
 Naast de maandelijkse versies zijn er verschillende kritieke updates beschikbaar in [!DNL Experience Manager] als [!DNL Cloud Service] met een dagelijkse uitgiftefrequentie.
