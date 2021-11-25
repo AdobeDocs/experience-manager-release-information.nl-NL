@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of gewijzigd is in [!DNL Experience Manager] documentatie
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 51d938030ea26948b99384a4b19d1730a568e350
+source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
 workflow-type: tm+mt
-source-wordcount: '4402'
+source-wordcount: '4417'
 ht-degree: 1%
 
 ---
@@ -65,6 +65,7 @@ U kunt ook [vorige documentatie-updates](previous-documentation-updates.md).
 
 | Datum | Onderwerp | Wijzigingen |
 | --- | --- | --- |
+| 25 november 2021 | [!DNL Experience Manager] 6.5 Service Pack 11 | [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 3 november 2021 | Smart Crop Video Viewer API | Nieuw [Smart Crop Video Viewer API-documentatie nu beschikbaar](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en) in de Dynamic Media Viewers Reference Guide. |
 | 26 augustus 2021 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |
 | 27 mei 2021 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is beschikbaar. |

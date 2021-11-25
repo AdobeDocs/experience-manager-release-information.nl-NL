@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] releaseupdates'
 description: '[!DNL Adobe Experience Manager] releaseupdates'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 2%
@@ -14,29 +14,29 @@ ht-degree: 2%
 
 ![[!DNL Experience Manager] nieuwe releases](assets/new-aem-releases1.jpeg)
 
-[!DNL Adobe Experience Manager] geeft ononderbroken updates vrij die eigenschappen, verhogingen, en insectenmoeilijke situaties voor zijn  [!DNL Cloud Service]s, de Beheerde Diensten van Adobe, en dienstenaanbod op locatie omvatten.
+[!DNL Adobe Experience Manager] versies van ononderbroken updates die eigenschappen, verhogingen, en insectenmoeilijke situaties voor zijn omvatten [!DNL Cloud Service]s, Adobe Managed Services en on-premise aanbiedingen.
 
 In dit artikel wordt de meest recente versie voor elke releasecategorie weergegeven en wordt u verwezen naar de documentatie voor die versies.
 
-## [!DNL Experience Manager] als  [!DNL Cloud Service] {#aem-as-cloud-service}
+## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] als  [!DNL Cloud Service] volgt op een maandrelease cadence. Als gevolg hiervan zijn nieuwe functies elke maand beschikbaar als doorlopende updates naar [!DNL Experience Manager].
+[!DNL Experience Manager] als [!DNL Cloud Service] volgt elke maand een release cadence. Als gevolg hiervan zijn nieuwe functies beschikbaar als continue updates voor [!DNL Experience Manager] elke maand.
 
-Zie [Huidige releaseopmerkingen voor [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) voor meer informatie over de huidige/laatste versie. Van hieruit kunt u ook naar details van eerdere versies (chronologisch gerangschikt) navigeren.
+Zie [Huidige releaseopmerkingen voor [!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) voor meer informatie over de huidige/laatste versie. Van hieruit kunt u ook naar details van eerdere versies (chronologisch gerangschikt) navigeren.
 
 ## [!DNL Experience Manager] on-premisse en beheerde services {#aem-on-prem-managed-services}
 
-Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een lijst van de recentste Cumulatieve versie van Fix Pack, de recentste versie van Service Pack, en de belangrijkste versie en leidt u aan de documentatie voor die versieversies. [!DNL Adobe] raadt u aan het nieuwste servicepack te bekijken en toe te passen, gevolgd door het nieuwste cumulatieve fixpack voor uw  [!DNL Experience Manager] versie, zodat uw implementatie stabiel, veilig en up-to-date blijft.
+Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een lijst van de recentste Cumulatieve versie van Fix Pack, de recentste versie van Service Pack, en de belangrijkste versie en leidt u aan de documentatie voor die versieversies. [!DNL Adobe] raadt u aan het nieuwste servicepakket te bekijken en toe te passen, gevolgd door het nieuwste cumulatieve reparatiepakket voor uw [!DNL Experience Manager] -versie om uw implementatie stabiel, veilig en up-to-date te houden.
 
 ### [!DNL Experience Manager] 6,5 {#aem-65}
 
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
 
 * [[!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
 
-Zie [nieuw in [!DNL Experience Manager] 6.5 Service Packs](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html) voor de lijst met nieuwe functies.
+Voor de lijst met geïntroduceerde functies raadpleegt u [nieuwe functies in [!DNL Experience Manager] 6.5 Servicepacks](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html).
 
 ### [!DNL Experience Manager] 6,4 {#aem-64}
 
