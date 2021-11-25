@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] recente documentupdates'
 description: Wat nieuw, bijgewerkt of gewijzigd is in [!DNL Experience Manager] documentatie
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4417'
+source-wordcount: '4493'
 ht-degree: 1%
 
 ---
@@ -32,6 +32,7 @@ U kunt ook [vorige documentatie-updates](previous-documentation-updates.md).
 
 | Date | Onderwerp | Wijzigingen |
 | --- | --- | --- |
+| 25 november 2021 | AEM met Dynamic Media - Configuratie | U kunt Algemene instellingen nu rechtstreeks vanuit Dynamic Media configureren en installatie publiceren in AEM in plaats van de Dynamic Media Desktop-toepassing te gebruiken.<br>Zie [Algemene instellingen van Dynamic Media configureren](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) en [Dynamic Media-publicatie-instellingen voor afbeeldingsserver configureren](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>Zie ook [Dynamic Media configureren - Scene7-modus](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html) |
 | 4 november 2021 | AEM met Dynamic Media - Slim uitsnijden | Verbeterde slimme uitsnijdingen en slimme stalen voor afbeeldingselementen met de nieuwste Adobe Sensei-services. Documentatie-updates omvatten:<br>・ Nieuw **[!UICONTROL Preserve crop content across target resolutions]** in het dialoogvenster Opties voor uitsnijden in Afbeeldingsprofielen.<br>・ Wanneer u het venster voor slimme uitsnijdingen van meerdere elementen handmatig opnieuw uitlijnt of de grootte ervan wijzigt, blijven deze bewerkingen behouden, zelfs als u later besluit deze elementen opnieuw te verwerken. Als u echter de breedte, de hoogte of beide in het dialoogvenster **[!UICONTROL Responsive Image Crop]** in het afbeeldingsprofiel, worden deze elementen opnieuw verwerkt.<br>・ Nieuwe tabel met ondersteunde indelingen voor afbeeldingsbestanden voor SmartCrop en Kleurstalen.<br>Zie [Afbeeldingsprofielen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html) voor deze updates. |
 | 3 november 2021 | Smart Crop Video Viewer API | Nieuw [Smart Crop Video Viewer API-documentatie nu beschikbaar](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en) in de Dynamic Media Viewers Reference Guide. |
 | 2 december 2020 | Voorinstellingen batchset | Leer hoe u afbeeldingssets kunt automatiseren en het maken van centrifuges kunt uitvoeren met behulp van voorinstellingen voor batchsets in Dynamic Media. Zie [Voorinstellingen batchset](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia). |
