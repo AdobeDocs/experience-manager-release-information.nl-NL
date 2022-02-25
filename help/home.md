@@ -1,18 +1,17 @@
 ---
-title: '[!DNL Adobe Experience Manager] Updates en routekaart vrijgeven'
-description: '[!DNL Adobe Experience Manager] Updates en routekaart vrijgeven'
-translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+title: '"[!DNL Adobe Experience Manager] Updates vrijgeven en routekaart"'
+description: '"[!DNL Adobe Experience Manager] Updates vrijgeven en routekaart"'
+exl-id: 861337af-1604-4a8d-aeda-23d80315c544
+source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Updates van de Adobe Experience Manager-release en Routekaart
 
-In deze handleiding vindt u informatie over routekaart, updates van vorige releases en documentatie-updates voor [!DNL Adobe Experience Manager].
+Deze handleiding behandelt informatie over [!DNL Adobe Experience Manager] versies roadmap, vorige versieupdates, en documentatieupdates.
 
 * [[!DNL Experience Manager] releaseupdates](aem-releases-updates.md)
 * [[!DNL Experience Manager] routekaart voor releases](update-releases-roadmap.md)
@@ -26,7 +25,7 @@ In deze handleiding vindt u informatie over routekaart, updates van vorige relea
 ## [!DNL Experience Manager] Forms-release-updates
 
 * [[!DNL Experience Manager] Forms-releases](aem-forms-releases.md)
-* [Cumulatieve herstelpakketten installeren  [!DNL Experience Manager] op Forms JEE](install-cfp-aem-forms-jee.md)
+* [Cumulatieve herstelpakketten installeren op [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Documentatie-updates
 
