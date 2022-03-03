@@ -2,10 +2,10 @@
 title: '"[!DNL Adobe Experience Manager] releasemap"'
 description: '"[!DNL Adobe Experience Manager] releasemap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
+source-git-commit: 7050ba180d88533bc057a6789ba5e1fb75b4f28a
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 4%
 |---|---|---|---|
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2021 11,0 | 2021 11,0 | Maandelijkse release | 16 december 2021 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,1,0 | 2022,1,0 | Maandelijkse release | 3 februari 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,2,0 | 2022,2,0 | Maandelijkse release | 3 maart 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,2,0 | 2022,2,0 | Maandelijkse release | maart 10, 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,3,0 | 2022,3,0 | Maandelijkse release | 31 maart 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,4,0 | 2022,4,0 | Maandelijkse release | 28 april 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,5,0 | 2022,5,0 | Maandelijkse release | 26 mei 2022 |
