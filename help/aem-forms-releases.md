@@ -3,7 +3,7 @@ title: AEM Forms-releases
 description: Bevat een lijst met alle AEM Forms-releases en bijbehorende pakketten
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 66fa1fe6c5d104dd263098754c5785b8794ccf30
+source-git-commit: e231653f1fe5027d7ce8bbe5b4cdaf949479872d
 workflow-type: tm+mt
 source-wordcount: '12175'
 ht-degree: 0%
@@ -32,7 +32,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
     <td><strong>Versies samenstellen</strong></td>
    </tr>
    <tr>
-    <td>3 februari 2022</td>
+    <td>3 maart 2022</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 12 Forms add-on pakket voor AEM 6.5.12.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
     <td>
