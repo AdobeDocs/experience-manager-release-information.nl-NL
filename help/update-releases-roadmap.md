@@ -2,9 +2,9 @@
 title: '"[!DNL Adobe Experience Manager] releasemap"'
 description: '"[!DNL Adobe Experience Manager] releasemap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
+source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '325'
 ht-degree: 4%
 
 ---
@@ -19,17 +19,15 @@ ht-degree: 4%
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) volgt elke maand een release cadence. Als gevolg hiervan zijn nieuwe functies beschikbaar als continue updates voor [!DNL Experience Manager] elke maand. De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service]en is als volgt.
+[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) volgt over het algemeen een maandelijks versiecadence voor nieuwe eigenschappen. De aanstaande eigenschapversies voor [!DNL Experience Manager] als [!DNL Cloud Service]De plannen zijn als volgt.
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2021 11,0 | 2021 11,0 | Maandelijkse release | 16 december 2021 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,1,0 | 2022,1,0 | Maandelijkse release | 3 februari 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,3,0 | 2022,3,0 | Maandelijkse release | 31 maart 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,4,0 | 2022,4,0 | Maandelijkse release | 28 april 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,5,0 | 2022,5,0 | Maandelijkse release | 26 mei 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,3,0 | 2022,3,0 | Functie vrijgeven | 31 maart 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,4,0 | 2022,4,0 | Functie vrijgeven | 28 april 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,5,0 | 2022,5,0 | Functie vrijgeven | 26 mei 2022 |
 
-Naast de maandelijkse versies zijn er verschillende kritieke updates beschikbaar in [!DNL Experience Manager] als [!DNL Cloud Service] met een dagelijkse uitgiftefrequentie.
+Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsreleases, waarbij doorgaans wekelijks een overeenkomstige onderhoudsupdate plaatsvindt.
 
 ## [!DNL Experience Manager] on-premisse en beheerde services {#aem-on-prem-managed-services}
 
