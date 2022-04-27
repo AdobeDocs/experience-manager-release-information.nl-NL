@@ -2,7 +2,7 @@
 title: '"[!DNL Adobe Experience Manager] releasemap"'
 description: '"[!DNL Adobe Experience Manager] releasemap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
+source-git-commit: b4b4a8a54940a05f886af5b0f93e04faa5c1d0d1
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 4%
@@ -24,7 +24,7 @@ ht-degree: 4%
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,3,0 | 2022,3,0 | Functie vrijgeven | 31 maart 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,4,0 | 2022,4,0 | Functie vrijgeven | 28 april 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,4,0 | 2022,4,0 | Functie vrijgeven | 5 mei 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,5,0 | 2022,5,0 | Functie vrijgeven | 26 mei 2022 |
 
 Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsreleases, waarbij doorgaans wekelijks een overeenkomstige onderhoudsupdate plaatsvindt.
