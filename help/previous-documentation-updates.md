@@ -1,18 +1,18 @@
 ---
 title: Updates van vorige documentatie
-description: Deze pagina maakt een lijst van oudere belangrijke documentatieveranderingen en updates voor  [!DNL Adobe Experience Manager].
+description: Deze pagina bevat een lijst met oudere belangrijke documentwijzigingen en updates voor [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 83a535170db2fb2c2d4b306710935298c2ee8cf5
+source-git-commit: febba72bfc60c2b92304da4cd38945674c66f9cf
 workflow-type: tm+mt
-source-wordcount: '9196'
+source-wordcount: '9150'
 ht-degree: 1%
 
 ---
 
 # Updates van vorige documentatie{#previous-documentation-updates}
 
-Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager]. U kunt [Recente Documentatie Updates](documentation-updates.md) hier bekijken.
+Deze pagina bevat een lijst met oudere belangrijke documentwijzigingen en updates voor [!DNL Adobe Experience Manager]. U kunt de [Recente documentatieupdates](documentation-updates.md) hier.
 
 ## [!DNL Adobe Experience Manager] 6,5 {#aem-65}
 
@@ -25,8 +25,8 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   </tr>
    <tr>
    <td>12 dec. 2019</td> 
-   <td>Voorvertoning van 3D-elementen<br /> </td> 
-   <td><p>AEM ondersteunt het uploaden, leveren en interactief voorvertonen van 3D-elementen als onderdeel van het ontwerpproces. De interactieve 3D-viewer is beschikbaar op de pagina met elementdetails in AEM. De viewer bevat onder andere een verzameling interactieve besturingselementen voor camera waarmee u het 3D-element kunt draaien, zoomen en pannen.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=en" target="_blank">Voorvertoning van 3D-elementen</a>.</p> </td> 
+   <td>3D-elementen voorvertonen<br /> </td> 
+   <td><p>AEM ondersteunt het uploaden, leveren en interactief voorvertonen van 3D-elementen als onderdeel van het ontwerpproces. De interactieve 3D-viewer is beschikbaar op de pagina met elementdetails in AEM. De viewer bevat onder andere een verzameling interactieve besturingselementen voor camera waarmee u het 3D-element kunt draaien, zoomen en pannen.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=en" target="_blank">3D-elementen voorvertonen</a>.</p> </td> 
   </tr>
   <tr>
    <td>12 dec. 2019</td> 
@@ -35,38 +35,38 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   </tr>
   <tr>
    <td>5 dec. 2019</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td>Versie 2.8.0 van de Componenten van de kern met inbegrip van veel moeilijke situaties is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td>Core Components versie 2.8.0 inclusief veel oplossingen is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
   </tr>
   <tr>
    <td>20 nov. 2019</td> 
    <td>Projectarchetype AEM<br /> </td> 
-   <td>Het <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">AEM Projectarchetype</a> is een nuttig en flexibel hulpmiddel om de ontwikkeling aan de voorzijde voor uw AEM project gemakkelijker te maken.<br /> </td> 
+   <td>De <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">Projectarchetype AEM</a> is een handig en flexibel hulpmiddel om de ontwikkeling aan de voorzijde van uw AEM project te vergemakkelijken.<br /> </td> 
   </tr>
   <tr>
    <td>18 okt. 2019<br /> </td> 
    <td>Projectarchetype AEM<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">Met het AEM Project </a> Archetypecreeert u een Adobe Experience Manager-project op basis van best practices als startpunt voor uw eigen AEM projecten.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">Het AEM Project Archetype</a> maakt een Adobe Experience Manager-project op basis van best practices als uitgangspunt voor uw eigen AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 okt. 2019<br /> </td> 
-   <td>Beleidsloos ervaringsbeheer<br /> </td> 
-   <td>Functies van de <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=en">Renderer voor externe inhoud</a>, die wordt gebruikt voor rendering aan serverzijde van toepassingen op één pagina, zijn gedocumenteerd.<br /> </td> 
+   <td>Erviteitsbeheer zonder hoofd<br /> </td> 
+   <td>Functies van de <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=en">Renderer voor externe inhoud</a>, gebruikt voor rendering op de server van toepassingen op één pagina, zijn gedocumenteerd.<br /> </td> 
   </tr>
   <tr>
    <td>11 oktober 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Vanwege beveiligingswijzigingen in de Adobe Analytics API is het niet langer mogelijk om de versie van de Activity Map te gebruiken die in AEM is opgenomen. Zie <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=en" target="_blank">ActivityMap plug-in geleverd door Adobe Analytics</a> moet nu worden gebruikt. </p> </td> 
+   <td><p>Vanwege beveiligingswijzigingen in de Adobe Analytics API is het niet langer mogelijk om de versie van de Activity Map te gebruiken die in AEM is opgenomen. Zie <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=en" target="_blank">ActivityMap-plug-in geleverd door Adobe Analytics</a> moet nu worden gebruikt. </p> </td> 
   </tr>
   <tr>
    <td>10 oktober 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager-versie 2019.10.0 is uitgebracht op 10 oktober 2019.</p> <p>Raadpleeg <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en">Opmerkingen bij de release voor 2019.10.0</a> die <i>Nieuwe functies</i> en updates over implementatiestappen markeren en de verwerking van projectversies controleren.<br /> </p> </td> 
+   <td><p>Cloud Manager-versie 2019.10.0 is uitgebracht op 10 oktober 2019.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en">Opmerkingen bij de release 2019.10.0</a> die <i>Nieuwe functies</i> en updates over plaatsingsstappen en uitgevoerde projectversie behandeling.<br /> </p> </td> 
   </tr>
   <tr>
    <td>08 okt. 2019</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>AEM Screens heeft AEM 6.4.6 Feature Pack 6 en AEM 6.5.2 Feature Pack 2 uitgebracht.</p> <p>Raadpleeg <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html">Opmerkingen bij de release voor Feature Pack 201909</a> voor meer informatie.</p> </td> 
+   <td><p>AEM Screens heeft AEM 6.4.6 Feature Pack 6 en AEM 6.5.2 Feature Pack 2 uitgebracht.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html">Opmerkingen bij de release voor Feature Pack 201909</a> voor meer informatie .</p> </td> 
   </tr>
   <tr>
    <td>1 okt. 2019</td> 
@@ -76,22 +76,22 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>1 okt. 2019 </td> 
    <td>Best Practices Guide voor AEM Screens-projecten</td> 
-   <td><p>Deze nieuwe gids verstrekt niet alleen een uitvoerig inzicht en praktisch advies om zich voor te stellen, ontwerpen en opzettelijke klantenervaringen in uw digitale signaalimplementatie te brengen maar ook gidst u hoe te om een positieve invloed op uw zaken tot stand te brengen gebruikend enkele beste praktijken die terwijl het opstellen van een digitaal ondertekeningsproject in AEM Screens worden gevolgd.</p> <p>Raadpleeg <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html">Handleiding met aanbevolen procedures voor AEM Screens-projecten</a> voor meer informatie.</p> </td> 
+   <td><p>Deze nieuwe gids verstrekt niet alleen een uitvoerig inzicht en praktisch advies om zich voor te stellen, ontwerpen en opzettelijke klantenervaringen in uw digitale signaalimplementatie te brengen maar ook gidst u hoe te om een positieve invloed op uw zaken tot stand te brengen gebruikend enkele beste praktijken die terwijl het opstellen van een digitaal ondertekeningsproject in AEM Screens worden gevolgd.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html">Best Practices Guide voor AEM Screens-projecten</a> voor meer informatie .</p> </td> 
   </tr>
   <tr>
    <td>25 september 2019</td> 
    <td>Kernonderdelen</td> 
-   <td>Versie 2.7.0 van de Componenten van de kern die de Embed Component introduceert is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
+   <td>Core Components versie 2.7.0 introduceert de Embed Component nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
   </tr>
   <tr>
    <td>25 sep. 2019</td> 
-   <td>AEM Assets search<br /> </td> 
-   <td>Nieuwe inhoud voor het zoeken naar en opsporen van bedrijfsmiddelen is een one-stop-shop voor informatie over het gebruik, configureren, oplossen van problemen, beperkingen en tips. <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=en" target="_blank">zoekmiddelen</a> uitchecken.</td> 
+   <td>AEM Assets-zoekopdracht<br /> </td> 
+   <td>Nieuwe inhoud voor het zoeken naar en opsporen van bedrijfsmiddelen is een one-stop-shop voor informatie over het gebruik, configureren, oplossen van problemen, beperkingen en tips. Uitchecken <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=en" target="_blank">zoekelementen</a>.</td> 
   </tr>
   <tr>
    <td>25 sep. 2019</td> 
    <td>Scene7: Workflow Middelen opnieuw verwerken<br /> </td> 
-   <td><p>U kunt nu elementen opnieuw verwerken in een map die al een bestaand verwerkingsprofiel heeft dat u later hebt gewijzigd.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">Elementen opnieuw verwerken in een map</a>.<br /> </p> </td> 
+   <td><p>U kunt nu elementen opnieuw verwerken in een map die al een bestaand verwerkingsprofiel heeft dat u later hebt gewijzigd.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">Elementen in een map opnieuw verwerken</a>.<br /> </p> </td> 
   </tr>
   <tr>
    <td>25 sep. 2019</td> 
@@ -106,112 +106,112 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>9 sep. 2019</td> 
    <td>Bureaubladapp AEM</td> 
-   <td>AEM desktop app v2.0 is openbaar beschikbaar voor creatieve gebruikers, marketers en zakelijke gebruikers om met AEM Assets te werken. Zie de <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html" target="_blank">releaseopmerkingen</a>.<br /> </td> 
+   <td>AEM desktop app v2.0 is openbaar beschikbaar voor creatieve gebruikers, marketers en zakelijke gebruikers om met AEM Assets te werken. Zie de <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">releaseopmerkingen</a>.<br /> </td> 
   </tr>
   <tr>
    <td>9 sep. 2019</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td>Meer informatie over de lokalisatiefuncties van de Core Components en over hoe deze werken met AEM sjablonen <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html">in dit voorbeeld.</a><br /> </td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td>Meer informatie over de lokalisatiefuncties van de Core Components en over hoe deze werken met AEM sjablonen <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html">in dit voorbeeld.</a><br /> </td> 
   </tr>
   <tr>
    <td>6 sep. 2019</td> 
    <td>Kernonderdelen</td> 
-   <td>Versie 2.6.0 van de Componenten van de kern introducerend een Component van het Fragment van de Ervaring is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
+   <td>Core Components versie 2.6.0, die een Experience Fragment-component introduceert, is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
   </tr>
   <tr>
    <td>21 aug. 2019</td> 
    <td>Gebruikershandleiding voor AEM 6.5-schermen</td> 
-   <td>Een nieuwe sectie op de Grondbeginselen van de Plaatsing van het Netwerk is nu live. Raadpleeg <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">Handboek</a> voor meer informatie.</td> 
+   <td>Een nieuwe sectie op de Grondbeginselen van de Plaatsing van het Netwerk is nu live. Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html">Handboek</a> voor meer informatie .</td> 
   </tr>
   <tr>
    <td>20 aug. 2019</td> 
-   <td>AEM Assets Smart Tags<br /> </td> 
-   <td>Zorg dat u weet hoe u het certificaat <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/config-smart-tagging.html#certrenew" target="_blank">bijwerkt</a> nadat dit is verlopen.</td> 
+   <td>Slimme AEM Assets-tags<br /> </td> 
+   <td>Weten hoe te <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#certrenew" target="_blank">certificaat bijwerken</a> nadat het is verlopen.</td> 
   </tr>
   <tr>
    <td>2 aug. 2019</td> 
-   <td>Nieuw PDF-rasterpakket<br /> </td> 
-   <td>Er is een <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-pdf-rasterizer.html" target="_blank">nieuw pakket beschikbaar</a> waarmee AEM Assets zware AI/PDF-bestanden kan verwerken en voorvertoningen en miniaturen kan genereren.<br /> </td> 
+   <td>Nieuwe PDF-rasterverpakking<br /> </td> 
+   <td>A <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-pdf-rasterizer.html" target="_blank">nieuw pakket beschikbaar</a> waarmee AEM Assets zware AI/PDF-bestanden kan verwerken en voorvertoningen en miniaturen kan genereren.<br /> </td> 
   </tr>
   <tr>
    <td>25 jul. 2019</td> 
    <td>AEM Assets-functionaliteit onder verschillicenties</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=en" target="_blank">Lijst met </a> mogelijkheden van AEM Assets die beschikbaar zijn in een zelfstandige DAM-licentie versus in AEM MediaLibrary, wordt bijgewerkt voor AEM 6.5-release.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=en" target="_blank">Lijst met mogelijkheden</a> van AEM Assets die beschikbaar zijn in een zelfstandige DAM-licentie versus in AEM MediaLibrary worden bijgewerkt voor AEM 6.5-release.<br /> </td> 
   </tr>
   <tr>
    <td>12 jul. 2019</td> 
    <td>Bestanden uploaden in Dynamic Media Classic</td> 
-   <td>Het <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=en#upload-options">Upload de dialoogvakje van de Opties van de Baan</a> onderwerp in de Klassiek van Dynamic Media werd herschreven en bijgewerkt.</td> 
+   <td>De <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=en#upload-options">Opties voor uploaden, dialoogvenster</a> onderwerp in Dynamic Media Classic is herschreven en bijgewerkt.</td> 
   </tr>
   <tr>
    <td>08 jul. 2019</td> 
    <td>Migratie naar de interface met aanraakbediening</td> 
-   <td>Informatie en bronnen over de landingspagina voor <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=en#introduction">migratie naar de interface met aanraakbediening</a>.</td> 
+   <td>Aanvoerpagina met informatie en bronnen voor <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=en#introduction">migreren naar de interface met aanraakbediening</a>.</td> 
   </tr>
   <tr>
    <td>03 jul. 2019</td> 
    <td>Ervaringsfragmenten</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">De Experience Fragment Link Rewriter - HTML</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">De Experience Fragment Link Rewriter Provider - HTML</a>.</td> 
   </tr>
   <tr>
    <td>03 jul. 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0)  </a>is beschikbaar.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is beschikbaar.</td> 
   </tr>
   <tr>
    <td>25 jun. 2019</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td>Versie 2.5.0 van de Componenten van de kern met inbegrip van nieuwe Accordeon, Knoop, Container en de componenten van de Download is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td>Core Components versie 2.5.0 inclusief nieuwe componenten Accordion, Button, Container en Download is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.</td> 
   </tr>
   <tr>
    <td>17 jun. 2019<br /> </td> 
    <td>Integratie van AEM Assets en Creative Cloud</td> 
-   <td>De beste praktijken worden bijgewerkt met een duidelijke afbeelding van bedrijfsvereisten, het aanbieden van de oplossing van de Adobe, en klantengebruiksgevallen. Er wordt een infografisch element toegevoegd om het visueel aantrekkelijk te maken. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM best practices voor Creative Cloud-integratie</a>.<br /> </td> 
+   <td>De beste praktijken worden bijgewerkt met een duidelijke afbeelding van bedrijfsvereisten, het aanbieden van de oplossing van de Adobe, en klantengebruiksgevallen. Er wordt een infografisch element toegevoegd om het visueel aantrekkelijk te maken. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">Aanbevolen werkwijzen voor Creative Cloud-integratie AEM</a>.<br /> </td> 
   </tr>
   <tr>
    <td>3 jun. 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Een pakket toegevoegd in <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">maak multifield component</a>.<br /> </p> <p>Er is een <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">veelgestelde vragen over probleemoplossing</a> gemaakt op basis van feedback van klanten.</p> </td> 
+   <td><p>Een pakket toegevoegd in het dialoogvenster <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">multifield-component maken</a>.<br /> </p> <p>Een <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">veelgestelde vragen over problemen</a> op basis van feedback van klanten.</p> </td> 
   </tr>
   <tr>
    <td>31 mei 2019</td> 
    <td>AEM- en Magento-integratie </td> 
-   <td><a href="https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/integrations.html">Commerce Integration Framework</a>.</td> 
+   <td><a href="https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/integrations.html">Kader voor integratie in de handel</a>.</td> 
   </tr>
   <tr>
    <td>24 mei 2019</td> 
-   <td>Aanraakstatus gebruikersinterface in AEM 6.5<br /> </td> 
-   <td>Gepubliceerd <a href="https://helpx.adobe.com/experience-manager/6-5/release-notes/touch-ui-features-status.html">Status aanraakinterface</a> pagina voor AEM 6.5<br /> </td> 
+   <td>Status van touch-functies in AEM 6.5<br /> </td> 
+   <td>Gepubliceerd <a href="https://helpx.adobe.com/experience-manager/6-5/release-notes/touch-ui-features-status.html">Status van TouchUI-functie</a> pagina voor AEM 6.5<br /> </td> 
   </tr>
   <tr>
    <td>14 mei 2019</td> 
    <td>Referentiehandleiding voor viewers</td> 
-   <td>De bepaling preload voor de videospeler in <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=en">Video</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=en">Video360</a> kijker wordt nu gedocumenteerd.</td> 
+   <td>De voorinstelling van de optie voor de videospeler in het deelvenster <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=en">Video</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=en">Video360</a> viewer is nu gedocumenteerd.</td> 
   </tr>
   <tr>
    <td>14 mei 2019</td> 
    <td>Dynamic Media Classic</td> 
-   <td>De Adobe Scene7 User's Guide is nu gemarkeerd als <i>Adobe Dynamic Media Classic</i>. Zie <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en">Klassieke documentatie van Dynamic Media</a>.<br /> </td> 
+   <td>De Adobe Scene7 User's Guide is nu gemarkeerd als <i>Adobe Dynamic Media Classic</i>. Zie <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en">Dynamic Media Classic-documentatie</a>.<br /> </td> 
   </tr>
   <tr>
    <td>13 mei 2019</td> 
    <td>IS/IR-API</td> 
-   <td>Nieuwe BFC-waarden (Browser Format Conversion) toegevoegd aan de sectie<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=en">Referentie afbeeldingscataloguskenmerken</a>.</td> 
+   <td>Nieuwe BFC-waarden (Browser Format Conversion) toegevoegd aan de<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=en">Referentiesectie voor kenmerken van afbeeldingscatalogus</a>.</td> 
   </tr>
   <tr>
    <td>8 mei 2019</td> 
-   <td>Kerncomponenten<br /> </td> 
+   <td>Kernonderdelen<br /> </td> 
    <td>Versie 2.4.0 van de Componenten van de kern met inbegrip van een nieuwe component van de Lijst van het Fragment van de Inhoud is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components">ontwikkelaardetails en projectdownload beschikbaar op GitHub</a>.<br /> </td> 
   </tr>
   <tr>
    <td>1 mei 2019</td> 
    <td>Referentiehandleiding voor viewers</td> 
-   <td><p>Nieuwe <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=en">360/VR-videodocumentatie</a>.</p> </td> 
+   <td><p>Nieuw <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=en">360/VR-videodocumentatie</a>.</p> </td> 
   </tr>
   <tr>
    <td>18 apr. 2019</td> 
    <td>AEM 6.5 Referentiematerialen</td> 
-   <td><p><a href="https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/reference-materials.html">Er zijn referentiematerialen beschikbaar, waaronder: </a> </p> 
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html">Referentiematerialen</a> zijn beschikbaar, waaronder:</p> 
     <ul> 
      <li>Adobe AEM 6.5.0 API</li> 
      <li>Granite UI (touch-interface) API-documentatie</li> 
@@ -225,12 +225,12 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>12 apr. 2019</td> 
    <td>Gebruikershandleiding voor AEM 6.5-schermen</td> 
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Windows 10 </a> Player implementeren voor meer informatie.</p> </td> 
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Windows 10 Player implementeren</a> voor meer informatie .</p> </td> 
   </tr>
   <tr>
    <td>8 april 2019</td> 
    <td>AEM Assets</td> 
-   <td>De functie voor het delen van mappen is afgekeurd. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">map die best practices deelt</a>.</td> 
+   <td>De functie voor het delen van mappen is afgekeurd. Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html" target="_blank">map delen, aanbevolen procedures</a>.</td> 
    </tr>
  </tbody>
 </table>
@@ -247,42 +247,42 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>12 dec. 2019</td> 
    <td>AEM 6.4 Service Pack 7</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a> is beschikbaar.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a> is beschikbaar.</td> 
   </tr>
   <tr>
    <td>11 oktober 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Vanwege beveiligingswijzigingen in de Adobe Analytics API is het niet langer mogelijk om de versie van de Activity Map te gebruiken die in AEM is opgenomen. Zie <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plug-in geleverd door Adobe Analytics</a> moet nu worden gebruikt. </p> </td> 
+   <td><p>Vanwege beveiligingswijzigingen in de Adobe Analytics API is het niet langer mogelijk om de versie van de Activity Map te gebruiken die in AEM is opgenomen. Zie <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap-plug-in geleverd door Adobe Analytics</a> moet nu worden gebruikt. </p> </td> 
   </tr>
   <tr>
    <td>25 sep. 2019</td> 
    <td>Scene7: Workflow Middelen opnieuw verwerken</td> 
-   <td><p>U kunt nu elementen opnieuw verwerken in een map die al een bestaand verwerkingsprofiel heeft dat u later hebt gewijzigd.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">Elementen opnieuw verwerken in een map</a>.</p> </td> 
+   <td><p>U kunt nu elementen opnieuw verwerken in een map die al een bestaand verwerkingsprofiel heeft dat u later hebt gewijzigd.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">Elementen in een map opnieuw verwerken</a>.</p> </td> 
   </tr>
   <tr>
    <td>19 sep. 2019</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> is beschikbaar.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> is beschikbaar.</td> 
   </tr>
   <tr>
    <td>9 sep. 2019<br /> </td> 
    <td>Bureaubladapp AEM</td> 
-   <td>AEM desktop app v2.0 is openbaar beschikbaar voor creatieve gebruikers, marketers en zakelijke gebruikers om met AEM Assets te werken. Zie de <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html" target="_blank">releaseopmerkingen</a>.</td> 
+   <td>AEM desktop app v2.0 is openbaar beschikbaar voor creatieve gebruikers, marketers en zakelijke gebruikers om met AEM Assets te werken. Zie de <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">releaseopmerkingen</a>.</td> 
   </tr>
   <tr>
    <td>6 sep. 2019</td> 
    <td><strong>Open-sourcing van AEM 6.4-documenten</strong></td> 
-   <td><p>AEM 6.4 documentatie wordt nu gepubliceerd van GitHub. Onze lezers kunnen niet alleen pagina's en logboekkwesties beoordelen, maar zelfs samenwerken en bijdragen aan de documenten. Lees voor een bijdrage de gedragscode en handleiding voor contribuanten op <a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>.</p> <p>Al uw updates zijn beschikbaar via uw pull-aanvragen voor AEM documentatie en productteams om te controleren voor goedkeuring en publicatie.</p> </td> 
+   <td><p>AEM 6.4 documentatie wordt nu gepubliceerd van GitHub. Onze lezers kunnen niet alleen pagina's en logboekkwesties beoordelen, maar zelfs samenwerken en bijdragen aan de documenten. Om bij te dragen, lees de gedragscode en de gids van de contribuant bij <a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>.</p> <p>Al uw updates zijn beschikbaar via uw pull-aanvragen voor AEM documentatie en productteams om te controleren voor goedkeuring en publicatie.</p> </td> 
   </tr>
   <tr>
    <td>20 aug. 2019</td> 
    <td>Slimme AEM Assets-tags</td> 
-   <td>Zorg dat u weet hoe u het certificaat <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">bijwerkt</a> nadat dit is verlopen.</td> 
+   <td>Weten hoe te <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">certificaat bijwerken</a> nadat het is verlopen.</td> 
   </tr>
   <tr>
    <td>2 aug. 2019<br /> </td> 
-   <td>Nieuw PDF-rasterpakket</td> 
-   <td>Er is een <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-pdf-rasterizer.html" target="_blank">nieuw pakket beschikbaar</a> waarmee AEM Assets zware AI/PDF-bestanden kan verwerken en voorvertoningen en miniaturen kan genereren.</td> 
+   <td>Nieuwe PDF-rasterverpakking</td> 
+   <td>A <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-pdf-rasterizer.html" target="_blank">nieuw pakket beschikbaar</a> waarmee AEM Assets zware AI/PDF-bestanden kan verwerken en voorvertoningen en miniaturen kan genereren.</td> 
   </tr>
   <tr>
    <td>03 jul. 2019</td> 
@@ -292,12 +292,12 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>17 jun. 2019</td> 
    <td>Integratie van AEM Assets en Creative Cloud</td> 
-   <td>De beste praktijken worden bijgewerkt met een duidelijke afbeelding van bedrijfsvereisten, het aanbieden van de oplossing van de Adobe, en klantengebruiksgevallen. Er wordt een infografisch element toegevoegd om het visueel aantrekkelijk te maken. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM best practices voor Creative Cloud-integratie</a>.</td> 
+   <td>De beste praktijken worden bijgewerkt met een duidelijke afbeelding van bedrijfsvereisten, het aanbieden van de oplossing van de Adobe, en klantengebruiksgevallen. Er wordt een infografisch element toegevoegd om het visueel aantrekkelijk te maken. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">Aanbevolen werkwijzen voor Creative Cloud-integratie AEM</a>.</td> 
   </tr>
   <tr>
    <td>3 jun. 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td>Een pakket toegevoegd in <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuratieartikel</a> met alle toegelaten stop-ins, dat als steekproefconfiguratie moet worden gebruikt. Een communitylid heeft een zelfstudie bijgeschreven over het <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">maken van een component met meerdere velden</a>.<br /> </td> 
+   <td>Een pakket toegevoegd in het dialoogvenster <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuratieartikel</a> met alle toegelaten stop-ins, als steekproefconfiguratie te gebruiken. Een lid van een community heeft een zelfstudie bijgeschreven over hoe <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">multifield-component maken</a>.<br /> </td> 
   </tr>
   <tr>
    <td>04 apr. 2019</td> 
@@ -307,34 +307,34 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>22 feb. 2019</td> 
    <td>Erviteitsbeheer zonder hoofd</td> 
-   <td><p>Voor hoogst aangepaste omnichannel ervaringen, kan een headless implementatie van AEM een aangewezen alternatief zijn om met douane front-end toepassingen te verbinden.</p> <p>De nieuwe <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/headless.ug.js">Headless Experience Management-handleiding</a> is een centrale locatie voor alle AEM onderwerpen zonder kop, zoals inhoudsservices, SPA, inhoudsfragmenten, ervaringsfragmenten en HTTP-API's.<br /> </p> </td> 
+   <td><p>Voor hoogst aangepaste omnichannel ervaringen, kan een headless implementatie van AEM een aangewezen alternatief zijn om met douane front-end toepassingen te verbinden.</p> <p>De nieuwe <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/headless.ug.js">Handleiding voor beheer van headless Experience</a> is een centrale plaats voor alle AEM hoofdloze onderwerpen met inbegrip van de inhoudsdiensten, SPA, inhoudsfragmenten, ervaringsfragmenten, en HTTP APIs.<br /> </p> </td> 
   </tr>
   <tr>
    <td>11 feb. 2019</td> 
-   <td>Samenwerken van documentatie<br /> </td> 
-   <td><p>De volgende AEM documentatiesets zijn gemigreerd naar een nieuw <a href="https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html">collaborative documentation platform</a>.</p> 
+   <td>Samenwerken aan documentatie<br /> </td> 
+   <td><p>De volgende AEM documentatiesets zijn gemigreerd naar een nieuwe <a href="https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html">samenwerkings documentatieplatform</a>.</p> 
     <ul> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html">Kernonderdelen</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html">Dispatcher</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html">HTL</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">Cloud Manager</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=en">Adobe Experience Cloud Library</a></li> 
-    </ul> <p>De inhoud is hetzelfde en de presentatie is enigszins verbeterd. Opwindender is de nieuwe capaciteit om uw documentatiesuggesties via trekkingsverzoeken of kwesties over GitHub via <strong>geef deze pagina</strong> en <strong>Logan een kwestie</strong> verbindingen op elke pagina uit. Wij verwelkomen uw inbreng!</p> </td> 
+    </ul> <p>De inhoud is hetzelfde en de presentatie is enigszins verbeterd. Meer opwindend is de nieuwe capaciteit om uw documentatiesuggesties via trekkingsverzoeken of kwesties over GitHub via bij te dragen <strong>Deze pagina bewerken</strong> en <strong>Een probleem aanmelden</strong> koppelingen op elke pagina. Wij verwelkomen uw inbreng!</p> </td> 
   </tr>
   <tr>
    <td>11 feb. 2019</td> 
    <td>Kernonderdelen</td> 
-   <td>Versie 2.3.0 van <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/separator.html">Scheidingscomponent</a>, verbeteringen aan <a href="http://opensource.adobe.com/aem-core-wcm-components/library/image.html">Componentbibliotheek</a> om het experimenteren met de componenten nog gemakkelijker te maken.<br /> </td> 
+   <td>Release 2.3.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/separator.html">Scheidingscomponent</a>, verbeteringen van de <a href="http://opensource.adobe.com/aem-core-wcm-components/library/image.html">Componentbibliotheek</a> om het experimenteren met de componenten nog gemakkelijker te maken.<br /> </td> 
   </tr>
   <tr>
    <td>10 jan. 2019</td> 
    <td>Ervaringsfragmenten</td> 
-   <td>Documentatie bij <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Het schrappen van een Fragment van de Ervaring reeds uitgevoerd aan Doel</a>.</td> 
+   <td>Documentatie over <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Een ervaringsfragment verwijderen dat al naar Doel is geëxporteerd</a>.</td> 
   </tr>
   <tr>
    <td>9 jan. 2019</td> 
    <td>Problemen met integratie oplossen</td> 
-   <td>Er is een nieuwe pagina <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/troubleshooting-integration-issues.html">Problemen met integratie oplossen</a> toegevoegd.</td> 
+   <td>Een nieuwe <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/troubleshooting-integration-issues.html">Problemen met integratie oplossen</a> pagina is toegevoegd.</td> 
   </tr>
   <tr>
    <td>20 december 2018</td> 
@@ -344,7 +344,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>17 december 2018</td> 
    <td>Ervaring fragmenten - Bouwstenen</td> 
-   <td>U kunt één of meerdere componenten selecteren om <a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/experience-fragments.html#authoring">een bouwsteen voor recycling binnen uw Fragment van de Ervaring tot stand te brengen</a>.</td> 
+   <td>U kunt een of meer componenten selecteren <a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/experience-fragments.html#authoring">een bouwsteen maken voor recycling binnen uw ervaringsfragment</a>.</td> 
   </tr>
   <tr>
    <td>11 december 2018</td> 
@@ -354,7 +354,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>11 december 2018</td> 
    <td>Toepassingen voor één pagina<br /> </td> 
-   <td>Een <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html">gids Aan de slag</a> is nu beschikbaar voor het kader van de Angular.<br /> </td> 
+   <td>A <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html">gids Aan de slag</a> is nu beschikbaar voor het kader van de Angular.<br /> </td> 
   </tr>
   <tr>
    <td>7 december 2018</td> 
@@ -364,32 +364,32 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>28 november 2018</td> 
    <td>Toepassingen voor één pagina</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">ontwikkelingsprincipes </a> en  <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">ontwerpmodellen </a> voor SPA in AEM.<br /> </td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">ontwikkelingsbeginselen</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">ontwerpmodellen</a> voor SPA in AEM.<br /> </td>
   </tr>
   <tr>
    <td>28 november 2018</td> 
    <td>Toepassingen voor één pagina</td> 
-   <td>Documentatie over de technische voorvertoning van de <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-ssr.html">renderfunctie aan serverzijde van SPA</a> is nu beschikbaar.<br /> </td> 
+   <td>Documentatie over de technische voorvertoning van de <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-ssr.html">renderfunctie aan de serverzijde van SPA</a> is nu beschikbaar.<br /> </td> 
   </tr>
   <tr>
    <td>28 november 2018</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">de documentatie over de kerncomponenten </a> is dienovereenkomstig bijgewerkt .<br /> </td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">kerncomponentdocumentatie</a> is dienovereenkomstig bijgewerkt.<br /> </td> 
   </tr>
   <tr>
    <td>19 november 2018</td> 
    <td>Ervaringsfragmenten</td> 
-   <td>Snelle startpagina voor ontwikkelaars, die benadrukken hoe te om <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">Fragments van de Ervaring in Wij.Retail</a> te gebruiken.<br /> </td> 
+   <td>Snelle startpagina voor ontwikkelaars, markering hoe te om te gebruiken <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">Ervaar fragmenten in We.Retail</a>.<br /> </td> 
   </tr>
   <tr>
    <td>2 november 2018</td> 
    <td>AEM Screens</td> 
-   <td>De AEM Screens-documentatie is verplaatst van de vertakking Sites naar de exclusieve vertakking Schermen. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM Screens User Guide</a> voor volledige geconsolideerde documentatie.</td> 
+   <td>De AEM Screens-documentatie is verplaatst van de vertakking Sites naar de exclusieve vertakking Schermen. Zie <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM Screens-gebruikershandleiding</a> voor volledige geconsolideerde documentatie.</td> 
   </tr>
   <tr>
    <td>1 november 2018</td> 
    <td>Cloud Manager</td> 
-   <td>Met de release van Cloud Manager 2018.9.0 wordt ondersteuning toegevoegd voor een op Adobe I/O gebaseerde API, inclusief Events, voor de integratie van de CI/CD-pijplijn van Cloud Manager met andere systemen. Het begint ook herschrijven van de laag UI in React. Volg de <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-2018-9-0.html">Opmerkingen bij de release voor 2018.9.0</a> voor meer informatie.</td> 
+   <td>Met de release van Cloud Manager 2018.9.0 wordt ondersteuning toegevoegd voor een op Adobe I/O gebaseerde API, inclusief Events, voor de integratie van de CI/CD-pijplijn van Cloud Manager met andere systemen. Het begint ook herschrijven van de laag UI in React. Volg de <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-2018-9-0.html">Opmerkingen bij de release 2018.9.0</a> voor meer informatie .</td> 
   </tr>
   <tr>
    <td>25 oktober 2018</td> 
@@ -398,63 +398,63 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   </tr>
   <tr>
    <td>16 oktober 2018</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td>Versie 2.2.0 van <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> componenten samen met verbeteringen aan het Beeld, Titel, en de componenten van de Pagina en talrijke insectenmoeilijke situaties.</td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td>Release 2.2.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> en bevat verbeteringen voor de componenten Afbeelding, Titel en Pagina en een groot aantal opgeloste problemen.</td> 
   </tr>
   <tr>
    <td>10 oktober 2018<br /> </td> 
    <td>Toepassingen voor één pagina</td> 
-   <td>Het AEM SPA Editor SDK-framework is beschikbaar als onderdeel van AEM 6.4.2.0 met <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">bijgewerkte documentatie</a>.<br /> </td> 
+   <td>Het framework AEM SPA Editor SDK is beschikbaar als onderdeel van AEM 6.4.2.0 met <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">bijgewerkte documentatie</a>.<br /> </td> 
   </tr>
   <tr>
    <td>3 oktober 2018</td> 
    <td>Statische sjablonen<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/platform/templates/page-templates-static.html">Hoe de ontwerpen op statische </a> malplaatjes worden toegepast is gedetailleerd geweest.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/platform/templates/page-templates-static.html">Hoe ontwerpen worden toegepast op statische sjablonen</a> is gedetailleerd.<br /> </td> 
   </tr>
   <tr>
    <td>3 oktober 2018</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) is beschikbaar.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0).</td> 
   </tr>
   <tr>
    <td>18 september 2018</td> 
    <td>AEM Screens</td> 
-   <td>Als u Dynamische ingesloten reeks wilt gebruiken, wijst u een kanaal door kanaalrol toe. <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html">Met Dynamische ingesloten reeks</a> kan de gebruiker een hiërarchie volgen waarin wijzigingen/updates die in één kanaal zijn aangebracht, worden doorgegeven aan een ander kanaal in relatie tot dat kanaal. De klasse volgt de bovenliggende-onderliggende hiërarchie en bevat ook elementen zoals afbeeldingen of video's.</td> 
+   <td>Als u Dynamische ingesloten reeks wilt gebruiken, wijst u een kanaal door kanaalrol toe. <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html">Dynamische ingesloten reeks gebruiken</a>, kan de gebruiker een hiërarchie volgen waarin wijzigingen/updates die in één kanaal zijn aangebracht, worden doorgegeven aan een ander kanaal in relatie tot dat kanaal. De klasse volgt de bovenliggende-onderliggende hiërarchie en bevat ook elementen zoals afbeeldingen of video's.</td> 
   </tr>
   <tr>
    <td>12 september 2018</td> 
    <td>Cloud Manager</td> 
-   <td>Autoscaling wordt toegelaten via horizontale schaal-uit van Dispatcher/publiceer segmenten op het productiemilieu om een plotselinge verhoging van lading, volume, toegang, en andere bepaalde gecontroleerde metriek te steunen. Volg de <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-2018-7-0.html">Opmerkingen bij de release voor 2018.7.0</a> voor meer informatie.</td> 
+   <td>Autoscaling wordt toegelaten via horizontale schaal-uit van Dispatcher/publiceer segmenten op het productiemilieu om een plotselinge verhoging van lading, volume, toegang, en andere bepaalde gecontroleerde metriek te steunen. Volg de <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-2018-7-0.html">Opmerkingen bij de release 2018.7.0</a> voor meer informatie .</td> 
   </tr>
   <tr>
    <td>29 augustus 2018<br /> </td> 
    <td>AEM Assets</td> 
-   <td>Om de integratie van Auth te vormen, is de de gatewaydienst van Adobe I/O beschikbaar bij <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">vorm AEM Assets integratie</a> en <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=en" target="_blank">vorm de integratie van Activa met Brand Portal</a> artikelen.</td> 
+   <td>Om de integratie van de Auth te vormen, is de de gatewaydienst van Adobe I/O beschikbaar bij <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">AEM Assets-integratie configureren</a> en <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=en" target="_blank">Integratie van middelen configureren met Brand Portal</a> artikelen.</td> 
   </tr>
   <tr>
    <td>24 augustus 2018</td> 
-   <td>Rich Text Editor<br /> </td> 
-   <td>Nieuwe <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">vorm RTE artikel</a> om het beter te structureren, voeg wat ontbrekende informatie toe, voeg een werkschemaillustratie toe, en spleet het long-form artikel.</td> 
+   <td>RTF-editor<br /> </td> 
+   <td>Hersteld <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">RTE-artikel configureren</a> om de structuur te verbeteren, voegt u ontbrekende informatie toe, voegt u een illustratie van de workflow toe en splitst u het artikel met de lange vorm.</td> 
   </tr>
   <tr>
    <td>24 augustus 2018</td> 
    <td>Toepassingen voor één pagina<br /> </td> 
-   <td>De documentatie voor het ontwikkelen van <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">Toepassingen voor één pagina (SPA)</a> voor de AEM SPA Editor is bijgewerkt en uitgebreid.<br /> </td> 
+   <td>De documentatie voor het ontwikkelen van <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">Toepassingen op één pagina (SPA)</a> voor de AEM SPA Editor is bijgewerkt en uitgebreid.<br /> </td> 
   </tr>
   <tr>
    <td>16 augustus 2018</td> 
    <td>Integratie van Livefyre</td> 
-   <td>Bijgewerkte <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 versie van het eigenschapspak</a>, evenals <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/feature-packs-release-notes.html">de pagina van het Pak van de Eigenschap </a>. </td> 
+   <td>Bijgewerkt <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 release met functiepakket</a>en de <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/feature-packs-release-notes.html">Functiepakket</a> pagina. </td> 
   </tr>
   <tr>
    <td>19 juli 2018</td> 
    <td>Core Components Release 2.1.0</td> 
-   <td>Versie 2.1.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/image.html">Verbeteringen van de component </a>, een nieuwe <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/teaser.html">Taser</a> component, en talrijke insectenmoeilijke situaties.</td> 
+   <td>Release 2.1.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/image.html">Afbeelding</a> componentverbeteringen, een nieuwe <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/teaser.html">Teaser</a> en een groot aantal opgeloste problemen.</td> 
   </tr>
   <tr>
    <td>19 juli 2018</td> 
    <td>API voor het leveren en renderen van afbeeldingen</td> 
-   <td><p>Afbeeldingsservice 6.6.1 en beeldweergave 6.6.1 zijn nu beschikbaar voor Dynamic Media op AEM en Dynamic Media Classic.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html?lang=en">Informatie over deze release</a>.</p> </td> 
+   <td><p>Afbeeldingsservice 6.6.1 en beeldweergave 6.6.1 zijn nu beschikbaar voor Dynamic Media op AEM en Dynamic Media Classic.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html?lang=en">Over deze release</a>.</p> </td> 
   </tr>
   <tr>
    <td>17 juli 2018</td> 
@@ -464,27 +464,27 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>13 juli 2018</td> 
    <td>Video-rapportage</td> 
-   <td><p>U kunt nu videomelding configureren in meerdere installaties van AEM Dynamic Media-hybride modus.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/config-dynamic.html?lang=en">Video Reporting</a> configureren.</p> </td> 
+   <td><p>U kunt nu videomelding configureren in meerdere installaties van AEM Dynamic Media-hybride modus.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/config-dynamic.html?lang=en">Video-rapportage configureren</a>.</p> </td> 
   </tr>
   <tr>
    <td>11 juli 2018</td> 
-   <td>Verbeteringen voor afbeelding<br /> </td> 
-   <td>Verschillende <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/featurepack/cq-6.3.0-featurepack-24268">functiepak 24268</a> en voor AEM 6.4 in <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">functiepak 24267</a>.<br /> </td> 
+   <td>Verbeterde afbeeldingen<br /> </td> 
+   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">functiepakket 24267</a>.<br /> </td> 
   </tr>
   <tr>
    <td>5 juli 2018</td> 
    <td>MC-CC-integratie<br /> </td> 
-   <td>Bugfixes en redactionele verbeteringen in <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configureer AEM Assets-integratie met Marketing Cloud en Creative Cloud artikel</a>.</td> 
+   <td>Bugfixes en redactionele verbeteringen in <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">AEM Assets-integratie configureren met Marketing Cloud- en Creative Cloud-artikel</a>.</td> 
   </tr>
   <tr>
    <td>5 juli 2018</td> 
    <td>Slimme tags voor elementen<br /> </td> 
-   <td>Verdere verbeteringen aan <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html">Vorm Slimme artikel van Markeringen</a> om betere structuur te geven, insecten te bevestigen, en dwars-verbinding met verwant artikel.</td> 
+   <td>Verdere verbeteringen van de <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html">Artikel Slimme tags configureren</a> om een betere structuur te krijgen, bugs te corrigeren en een kruiskoppeling met het desbetreffende artikel tot stand te brengen.</td> 
   </tr>
   <tr>
    <td>5 juli 2018</td> 
    <td>Integreren met Adobe Analytics<br /> </td> 
-   <td>Verschillende updates van de <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/adobeanalytics.html">Integratie met Adobe Analytics</a> pagina's.<br /> </td> 
+   <td>Verschillende updates van de <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/adobeanalytics.html">Integreren met Adobe Analytics</a> pagina's.<br /> </td> 
   </tr>
   <tr>
    <td>29 juni 2018</td> 
@@ -494,7 +494,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>25 juni 2018</td> 
    <td>Aanraakinterface</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/touch-ui-features-status.html">De </a> statuspagina voor de aanraakinterface is bijgewerkt voor 6.4.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/touch-ui-features-status.html">Status van TouchUI-functie</a> Deze pagina is bijgewerkt voor 6.4.<br /> </td> 
   </tr>
   <tr>
    <td>22 juni 2018</td> 
@@ -509,32 +509,32 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>14 juni 2018</td> 
    <td>Verbeterde slimme tags</td> 
-   <td>Verbeterde documentatie over het <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">configureren van asset tagging met behulp van de Smart Content Service</a>.</td> 
+   <td>Verbeterde documentatie over hoe <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">Asset tagging configureren met behulp van de Smart Content Service</a>.</td> 
   </tr>
   <tr>
    <td>4 juni 2018</td> 
    <td>Cloud Manager</td> 
-   <td>Er is nu documentatie beschikbaar over het gebruik van <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">Cloud Manager met AEM 6.4</a>.</td> 
+   <td>Documentatie over het gebruik <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">Cloud Manager met AEM 6.4</a> is nu beschikbaar.</td> 
   </tr>
   <tr>
    <td>30 mei 2018<br /> </td> 
    <td>Pakketvalidatie</td> 
-   <td>Bijgewerkt <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/contentmanagement/package-manager.html">Hoe te met Pakketten</a> documentatie met meer details over de nieuwe eigenschap van de pakketbevestiging met inbegrip van de capaciteit om ACLs te bevestigen.<br /> </td> 
+   <td>Bijgewerkt <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/contentmanagement/package-manager.html">Werken met pakketten</a> documentatie met meer details over de nieuwe eigenschap van de pakketbevestiging met inbegrip van de capaciteit om ACLs te bevestigen.<br /> </td> 
   </tr>
   <tr>
    <td>30 mei 2018</td> 
    <td>Activity Map</td> 
-   <td>Functionaliteit voor activiteitenkaarten voor gepubliceerde pagina's als onderdeel van de pagina-editor. Hoe te <a href="https://docs.adobe.com/content/help/en/experience-manager-64/authoring/page-performance/pa-using.html">gebruik</a>.</td> 
+   <td>Functionaliteit voor activiteitenkaarten voor gepubliceerde pagina's als onderdeel van de pagina-editor. Procedure <a href="https://docs.adobe.com/content/help/en/experience-manager-64/authoring/page-performance/pa-using.html">gebruiken</a>.</td> 
   </tr>
   <tr>
    <td>25 mei 2018<br /> </td> 
    <td>Gereedheid voor GDPR (AVG)</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html">GDPR </a> Readinesswith AEM.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html">GDPR gereedheid</a> met AEM.<br /> </td> 
   </tr>
   <tr>
    <td>4 mei 2018</td> 
    <td>AEM 6.4 Referentiematerialen<br /> </td> 
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/introduction/reference-materials.html">Er zijn referentiematerialen beschikbaar, waaronder: </a> </p> 
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/introduction/reference-materials.html">Referentiematerialen</a> zijn beschikbaar, waaronder:</p> 
     <ul> 
      <li>Adobe AEM 6.4.0 API</li> 
      <li>API-verschillen</li> 
@@ -550,12 +550,12 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>25 april 2018</td> 
    <td>Dynamic Media: Carousel Viewer</td> 
-   <td>De nieuwe <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=en" target="_blank">Carousel Viewer in Dynamic Media</a> geeft een carrousel van niet-zoombare bannerafbeeldingen weer met klikbare hotspots of gebieden. Het doel van deze viewer is om een 'shoppable carrousel'-ervaring te implementeren waarbij gebruikers een hotspot of een gebied boven de bannerafbeelding kunnen selecteren en worden omgeleid naar een Quickview- of productdetailpagina op de website van de klant. Het is ontworpen voor gebruik op desktops en mobiele apparaten.</td> 
+   <td>De nieuwe <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=en" target="_blank">Carousel Viewer in Dynamic Media</a> Hiermee geeft u een carrousel van niet-zoombare bannerafbeeldingen weer met klikbare hotspots of gebieden. Het doel van deze viewer is om een 'shoppable carrousel'-ervaring te implementeren waarbij gebruikers een hotspot of een gebied boven de bannerafbeelding kunnen selecteren en worden omgeleid naar een Quickview- of productdetailpagina op de website van de klant. Het is ontworpen voor gebruik op desktops en mobiele apparaten.</td> 
   </tr>
   <tr>
    <td>24 april 2018<br /> </td> 
    <td>Toepassingen voor één pagina<br /> </td> 
-   <td><p>Toepassingen op één pagina (SPA) kunnen aantrekkelijke ervaringen bieden voor websitegebruikers. Ontwikkelaars willen sites kunnen maken met behulp van SPA frameworks en auteurs willen inhoud naadloos bewerken binnen AEM voor een site die als een SPA is gebouwd.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">De SPA ontwerpfunctie</a>  (momenteel een technologische voorvertoning) biedt een uitgebreide oplossing voor het ondersteunen van SPA binnen AEM.</p> </td> 
+   <td><p>Toepassingen op één pagina (SPA) kunnen aantrekkelijke ervaringen bieden voor websitegebruikers. Ontwikkelaars willen sites kunnen maken met behulp van SPA frameworks en auteurs willen inhoud naadloos bewerken binnen AEM voor een site die als een SPA is gebouwd.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">De SPA-ontwerpfunctie</a> (momenteel een technologische voorvertoning) biedt een uitgebreide oplossing voor het ondersteunen van SPA binnen AEM.</p> </td> 
   </tr>
   <tr>
    <td>4 april 2018</td> 
@@ -571,7 +571,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
 
 ## Oudere inhoud {#legacy-content}
 
-Vanaf 24 oktober 2017 zijn oudere versies van AEM documentatie verplaatst naar een nieuwe locatie op [https://helpx.adobe.com/experience-manager/aem-previous-versions.html](https://helpx.adobe.com/experience-manager/aem-previous-versions.html).
+Op 24 oktober 2017 zijn oudere versies van AEM documentatie verplaatst naar een nieuwe locatie op [https://helpx.adobe.com/experience-manager/aem-previous-versions.html](https://helpx.adobe.com/experience-manager/aem-previous-versions.html).
 
 De volgende versies zijn verplaatst:
 
@@ -615,42 +615,42 @@ De volgende versies zijn verplaatst:
     <tr>
    <td>12 dec. 2019</td> 
    <td>AEM 6.3.3.7</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.7</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>11 oktober 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Vanwege beveiligingswijzigingen in de Adobe Analytics API is het niet langer mogelijk om de versie van de Activity Map te gebruiken die in AEM is opgenomen. Zie <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">ActivityMap plug-in geleverd door Adobe Analytics</a> moet nu worden gebruikt.</p> </td> 
+   <td><p>Vanwege beveiligingswijzigingen in de Adobe Analytics API is het niet langer mogelijk om de versie van de Activity Map te gebruiken die in AEM is opgenomen. Zie <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">ActivityMap-plug-in geleverd door Adobe Analytics</a> moet nu worden gebruikt.</p> </td> 
   </tr>
   <tr>
    <td>25 september 2019</td> 
    <td>AEM 6.3.3.6</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.6</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>9 september 2019<br /> </td> 
    <td>Slimme AEM Assets-tags</td> 
-   <td>Zorg dat u weet hoe u het certificaat <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">bijwerkt</a> nadat dit is verlopen.</td> 
+   <td>Weten hoe te <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">certificaat bijwerken</a> nadat het is verlopen.</td> 
   </tr>
   <tr>
    <td>3 juli 2019</td> 
    <td>AEM 6.3.3.5</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.5</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>9 mei 2019</td> 
    <td>AEM 6.3.3.4</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.4</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>14 maart 2019</td> 
    <td>AEM 6.3.3.3.</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.3</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>15 januari 2019</td> 
    <td>AEM 6.3.3.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.2</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>10 januari 2019</td> 
@@ -665,92 +665,92 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>19 november 2018</td> 
    <td>Ervaringsfragmenten</td> 
-   <td>Snelle startpagina voor ontwikkelaars, die benadrukken hoe te om <a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/we-retail-experience-fragments.html">Fragments van de Ervaring in Wij.Retail</a> te gebruiken.<br /> </td> 
+   <td>Snelle startpagina voor ontwikkelaars, markering hoe te om te gebruiken <a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/we-retail-experience-fragments.html">Ervaar fragmenten in We.Retail</a>.<br /> </td> 
   </tr>
   <tr>
    <td>15 november 2018</td> 
    <td>AEM 6.3.3.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.3.1</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>16 oktober 2018</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td>Versie 2.2.0 van <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> componenten samen met verbeteringen aan het Beeld, Titel, en de componenten van de Pagina en talrijke insectenmoeilijke situaties.</td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td>Release 2.2.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> en bevat verbeteringen voor de componenten Afbeelding, Titel en Pagina en een groot aantal opgeloste problemen.</td> 
   </tr>
   <tr>
    <td>3 oktober 2018</td> 
    <td>Statische sjablonen<br /> </td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">Hoe de ontwerpen op statische </a> malplaatjes worden toegepast is gedetailleerd geweest.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">Hoe ontwerpen worden toegepast op statische sjablonen</a> is gedetailleerd.</td> 
   </tr>
   <tr>
    <td>12 september 2018</td> 
    <td>AEM 6.3.3.0</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/cascading-metadata.html" target="_blank">trapsgewijze </a> metagegevens en  <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/asset-reports.html" target="_blank">rapportage</a> van activa.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/cascading-metadata.html" target="_blank">trapsgewijze metagegevens</a> en <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/asset-reports.html" target="_blank">middelenrapportage</a>.</td> 
   </tr>
   <tr>
    <td>29 augustus 2018</td> 
    <td>AEM Assets</td> 
-   <td>Om de integratie van Auth te vormen, is de de gatewaydienst van Adobe I/O beschikbaar bij <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">vorm de integratie van AEM Assets</a> en <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html" target="_blank">vorm de integratie van Activa met Brand Portal</a> artikelen.<br /> </td> 
+   <td>Om de integratie van de Auth te vormen, is de de gatewaydienst van Adobe I/O beschikbaar bij <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">AEM Assets-integratie configureren</a> en <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html" target="_blank">Integratie van middelen configureren met Brand Portal</a> artikelen.<br /> </td> 
   </tr>
   <tr>
    <td>24 augustus 2018</td> 
    <td>RTF-editor</td> 
-   <td>Nieuwe <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/rich-text-editor.html" target="_blank">vorm RTE artikel</a> om het beter te structureren, voeg wat ontbrekende informatie toe, voeg een werkschemaillustratie toe, en spleet het long-form artikel.</td> 
+   <td>Hersteld <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/rich-text-editor.html" target="_blank">RTE-artikel configureren</a> om de structuur te verbeteren, voegt u ontbrekende informatie toe, voegt u een illustratie van de workflow toe en splitst u het artikel met de lange vorm.</td> 
   </tr>
   <tr>
    <td>16 augustus 2018</td> 
    <td>Integreren met Livefyre</td> 
-   <td>Bijgewerkte <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 versie van het eigenschapspak</a>, evenals <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/feature-packs-release-notes.html">de pagina van het Pak van de Eigenschap </a>. </td> 
+   <td>Bijgewerkt <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 release met functiepakket</a>en de <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Functiepakket</a> pagina. </td> 
   </tr>
   <tr>
    <td>2 augustus 2018</td> 
    <td>Integreren met Livefyre</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">support matrix</a> voor LiveCycle-toepassingen in AEM toegevoegd. </td> 
+   <td>Toegevoegd <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">supportmatrix</a> voor Livefyre-apps in AEM. </td> 
   </tr>
   <tr>
    <td>19 juli 2018</td> 
-   <td>AEM 6.3<br /> FP 24424 en FP 24425<br /> Updates van het Fragment van de Inhoud en het Pak van de Eigenschap van de Diensten van de Inhoud</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/content-services-fragments-featurepacks.html">Updates van contentfragmenten en het pakket</a> met functies voor inhoudsservices.</td> 
+   <td>AEM 6,3<br /> FP 24424 en FP 24425<br /> Updates van inhoudsfragmenten en het pakket met functies voor inhoudsservices</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/content-services-fragments-featurepacks.html">Updates van inhoudsfragmenten en het pakket met functies voor inhoudsservices</a>.</td> 
   </tr>
   <tr>
    <td>10 juli 2018</td> 
    <td>Adaptieve Forms</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/create-your-first-adaptive-form.html">Uw eerste adaptieve </a> zelfstudie en verwante artikelen in de reeks zijn beschikbaar. </td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/create-your-first-adaptive-form.html">Uw eerste adaptieve formulier maken</a> de zelfstudie en verwante artikelen in de reeks zijn beschikbaar . </td> 
   </tr>
   <tr>
    <td>5 juli 2018<br /> </td> 
    <td>Slimme tags voor elementen</td> 
-   <td>Verbeteringen aan <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html">Vorm het Slimme artikel van Markeringen</a> om beter te structureren, insecten te bevestigen, en dwars-verbinding met verwante artikel.</td> 
+   <td>Verbeteringen van de <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html">Artikel Slimme tags configureren</a> om een betere structuur te krijgen, bugs te corrigeren en een kruiskoppeling met het verwante artikel tot stand te brengen.</td> 
   </tr>
   <tr>
    <td>5 juli 2018</td> 
    <td>Integreren met Adobe Analytics<br /> </td> 
-   <td>Verschillende updates van de <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics.html">Integratie met Adobe Analytics</a> pagina's.<br /> </td> 
+   <td>Verschillende updates van de <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics.html">Integreren met Adobe Analytics</a> pagina's.<br /> </td> 
   </tr>
   <tr>
    <td>25 juni 2018</td> 
    <td>AEM 6.3.2.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulatief Fix Pack 6.3.2.2</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>30 mei 2018</td> 
    <td>Activity Map</td> 
-   <td>Functionaliteit voor activiteitenkaarten voor gepubliceerde pagina's als onderdeel van de pagina-editor. Hoe te <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html#analyticsvisiblefromthepageeditor">gebruik</a>.</td> 
+   <td>Functionaliteit voor activiteitenkaarten voor gepubliceerde pagina's als onderdeel van de pagina-editor. Procedure <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html#analyticsvisiblefromthepageeditor">gebruiken</a>.</td> 
   </tr>
   <tr>
    <td>25 mei 2018<br /> </td> 
-   <td>AEM 6.3 FP 22818<br /> Updates van het Fragment van de Inhoud en de Eigenschappenpakket van de Diensten van de Inhoud<br /> </td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/fp-22818-content-services-fragments-featurepack.html">Updates van contentfragmenten en het pakket</a> met functies voor inhoudsservices.</td> 
+   <td>AEM 6.3 FP 22818<br /> Updates van inhoudsfragmenten en het pakket met functies voor inhoudsservices<br /> </td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/fp-22818-content-services-fragments-featurepack.html">Updates van inhoudsfragmenten en het pakket met functies voor inhoudsservices</a>.</td> 
   </tr>
   <tr>
    <td>10 mei 2018</td> 
    <td>AEM 6.3.2.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.2.1</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>30 april 2018</td> 
    <td>Integreren met Livefyre</td> 
-   <td>Er is een pagina toegevoegd voor <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a> en <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
+   <td>Een pagina toegevoegd voor <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, en <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
   </tr>
   <tr>
    <td>5 april 2018</td> 
@@ -760,52 +760,52 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>23 februari 2018</td> 
    <td>Revisie opschonen</td> 
-   <td><p>Er is een nieuwe sectie toegevoegd met de naam "Online revisie-opruiming uitvoeren na offlinerevisie opruiming", waarin wordt beschreven wat er gebeurt wanneer de online revisie wordt opgeschoond nadat de offline revisie is opgeschoond.</p> <p>Zie <a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/revision-cleanup.html#how-to-run-online-revision-cleanup">Revision Cleanup</a>.</p> </td> 
+   <td><p>Er is een nieuwe sectie toegevoegd met de naam "Online revisie-opruiming uitvoeren na offlinerevisie opruiming", waarin wordt beschreven wat er gebeurt wanneer de online revisie wordt opgeschoond nadat de offline revisie is opgeschoond.</p> <p>Zie <a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/revision-cleanup.html#how-to-run-online-revision-cleanup">Revisie opschonen</a>.</p> </td> 
   </tr>
   <tr>
    <td>19 februari 2018</td> 
-   <td>HTML naar PDF converteren met Forms PDF Generator</td> 
-   <td><p>Er is informatie toegevoegd voor het configureren en gebruiken van PhantomJS voor het converteren van HTML-bestanden naar PDF met PDF Generator.</p> <p>Zie <a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/install-configure-pdf-generator.html">PDF Generator</a> installeren en configureren.</p> </td> 
+   <td>HTML naar PDF conversie met Forms PDF Generator</td> 
+   <td><p>Toegevoegde informatie voor het configureren en gebruiken van PhantomJS voor het converteren van HTML-bestanden naar PDF met behulp van PDF Generator.</p> <p>Zie <a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/install-configure-pdf-generator.html">PDF Generator installeren en configureren</a>.</p> </td> 
   </tr>
   <tr>
    <td>15 februari 2018</td> 
    <td>AEM Forms-gegevensintegratie</td> 
-   <td><p>Toegevoegde informatie voor het configureren en integreren van Microsoft Dynamics op locatie met AEM Forms met behulp van het model met formuliergegevens.</p> <p>Zie <a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics OData Configuration</a>.</p> </td> 
+   <td><p>Toegevoegde informatie voor het configureren en integreren van Microsoft Dynamics op locatie met AEM Forms met behulp van het model voor formuliergegevens.</p> <p>Zie <a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Configuratie Microsoft Dynamics OData</a>.</p> </td> 
   </tr>
   <tr>
    <td>5 februari 2018</td> 
    <td>Adobe Analytics-integratie</td> 
-   <td>Updates voor <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Beheerde Polling Configurations</a>. Ook <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html">Gegevens van paginanalyse bekijken</a>.<br /> </td> 
+   <td>Updates voor <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Beheerde opiniepeilingconfiguraties</a>. Ook <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html">Gegevens van paginaanalyse bekijken</a>.<br /> </td> 
   </tr>
   <tr>
    <td>19 januari 2018</td> 
    <td>Core Components Release 2.0.0</td> 
-   <td>Versie 2.0.0 van <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">kerncomponenten</a> is nu beschikbaar, introducerend versie 2 van de bestaande componenten samen met nieuwe componenten met inbegrip van Navigatie, de Navigatie van de Taal, en de Snelle componenten van het Onderzoek.</td> 
+   <td>Release 2.0.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">kerncomponenten</a> is nu beschikbaar, introduceert versie 2 van de bestaande componenten samen met nieuwe componenten met inbegrip van Navigatie, de Navigatie van de Taal, en de Snelle componenten van het Onderzoek.</td> 
   </tr>
   <tr>
    <td>8 januari 2018</td> 
    <td>AEM 6.3 Cumulatief Fix Pack 6.3.1.2<br /> </td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.1.2</a> voor AEM 6.3 is beschikbaar.<br /> </td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.<br /> </td> 
   </tr>
   <tr>
    <td>14 december 2017<br /> </td> 
-   <td>Het Pak van de Eigenschap van het Systeem van de stijl<br /> </td> 
-   <td>Het <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/style-system-fp.html">de eigenschappak van het Systeem van de Stijl en zijn bijbehorende documentatie</a> werd vrijgegeven toelatend een malplaatjeauteur om stijlklassen in het componentenbeleid van componenten te bepalen zodat een inhoudauteur deze kan selecteren wanneer het uitgeven van de component op een pagina.</td> 
+   <td>Stijlpakket met systeemfuncties<br /> </td> 
+   <td>De <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/style-system-fp.html">Het de eigenschappak van het Systeem van de stijl en zijn bijbehorende documentatie</a> is uitgebracht, zodat een sjabloonauteur stijlklassen kan definiëren in het componentbeleid van componenten, zodat de auteur van de inhoud deze kan selecteren bij het bewerken van de component op een pagina.</td> 
   </tr>
   <tr>
    <td>29 november 2017</td> 
    <td>AEM 6.3 Cumulatief Fix Pack 6.3.1.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulatief Fix Pack 6.3.1.1</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>28 november 2017</td> 
    <td>Upgrade uitvoeren van documentatie</td> 
-   <td>De <a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/user-guide.html">AEM 6.3-upgradedocumentatie</a> is vernieuwd om een vollediger upgrade-processtroom te bieden, ontbrekende gebieden aan te pakken en onopgeloste feedback van klanten aan te pakken.</td> 
+   <td>De <a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/user-guide.html">AEM 6.3 Upgrade-documentatie</a> werd vernieuwd om een vollediger stroom van het verbeteringsproces te verstrekken, ontbrekende gebieden te behandelen en uitstaande klantenterugkoppeling te richten.</td> 
   </tr>
   <tr>
    <td>14 november 2017 </td> 
    <td>Smart Imaging</td> 
-   <td><p>Veelgestelde vragen over de nieuwe functie voor intelligente beeldverwerking in Dynamic Media Classic / Dynamic Media.<br /> </p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Slimme beeldverwerking</a>.</p> </td> 
+   <td><p>Veelgestelde vragen over de nieuwe functie voor intelligente beeldverwerking in Dynamic Media Classic/Dynamic Media.<br /> </p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Slimme afbeeldingen</a>.</p> </td> 
   </tr>
   <tr>
    <td>13 oktober 2017</td> 
@@ -815,7 +815,7 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>11 oktober 2017</td> 
    <td>Updates van inhoudsfragmenten en inhoudsservices - Feature Pack</td> 
-   <td>Deze reeks Pakken van de Eigenschap levert updates aan Inhoudsfragmenten, de Exporter JSON en Componenten van de Kern. Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Updates van inhoudsfragmenten en inhoudsservices - Opmerkingen bij de release Feature Pack</a>.</td> 
+   <td>Deze reeks Pakken van de Eigenschap levert updates aan Inhoudsfragmenten, de Exporter JSON en Componenten van de Kern. Zie de <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Updates van inhoudsfragmenten en inhoudsservices - Opmerkingen bij de release Feature Pack</a>.</td> 
   </tr>
   <tr>
    <td>3 oktober 2017</td> 
@@ -870,7 +870,7 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>augustus 23, 2017</td> 
    <td>Gedrag van decoratietag</td> 
-   <td><p>Wanneer een component in een webpagina wordt gerenderd, kan een HTML-element worden gegenereerd, waarbij de gerenderde component in zichzelf wordt verpakt. Voor ontwikkelaars biedt AEM duidelijke en eenvoudige logica die de decoratietags regelt die onderdelen bevatten.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/decoration-tag.html">Decoratietag</a></p> </td> 
+   <td><p>Wanneer een component in een webpagina wordt gerenderd, kan een HTML-element worden gegenereerd, waarbij de gerenderde component binnen zichzelf wordt verpakt. Voor ontwikkelaars biedt AEM duidelijke en eenvoudige logica die de decoratietags regelt die onderdelen bevatten.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/decoration-tag.html">Decoratietag</a></p> </td> 
   </tr>
   <tr>
    <td>augustus 23, 2017</td> 
@@ -892,7 +892,7 @@ De volgende versies zijn verplaatst:
      <li><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/touch-ui-concepts.html">Aanraakinterface</a></li> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">Kernonderdelen</a></li> 
      <li><a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-editable.html">Bewerkbare sjablonen</a></li> 
-    </ul> <p>Zoek de zelfstudie <a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/getting-started.html">hier</a>.</p> </td> 
+    </ul> <p>Zelfstudie zoeken <a href="https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/getting-started.html">hier</a>.</p> </td> 
   </tr>
   <tr>
    <td>9 augustus 2017</td> 
@@ -902,7 +902,7 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>8 augustus 2017</td> 
    <td>AEM 6.3 Cumulatief Fix Pack 6.3.0.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.0.2</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>27 juli 2017</td> 
@@ -917,7 +917,7 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>23 juni 2017</td> 
    <td>AEM 6.3 Cumulatief Fix Pack 6.3.0.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulatief Fix Pack 6.3.0.1</a> voor AEM 6.3 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.3 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>7 juni 2017</td> 
@@ -945,7 +945,7 @@ De volgende versies zijn verplaatst:
   </tr>
   <tr>
    <td>17 mei 2017</td> 
-   <td>HTML-sjabloontaal</td> 
+   <td>HTML Sjabloontaal</td> 
    <td>Verbeteringen gebaseerd op AEM 6.3-functies.</td> 
   </tr>
  </tbody>
@@ -963,52 +963,52 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>6 juni 2019</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 20</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>11 december 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 18</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>16 oktober 2018</td> 
-   <td>Kerncomponenten<br /> </td> 
-   <td>Versie 2.2.0 van <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a>componenten samen met verbeteringen aan het Beeld, Titel, en de componenten van de Pagina en talrijke insectenmoeilijke situaties.</td> 
+   <td>Kernonderdelen<br /> </td> 
+   <td>Release 2.2.0 van de <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> en <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a>en bevat verbeteringen voor de componenten Afbeelding, Titel en Pagina en een groot aantal opgeloste problemen.</td> 
   </tr>
   <tr>
    <td>10 oktober 2018</td> 
    <td>Statische sjablonen<br /> </td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">Hoe de ontwerpen op statische </a> malplaatjes worden toegepast is gedetailleerd geweest.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/page-templates-static.html#how-template-designs-are-applied">Hoe ontwerpen worden toegepast op statische sjablonen</a> is gedetailleerd.</td> 
   </tr>
   <tr>
    <td>10 oktober 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 17</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>29 augustus 2018</td> 
    <td>AEM Assets</td> 
-   <td>Om de integratie van Auth te vormen, is de de gatewaydienst van Adobe I/O beschikbaar bij <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/configure-assets-cc-integration.html" target="_blank">vorm AEM Assets integratie</a> artikel.</td> 
+   <td>Om de integratie van de Auth te vormen, is de de gatewaydienst van Adobe I/O beschikbaar bij <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/configure-assets-cc-integration.html" target="_blank">AEM Assets-integratie configureren</a> artikel.</td> 
   </tr>
   <tr>
    <td>16 augustus 2018</td> 
    <td>Integratie van Livefyre</td> 
-   <td>Bijgewerkte <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 versie van het eigenschapspak</a>, evenals <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/feature-packs-release-notes.html">de pagina van het Pak van de Eigenschap </a>. </td> 
+   <td>Bijgewerkt <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 release met functiepakket</a>en de <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Functiepakket</a> pagina. </td> 
   </tr>
   <tr>
    <td>3 augustus 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 16</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>2 augustus 2018</td> 
    <td>Integreren met Livefyre</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">support matrix</a> voor LiveCycle-toepassingen in AEM toegevoegd. </td> 
+   <td>Toegevoegd <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">supportmatrix</a> voor Livefyre-apps in AEM. </td> 
   </tr>
   <tr>
    <td>11 juni 2018</td> 
-   <td>AEM 6.2 Cumulatief repareren Pack<br /> </td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 15</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>AEM 6.2 Cumulatieve Fix Pack<br /> </td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>30 april 2018</td> 
@@ -1018,32 +1018,32 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>10 april 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 14</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>12 maart 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 13</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>13 februari 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 11</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>18 januari 2018</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 11</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>8 december 2017</td> 
    <td>AEM 6.2 Cumulatieve Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 10</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>9 november 2017</td> 
    <td>AEM 6.2 Cumulatieve reparatiepakketten</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 9</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>10 oktober 2017</td> 
@@ -1053,27 +1053,27 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>9 oktober 2017</td> 
    <td>AEM 6.2 Cumulatieve reparatiepakketten</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 8</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>12 september 2017</td> 
    <td>AEM 6.2 Cumulatieve reparatiepakketten</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 7</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>11 augustus 2017</td> 
    <td>AEM 6.2 Cumulatieve reparatiepakketten</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 6</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>5 juli 2017</td> 
    <td>AEM 6.2 Cumulatieve reparatiepakketten</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 5</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>5 juni 2017</td> 
    <td>AEM 6.2 Cumulatieve reparatiepakketten</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulatief Fix Pack 4</a> voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
+   <td>Cumulatief Fix Pack voor AEM 6.2 Service Pack 1 is beschikbaar.</td> 
   </tr>
   <tr>
    <td>12 april 2017</td> 
@@ -1103,12 +1103,12 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>8 februari 2017</td> 
    <td>Codevoorbeelden voor ontwikkelaars</td> 
-   <td>Er is een nieuwe pagina gemaakt om alle beschikbare <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/code-samples.html">Codevoorbeelden voor ontwikkelaars</a> op één locatie te plaatsen.</td> 
+   <td>Een nieuwe pagina maken om alle beschikbare pagina's weer te geven <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/code-samples.html">Codevoorbeelden voor ontwikkelaars</a> op één plaats.</td> 
   </tr>
   <tr>
    <td>2 december 2016</td> 
    <td>Query Builder-API</td> 
-   <td>Verduidelijking van wanneer om de parameter p.radenTotal in <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/querybuilder-api.html">de documentatie van de Bouwer van de Vraag te gebruiken API</a>.</td> 
+   <td>Verduidelijking wanneer de parameter p.radenTotal moet worden gebruikt in het dialoogvenster <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/querybuilder-api.html">Query Builder-API</a> documentatie.</td> 
   </tr>
   <tr>
    <td>30 november 2016</td> 
@@ -1116,14 +1116,14 @@ De volgende versies zijn verplaatst:
    <td>Verbeterde documentatie voor <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/performance-tree.html">Problemen met prestaties oplossen</a>.</td> 
   </tr>
   <tr>
-   <td>28 november 2018</td> 
+   <td>28 november 2016</td> 
    <td>Enterprise DevOps</td> 
-   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/managing/using/enterprise-devops.html">Aanbevolen procedures die zijn toegevoegd voor Enterprise DevOps</a>, de processen, methoden en communicatie die vereist zijn om de implementatie van uw software in de verschillende omgevingen te vereenvoudigen.</p> </td> 
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/managing/using/enterprise-devops.html">Best practices toegevoegd voor Enterprise DevOps</a>, de processen, methoden en communicatie die nodig zijn om de implementatie van uw software in de verschillende omgevingen te vereenvoudigen.</p> </td> 
   </tr>
   <tr>
    <td>23 november 2016</td> 
    <td>Documentatie ontwerpimportmodule bijgewerkt</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/extending-the-design-importer-for-landingpages.html">De documentatie bij het </a> ontwerppakket wordt ook bijgewerkt.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/extending-the-design-importer-for-landingpages.html">Het ontwerp voorbereiden</a> pakketdocumentatie is ook bijgewerkt.</td> 
   </tr>
   <tr>
    <td>27 oktober 2016</td> 
@@ -1165,7 +1165,7 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>30 september 2016</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/groups.html">Console van groepen Gemeenschap</a></td> 
-   <td><p>Voor AEM Communities, verleent de console van Groepen toegang tot het creëren van communautaire groepen wanneer de structuur van een communautaire plaats <a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/functions.html#groups%2520function">groepenfunctie</a> omvat. Communautaire groepen (ook wel subgemeenschappen genoemd) kunnen worden gecreëerd vanuit de publicatieomgeving en vanuit de auteursomgeving.</p> </td> 
+   <td><p>Voor AEM Communities biedt de console Groepen toegang tot het maken van groepen van gemeenschappen wanneer de structuur van een gemeenschapssite de <a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/functions.html#groups%2520function">group, functie</a>. Communautaire groepen (ook wel subgemeenschappen genoemd) kunnen worden gecreëerd vanuit de publicatieomgeving en vanuit de auteursomgeving.</p> </td> 
   </tr>
   <tr>
    <td>15 september 2016</td> 
@@ -1194,21 +1194,21 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>8 september 2016</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Een video en de bijbehorende miniatuurelementen uploaden</a></td> 
-   <td>Een hyperlink toegevoegd aan <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Een video en de bijbehorende miniatuurelementen</a>-onderwerp uploaden. </td> 
+   <td>Een hyperlink toegevoegd aan <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Een video en de bijbehorende miniatuurelementen uploaden</a> onderwerp. </td> 
   </tr>
   <tr>
    <td>1 september 2016</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/msm.html">Beheer van meerdere sites</a></td> 
    <td>
     <ul> 
-     <li>Nieuwe sectie: <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/msm.html#live%20copies%20-%20composition">Actieve exemplaren - Compositie</a></li> 
+     <li>Nieuwe sectie: <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/msm.html#live%20copies%20-%20composition">Actieve kopieën - Compositie</a></li> 
      <li>Verbeteringen in: <a href="https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/extending-msm.html#overview%20of%20the%20java%20api">MSM uitbreiden - Overzicht van de Java API</a></li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>25 augustus 2016</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/using/ecommerce62.html">eCommerce</a></td> 
-   <td>Koppelingen naar het nieuwe <a href="https://helpx.adobe.com/experience-manager/using/ecommerce62.html">AEM Communautair artikel: Het creëren van Aangepaste eCommerce schakelaars</a> is inbegrepen in de documentatie van de eCommerce.</td> 
+   <td>Koppelingen naar de nieuwe <a href="https://helpx.adobe.com/experience-manager/using/ecommerce62.html">AEM communautair artikel: Aangepaste eCommerce-connectors maken</a> is opgenomen in de eCommerce-documentatie.</td> 
   </tr>
   <tr>
    <td>24 augustus 2016</td> 
@@ -1233,17 +1233,17 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>17 augustus 2016</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Verificatie instellen</a></td> 
-   <td>Heeft betrekking op <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media</a> configureren.<br /> Verbeterde stappen om het instellen van verificatie duidelijker te maken.<br /> </td> 
+   <td>Bevat <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media configureren</a>.<br /> Verbeterde stappen om het instellen van verificatie duidelijker te maken.<br /> </td> 
   </tr>
   <tr>
    <td>17 augustus 2016</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">De Replication Agent configureren</a></td> 
-   <td>Heeft betrekking op <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media</a> configureren.<br /> Verbeterde stappen om de configuratie van de Replication Agent helderder te maken.</td> 
+   <td>Bevat <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media configureren</a>.<br /> Verbeterde stappen om de configuratie van de Replication Agent helderder te maken.</td> 
   </tr>
   <tr>
    <td>17 augustus 2016</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Problemen met verificatie oplossen</a></td> 
-   <td>Heeft betrekking op <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media</a> configureren.<br /> Drie nieuwe onderwerpen van de het oplossen van problemenauthentificatie toegevoegd.</td> 
+   <td>Bevat <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media configureren</a>.<br /> Drie nieuwe onderwerpen van de het oplossen van problemenauthentificatie toegevoegd.</td> 
   </tr>
   <tr>
    <td>4 augustus 2016</td> 
@@ -1257,7 +1257,7 @@ De volgende versies zijn verplaatst:
   </tr>
   <tr>
    <td>30 juli 2016</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/htl/using/overview.html">HTML-sjabloontaal</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/htl/using/overview.html">HTML Sjabloontaal</a></td> 
    <td>Verbeterde HTL-documentatie (Sightly).</td> 
   </tr>
   <tr>
@@ -1277,7 +1277,7 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>16 juli 2016</td> 
    <td>eCommerce-connector</td> 
-   <td>AEM 6.2 de documentatie van de Schakelaar van de eCommerce omvat nu details over hoe te <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/demandware.html">beheer</a> Demandware.</td> 
+   <td>AEM 6.2 de documentatie van de Schakelaar van de eCommerce omvat nu details over hoe te <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/demandware.html">beheren</a> Demandware.</td> 
   </tr>
  </tbody>
 </table>
@@ -1318,7 +1318,7 @@ De volgende versies zijn verplaatst:
   </tr>
   <tr>
    <td>3 november 2016</td> 
-   <td>Bijgewerkte technische Dynamic Media-vereisten <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.2</a></td> 
+   <td>Bijgewerkte technische Dynamic Media-vereisten <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6,1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6,2</a></td> 
    <td>Bijgewerkt Visual Studio C++ redistributables voor technische vereisten.</td> 
   </tr>
   <tr>
@@ -1343,13 +1343,13 @@ De volgende versies zijn verplaatst:
   </tr>
   <tr>
    <td>21 september 2016</td> 
-   <td>Elementformaten AEM <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/assets/assets-formats.html">6.1</a></td> 
+   <td>Elementindelingen AEM <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/assets/assets-formats.html">6,1</a></td> 
    <td>Extra informatie over native ondersteuning voor PSB-afbeeldingen</td> 
   </tr>
   <tr>
    <td>16 september 2016</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">Opmerkingen bij de release AEM Assets Desktop App 1.3</a></td> 
-   <td>Release-aantekeningen voor AEM Assets Desktop App 1.3<br /> </td> 
+   <td>Opmerkingen bij de release voor AEM Assets Desktop App 1.3<br /> </td> 
   </tr>
   <tr>
    <td>16 september 2016</td> 
@@ -1359,17 +1359,17 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>17 augustus 2016</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Verificatie instellen</a></td> 
-   <td>Heeft betrekking op <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media</a> instellen.<br /> Verbeterde stappen om het instellen van verificatie duidelijker te maken.</td> 
+   <td>Bevat <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media instellen</a>.<br /> Verbeterde stappen om het instellen van verificatie duidelijker te maken.</td> 
   </tr>
   <tr>
    <td>17 augustus 2016<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">De Replication Agent configureren</a></td> 
-   <td>Heeft betrekking op <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media</a> instellen.<br /> Verbeterde stappen om de configuratie van de Replication Agent helderder te maken.</td> 
+   <td>Bevat <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media instellen</a>.<br /> Verbeterde stappen om de configuratie van de Replication Agent helderder te maken.</td> 
   </tr>
   <tr>
    <td>17 augustus 2016</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Problemen met verificatie oplossen</a></td> 
-   <td>Heeft betrekking op <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media</a> instellen.<br /> Drie nieuwe problematische authentificatieonderwerpen toegevoegd.</td> 
+   <td>Bevat <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media instellen</a>.<br /> Drie nieuwe problematische authentificatieonderwerpen toegevoegd.</td> 
   </tr>
   <tr>
    <td>12 augustus 2016</td> 
@@ -1520,20 +1520,20 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>20 dec. 2019</td> 
    <td>Configuratie-video's en veelgestelde vragen bijgewerkt</td> 
-   <td><p>Brand Portal 6.4.5 is een release met functies die zich richt op het bieden van Brand Portal-gebruikers (externe agentschappen/teams) de mogelijkheid om inhoud te uploaden naar Brand Portal en deze te publiceren naar AEM Assets, zonder dat toegang nodig is tot de auteursomgeving. Deze functie wordt <strong>Asset Sourcing in Brand Portal</strong> genoemd.</p> <p>De documentatie behandelt de volgende belangrijke updates:</p> 
+   <td><p>Brand Portal 6.4.5 is een release met functies die zich richt op het bieden van Brand Portal-gebruikers (externe agentschappen/teams) de mogelijkheid om inhoud te uploaden naar Brand Portal en deze te publiceren naar AEM Assets, zonder dat toegang nodig is tot de auteursomgeving. Deze functie wordt aangeroepen <strong>Asset Sourting in Brand Portal</strong>.</p> <p>De documentatie behandelt de volgende belangrijke updates:</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Er is een </a> video toegevoegd waarin de algemene workflow van Asset Sourcing in Brand Portal wordt getoond.<br /> </li> 
-     <li>Nieuwe video toegevoegd op <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">How to Configure Asset Sourcing in AEM Assets</a>.</li> 
-     <li>Nieuwe video toegevoegd op <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Hoe te om de omslag van de Bijdrage in AEM Assets</a> te vormen.</li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Veelgestelde vragen </a> over de besteding van middelen.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Video over functies</a> toegevoegd om de algemene workflow van Asset Sourcing in Brand Portal aan te tonen.<br /> </li> 
+     <li>Nieuwe video toegevoegd aan <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">Middelen voor AEM Assets configureren</a>.</li> 
+     <li>Nieuwe video toegevoegd aan <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">De map Contribution in AEM Assets configureren</a>.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Veelgestelde vragen</a> in Asset Sourcing.</li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>20 nov. 2019 </td> 
    <td>Video- en configuratieartikelen over de functie voor middelenbronnen</td> 
-   <td><p>Brand Portal 6.4.5 is een release met functies die zich richt op het bieden van Brand Portal-gebruikers (externe agentschappen/teams) de mogelijkheid om inhoud te uploaden naar Brand Portal en deze te publiceren naar AEM Assets, zonder dat toegang nodig is tot de auteursomgeving. Deze functie wordt <strong>Asset Sourcing in Brand Portal</strong> genoemd.</p> <p>De documentatie behandelt de volgende belangrijke updates:</p> 
+   <td><p>Brand Portal 6.4.5 is een release met functies die zich richt op het bieden van Brand Portal-gebruikers (externe agentschappen/teams) de mogelijkheid om inhoud te uploaden naar Brand Portal en deze te publiceren naar AEM Assets, zonder dat toegang nodig is tot de auteursomgeving. Deze functie wordt aangeroepen <strong>Asset Sourting in Brand Portal</strong>.</p> <p>De documentatie behandelt de volgende belangrijke updates:</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Er is een </a> video toegevoegd waarin de algemene workflow van Asset Sourcing in Brand Portal wordt getoond.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Video over functies</a> toegevoegd om de algemene workflow van Asset Sourcing in Brand Portal aan te tonen.</li> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Contribute-map in AEM Assets configureren</a></li> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">Asset Sourcing gebruiken om de middelen van de bijdragemap naar AEM Assets te publiceren</a></li> 
     </ul> </td> 
@@ -1543,27 +1543,27 @@ De volgende versies zijn verplaatst:
    <td>Brand Portal FAQs geïntroduceerd</td> 
    <td>De documentatie behandelt de volgende belangrijke updates:
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Veelgestelde vragen </a> in Brand Portal Asset Sourcing.</li> 
-     <li>Bijgewerkte documentatie voor <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Asset Sourcing in Brand Portal</a>.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Veelgestelde vragen</a> in Brand Portal Asset Sourcing.</li> 
+     <li>Bijgewerkte documentatie voor <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Asset Sourting in Brand Portal</a>.</li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>10 oktober 2019 </td> 
    <td>Asset Sourting in Brand Portal</td> 
-   <td><p>Documentatie over het configureren van Asset Sourcing in AEM Assets en aanverwante artikelen.</p> <p>Zie <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Asset Sourcing in Brand Portal</a> voor de documentatie van de functie.</p> </td> 
+   <td><p>Documentatie over het configureren van Asset Sourcing in AEM Assets en aanverwante artikelen.</p> <p>Zie, <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Asset Sourting in Brand Portal</a> voor de eigenschapdocumentatie.</p> </td> 
   </tr>
   <tr>
    <td>28 september 2019</td> 
    <td>AEM Assets Brand Portal 6.4.5-release</td> 
-   <td><p>Brand Portal 6.4.5 is een release met functies die zich richt op het bieden van Brand Portal-gebruikers (externe agentschappen/teams) de mogelijkheid om inhoud te uploaden naar Brand Portal en deze te publiceren naar AEM Assets, zonder dat toegang nodig is tot de auteursomgeving. Deze functie wordt <strong>Asset Sourcing in Brand Portal</strong> genoemd.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en#what-changed-in-645">Nieuwe functies in Brand Portal 6.4.5</a></p> </td> 
+   <td><p>Brand Portal 6.4.5 is een release met functies die zich richt op het bieden van Brand Portal-gebruikers (externe agentschappen/teams) de mogelijkheid om inhoud te uploaden naar Brand Portal en deze te publiceren naar AEM Assets, zonder dat toegang nodig is tot de auteursomgeving. Deze functie wordt aangeroepen <strong>Asset Sourting in Brand Portal</strong>.</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en#what-changed-in-645">Nieuwe functies in Brand Portal 6.4.5</a></p> </td> 
   </tr>
   <tr>
    <td>8 augustus 2019</td> 
    <td>AEM Assets Brand Portal 6.4.4.7 en 6.4.4.6 release</td> 
    <td><p>Hotfixes die in BP 6.4.4.7 en BP 6.4.4.6 worden vrijgegeven</p> 
     <ul> 
-     <li><strong>BP 6.4.4.7</strong>  - Optimaliseer het proces van de Synchronisatie van de Gebruiker om gezamenlijke uitvoering te verhinderen.</li> 
-     <li><strong>BP 6.4.4.6</strong>  - Prestaties optimaliseert voor de productie van het downloadrapport.</li> 
+     <li><strong>BP 6.4.4.7</strong> - Optimaliseer het synchronisatieproces van de gebruiker om gelijktijdige uitvoering te voorkomen.</li> 
+     <li><strong>BP 6.4.4.6</strong> - Prestaties optimaliseren voor het genereren van downloadrapporten.</li> 
     </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en">Opmerkingen bij de release van Brand Portal</a></p> </td> 
   </tr>
   <tr>
@@ -1630,7 +1630,7 @@ De volgende versies zijn verplaatst:
      <li>Verbeterde rapporteringsmogelijkheden—gedownloade, verlopen en gepubliceerd middelen</li> 
      <li>Nieuw geïntroduceerde DRM mogelijkheden-activa vervaldatum controles en bericht</li> 
      <li>Nieuw <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">nieuw artikel</a> voor meer informatie over de nieuwe en bijgewerkte functies</li> 
-     <li>Nieuwe versieagnostische <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal-gebruikershandleiding</a> onafhankelijk van AEM Assets User Guide</li> 
+     <li>Nieuwe versie-agnost <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal-gebruikershandleiding</a> onafhankelijk van AEM Assets-gebruikersgids</li> 
     </ul> </td> 
   </tr>
  </tbody>
@@ -1648,12 +1648,12 @@ De volgende versies zijn verplaatst:
   <tr>
    <td>5 juli 2018</td> 
    <td>Versieonafhankelijke artikelen</td> 
-   <td>Bijgewerkt de Desktop App-artikelen (<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/install-upgrade.html">Install</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RNs</a>, en <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Best Practices</a>) om te ontkoppelen van AEM release 6.4. De app werkt met meerdere releases en artikelen zijn nu versiesnostisch.</td> 
+   <td>De App-artikelen voor bureaublad bijgewerkt (<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/install-upgrade.html">Installeren</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RNs</a>, en <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Aanbevolen werkwijzen</a>) te verwijderen uit AEM 6.4-release. De app werkt met meerdere releases en artikelen zijn nu versiesnostisch.</td> 
   </tr>
   <tr>
    <td>21 juni 2018</td> 
    <td>Release van v1.9.1</td> 
-   <td>De nieuwe versie wordt beschikbaar gesteld met een paar insectenmoeilijke situaties. Zie de <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">releaseopmerkingen</a> voor meer informatie.<br /> </td> 
+   <td>De nieuwe versie wordt beschikbaar gesteld met een paar insectenmoeilijke situaties. Zie voor meer informatie de <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">releaseopmerkingen</a>.<br /> </td> 
   </tr>
   <tr>
    <td>31 mei 2018</td> 
