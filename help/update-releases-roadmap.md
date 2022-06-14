@@ -2,9 +2,9 @@
 title: '"[!DNL Adobe Experience Manager] releasemap"'
 description: '"[!DNL Adobe Experience Manager] releasemap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 53cccff092a433c3fba00a43def69606ee6e2a11
+source-git-commit: 75f742e3caa864803ddbbc47cc43fae4cbe52a4a
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '343'
 ht-degree: 4%
 
 ---
@@ -23,9 +23,12 @@ ht-degree: 4%
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,3,0 | 2022,3,0 | Functie vrijgeven | 31 maart 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,4,0 | 2022,4,0 | Functie vrijgeven | 5 mei 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,5,0 | 2022,5,0 | Functie vrijgeven | 9 juni 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,6,0 | 2022,6,0 | Functie vrijgeven | 30 juni 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,7,0 | 2022,7,0 | Functie vrijgeven | 28 juli 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,8,0 | 2022,8,0 | Functie vrijgeven | 25 augustus 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,9,0 | 2022,9,0 | Functie vrijgeven | 29 september 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022 10,0 | 2022 10,0 | Functie vrijgeven | 27 oktober 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022 11,0 | 2022 11,0 | Functie vrijgeven | 17 november 2022 |
 
 Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsreleases, waarbij doorgaans wekelijks een overeenkomstige onderhoudsupdate plaatsvindt.
 
