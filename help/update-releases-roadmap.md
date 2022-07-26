@@ -2,7 +2,7 @@
 title: '"[!DNL Adobe Experience Manager] releasemap"'
 description: '"[!DNL Adobe Experience Manager] releasemap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 75f742e3caa864803ddbbc47cc43fae4cbe52a4a
+source-git-commit: 0a48b314dbd76be9d0350ae01d823f67817b8bb6
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 4%
@@ -24,7 +24,7 @@ ht-degree: 4%
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,6,0 | 2022,6,0 | Functie vrijgeven | 30 juni 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,7,0 | 2022,7,0 | Functie vrijgeven | 28 juli 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022,7,0 | 2022,7,0 | Functie vrijgeven | 8 augustus 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,8,0 | 2022,8,0 | Functie vrijgeven | 25 augustus 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022,9,0 | 2022,9,0 | Functie vrijgeven | 29 september 2022 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2022 10,0 | 2022 10,0 | Functie vrijgeven | 27 oktober 2022 |
