@@ -2,9 +2,9 @@
 title: '"[!DNL Adobe Experience Manager] releasemap"'
 description: '"[!DNL Adobe Experience Manager] releasemap"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4f49de4eceec65b55cb6e313d707c3d9fc0585de
+source-git-commit: e7a4a7baf9804714495629ebf7bf03664d7faedc
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '347'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->De routekaart-updates die beschikbaar zijn in dit artikel, zijn alleen ter informatie en kunnen op elk gewenst moment worden gewijzigd.
+>De data hieronder en de routekaart-updates die in dit artikel beschikbaar zijn, zijn alleen ter informatie en kunnen op elk moment worden gewijzigd.
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
