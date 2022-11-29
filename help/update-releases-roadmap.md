@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 2b1db318447c7de771ac734403c59c69f1163f0a
+source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '377'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,16 @@ ht-degree: 4%
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2023,5,0 | 2023,5,0 | Functie vrijgeven | 25 mei 2023 |
 
 Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsreleases, waarbij doorgaans wekelijks een overeenkomstige onderhoudsupdate plaatsvindt.
+
+>[!CAUTION]
+>
+>**Geplande uitsluitingsperiode voor onderhoud**
+>
+> Er wordt geen automatisch AEMaaCS-onderhoud uitgevoerd tijdens de volgende tijdframes, die beginnen en eindigen om middernacht (00:00) CET:
+>
+>* Maandag 21 november tot maandag 12 december
+>* Maandag, 19 december tot en met dinsdag, 3 januari
+
 
 ## [!DNL Experience Manager] on-premisse en beheerde services {#aem-on-prem-managed-services}
 
