@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c5de5f12b4358d647c468a4a910f38dbe6c3d9b4
+source-git-commit: ea146055aa89a8b69511fe0175c7a2bdac13be64
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 4%
@@ -19,18 +19,18 @@ ht-degree: 4%
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) volgt over het algemeen een maandelijks versiecadence voor nieuwe eigenschappen. De aanstaande eigenschapversies voor [!DNL Experience Manager] als [!DNL Cloud Service]De plannen zijn als volgt.
+[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht. De komende eigenschapactivering voor [!DNL Experience Manager] als [!DNL Cloud Service]De plannen zijn als volgt.
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022 10,0 | 2022.10.0 | Functie vrijgeven | 10 november 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,1,0 | 2023.1.0 | Functie vrijgeven | 26 januari 2023 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,2,0 | 2023.2.0 | Functie vrijgeven | 23 februari 2023 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,3,0 | 2023.3.0 | Functie vrijgeven | 30 maart 2023 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,4,0 | 2023.4.0 | Functie vrijgeven | 27 april 2023 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,5,0 | 2023.5.0 | Functie vrijgeven | 25 mei 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2022 10,0 | 2022.10.0 | Functie activeren | 10 november 2022 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,1,0 | 2023.1.0 | Functie activeren | 25 januari 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,2,0 | 2023.2.0 | Functie activeren | 23 februari 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,3,0 | 2023.3.0 | Functie activeren | 30 maart 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,4,0 | 2023.4.0 | Functie activeren | 27 april 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,5,0 | 2023.5.0 | Functie activeren | 25 mei 2023 |
 
-Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsreleases, waarbij doorgaans wekelijks een overeenkomstige onderhoudsupdate plaatsvindt.
+Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsuitzettingen, waarbij een overeenkomstige onderhoudsupdate over het algemeen vaker plaatsvindt.
 
 ## [!DNL Experience Manager] on-premisse en beheerde services {#aem-on-prem-managed-services}
 
