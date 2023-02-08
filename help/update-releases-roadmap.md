@@ -2,14 +2,14 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5d40d0382bf4c504de7a2d934276e2222faa0561
+source-git-commit: f0b0900828f9728871ab4acc28d778b845e0d559
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '345'
 ht-degree: 4%
 
 ---
 
-# [!DNL Experience Manager] routekaart voor releases {#aem-releases-roadmap}
+# [!DNL Experience Manager] Geeft Roadmap vrij {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] biedt voortdurend nieuwe functies, verbeteringen aan bestaande functies en oplossingen voor problemen voor gebruikers die [!DNL Cloud Service], Managed Services en on-premise aanbiedingen van het product. In dit artikel worden de komende releases voor [!DNL Experience Manager].
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht. De komende eigenschapactivering voor [!DNL Experience Manager] als [!DNL Cloud Service]De plannen zijn als volgt.
+[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht. De komende eigenschapactivering voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn als volgt gepland.
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
@@ -32,7 +32,7 @@ ht-degree: 4%
 
 Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsuitzettingen, waarbij een overeenkomstige onderhoudsupdate over het algemeen vaker plaatsvindt.
 
-## [!DNL Experience Manager] on-premisse en beheerde services {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
 Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde producten [!DNL Experience Manager] De diensten op-gebouw en de beheerde worden geleverd door driemaandelijkse de dienstpakken en Cumulatieve Pakken van de Correctie (GFPs). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
