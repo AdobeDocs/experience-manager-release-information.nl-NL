@@ -3,7 +3,7 @@ title: AEM Forms-releases
 description: Bevat een lijst met alle AEM Forms-releases en bijbehorende pakketten
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 7df5ca957b710be1ed37a90fd2b0dfefdc4e38d4
+source-git-commit: cd216c1c73002f173635df2200fc3b511e127da5
 workflow-type: tm+mt
 source-wordcount: '14217'
 ht-degree: 0%
@@ -38,9 +38,9 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
     <td>
      <ul>
      <br><b>AEM Forms op OSGi-patchinstallatieprogramma's</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.904.zip">AEM Forms-invoegtoepassing voor Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.904.zip">AEM Forms-invoegtoepassing voor Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.904.zip">AEM Forms-invoegtoepassing voor Mac OS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.912.zip">AEM Forms-invoegtoepassing voor Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.912.zip">AEM Forms-invoegtoepassing voor Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.912.zip">AEM Forms-invoegtoepassing voor Mac OS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.48.zip">AEM Forms-compatibiliteitspakket</a></li>
       <br><b>AEM Forms on JEE-patchinstallatieprogramma's</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0062/JBoss/win/AEMForms-6.5.0-0062_jboss_win.zip">JBoss Windows</a></li>
@@ -61,7 +61,7 @@ De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot op heden 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">Installatieprogramma voor Spaanse taal</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE-installatieprogramma: AEMForms-6.5.0-0062<br/> <p>AEM Forms Add-on-pakketten: 6,0,904</p></td>
+    <td><p>AEM Forms JEE-installatieprogramma: AEMForms-6.5.0-0062<br/> <p>AEM Forms Add-on-pakketten: 6,0,912</p></td>
    </tr>
    <tr>
     <td>1 december 2022</td>
