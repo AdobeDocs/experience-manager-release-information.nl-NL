@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '344'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht. De komende eigenschapactivering voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn als volgt gepland.
+[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html) over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht. De komende eigenschapactivering voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn als volgt gepland.
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
@@ -33,7 +33,7 @@ Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke 
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
-Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde producten [!DNL Experience Manager] De diensten op-gebouw en de beheerde worden geleverd door driemaandelijkse de dienstpakken en Cumulatieve Pakken van de Correctie (GFPs). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
+Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde producten [!DNL Experience Manager] Op locatie en Managed Services worden geleverd via driemaandelijkse servicepakketten en Cumulatieve Fix Packs (GFP&#39;s). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 >[!MORELIKETHIS]
 >
 >* [EOL-matrix](https://helpx.adobe.com/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] releases en updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] Meer informatie en ondersteuning](https://helpx.adobe.com/support/experience-manager.html)
+>* [[!DNL Experience Manager] releases en updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* [[!DNL Experience Manager] Meer informatie en ondersteuning](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 >* [[!DNL Experience Manager] Definities van releasevoertuig bijwerken](/help/update-release-vehicle-definitions.md)
 

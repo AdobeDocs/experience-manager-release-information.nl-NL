@@ -3,7 +3,7 @@ title: Cumulatieve herstelpakketten installeren op AEM Forms JEE
 description: Overzicht van stappen voor installatie en configuratie van Cumulative Fix Pack (GVB) op AEM Forms JEE
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
 source-wordcount: '890'
 ht-degree: 1%
@@ -14,16 +14,16 @@ ht-degree: 1%
 
 ## GFP installeren op AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
-Voer de volgende stappen uit, in de opgegeven volgorde, om het cumulatieve reparatiepakket te installeren op AEM 6.3 [!DNL Forms JEE].
+De cumulatieve fix-verpakking installeren op AEM 6.3 [!DNL Forms JEE]voert u de volgende reeks stappen uit.
 
-1. Contact [Adobe-ondersteuning](https://www.adobe.com/account/sign-in.supportportal.html) om de AEM 6.3 te verkrijgen [!DNL Forms JEE] installatieprogramma voor het GVB.
+1. Om de AEM 6.3 te verkrijgen [!DNL Forms JEE] installateur voor het GVB, contact [Adobe-ondersteuning](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support).
 1. Voer het GVB-installatieprogramma uit en configureer AEM [!DNL Forms JEE] zoals beschreven in [AEM installeren en configureren [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installeer de nieuwste AEM GVB 6.3.3.x
 1. Installeer de [!DNL Forms] Toevoegingspakket voor AEM GVB [6.3.3.x](aem-forms-releases.md)
 
 ### AEM installeren [!DNL Forms JEE] bundelpakket {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL  Forms JEE] pakket (aemfd-jee-bundles-package-6.3GVB1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als AEM [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+AEM [!DNL  Forms JEE] pakket (aemfd-jee-bundles-package-6.3GVB1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als bij AEM [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Aanvullende instructies voor CQ-4208044 {#additional-instructions-for-cq}
 
@@ -40,9 +40,9 @@ Als u AEM 6.3 gebruikt [!DNL Forms JEE] server met het gegevensbestand van het O
 
 ## GFP installeren op AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
-Voer de volgende stappen uit, in de opgegeven volgorde, om het cumulatieve reparatiepakket te installeren op AEM 6.2 [!DNL Forms JEE].
+De cumulatieve verpakking installeren op AEM 6.2 [!DNL Forms JEE]voert u de volgende reeks stappen uit.
 
-1. Contact [Adobe-ondersteuning](https://www.adobe.com/account/sign-in.supportportal.html) om de AEM 6.2 te verkrijgen [!DNL Forms JEE] installatieprogramma voor het GVB.
+1. Om de AEM 6.2 te verkrijgen [!DNL Forms JEE] installateur voor het GVB, contact [Adobe-ondersteuning](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support).
 1. Voer het GVB-installatieprogramma uit en configureer AEM [!DNL Forms JEE] zoals beschreven in [AEM installeren en configureren [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installeer AEM Hotfix 12785 versie 7.0.
 1. Installeer AEM 6.2 Service Pack 1.
@@ -51,7 +51,7 @@ Voer de volgende stappen uit, in de opgegeven volgorde, om het cumulatieve repar
 
 ### AEM installeren [!DNL Forms JEE] bundelpakket {#install-aem-forms-jee-bundles-package-1}
 
-AEM Forms JEE-pakket (aemfd-jee-bundles-package-6.2GVB5; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als AEM [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+AEM Forms JEE-pakket (aemfd-jee-bundles-package-6.2GVB5; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als bij AEM [!DNL Forms OSGi]. Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Time-out configureren voor bewerkingen op componentniveau (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -79,15 +79,15 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
 1. Als u de `DesigntimeService` tijd-out van bewerkingswaarden tot 500 sec., gebruik:
 
-   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Als u de `DesigntimeService's previewLCA` tijd-out van bewerkingswaarden tot 700 sec., gebruik:
 
    set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
-1. Als u de `DSC operations` zoals laden, installeren, enzovoort tot 600 sec. gebruiken:
+1. Als u de `DSC operations`tot 600 sec. gebruiken:
 
-   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## AEM installeren en configureren [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -109,13 +109,13 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
    * aemforms62_cfp_install.exe **(AEM [!DNL Forms] 6,2**)
    * aemforms61_cfp_install.exe (**AEM [!DNL Forms] 6,1**)
 
-   **Linux, Solaris, AIX**
+   **Linux®, Solaris™, AIX®**
 
    Navigeer naar de juiste map:
 
-   * (Linux): Disk1/InstData/Linux/ NoVM
-   * (Solaris): Disk1/InstData/Solaris/ NoVM
-   * (AIX): Disk1/InstData/AIX/VM
+   * (Linux®): Disk1/InstData/Linux/ NoVM
+   * (Solaris™): Disk1/InstData/Solaris/ NoVM
+   * (AIX®): Disk1/InstData/AIX/VM
 
    Van een bevelherinnering, type:
 
@@ -123,10 +123,10 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
    * ./aemforms62_cfp_install.bin **AEM [!DNL Forms] 6,2**)
    * ./aemforms61_cfp_install.bin **AEM [!DNL Forms] 6,1**)
 
-   Hiermee wordt een installatiewizard gestart die u door de installatie begeleidt.
+   De installatiewizard wordt gestart om u door de installatie te begeleiden.
 
 1. Klik in het deelvenster Inleiding op **[!UICONTROL Next]**.
-1. Controleer in het scherm Installatiemap kiezen of de standaardlocatie die wordt weergegeven correct is voor uw bestaande installatie of klik op **[!UICONTROL Browse]** om de alternatieve map te selecteren waar AEM [!DNL Forms] is momenteel geïnstalleerd en klikt u op **[!UICONTROL Next]**.
+1. Controleer in het scherm Installatiemap kiezen of de standaardlocatie die wordt weergegeven correct is voor uw bestaande installatie of klik op **[!UICONTROL Browse]** om de alternatieve map te selecteren waar AEM [!DNL Forms] is geïnstalleerd en klikt u op **[!UICONTROL Next]**.
 1. Lees de informatie over het overzicht van reparaties in Snel repareren en klik op **[!UICONTROL Next]**.
 1. Lees de informatie van het Pre-installatieoverzicht en klik **[!UICONTROL Install]**.
 1. Wanneer de installatie is voltooid, klikt u op **[!UICONTROL Next]** om de snelle reparatie updates op uw geïnstalleerde dossiers toe te passen.
@@ -138,8 +138,8 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
    Voor AEM [!DNL Forms] 6.3. zie:
 
-   * Installeren en implementeren van AEM [!DNL Forms] voor JBoss
-   * Installeren en implementeren van AEM [!DNL Forms] voor WebSphere
+   * Installeren en implementeren van AEM [!DNL Forms] voor JBoss®
+   * Installeren en implementeren van AEM [!DNL Forms] voor WebSphere®
    * Installeren en implementeren van AEM [!DNL Forms] voor WebLogic
 
 1. AEM opnieuw starten [!DNL Forms] JEE-server.
