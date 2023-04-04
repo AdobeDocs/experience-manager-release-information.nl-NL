@@ -3,7 +3,7 @@ title: AEM Forms-releases
 description: Bevat een lijst met alle AEM Forms-releases en bijbehorende pakketten
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: db0847781308dbde8097a0cd8ed169b0004165ce
+source-git-commit: 14055b4a8d04f3a3e66d83579b310f7a6eac52f1
 workflow-type: tm+mt
 source-wordcount: '14264'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Adobe Experience Manager [!DNL Forms] is een toepassing die op AEM wordt opgeste
 >
 >AEM Forms geeft de add-on pakketten één week na de geplande AEM Service Pack en Cumulative Fix Pack releasedatum vrij.
 
-De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot vandaag worden uitgebracht, overeenkomende AEM versies (Voorwaarden), downloadkoppelingen van pakketten en andere nuttige informatie:
+De volgende lijst bevat alle AEM [!DNL Forms] add-on pakketten die tot vandaag worden uitgebracht, overeenkomende AEM versies (Voorwaarden), downloadkoppelingen van pakketten en andere nuttige informatie.
 
 ## AEM 6,5 [!DNL Forms] lozingen {#aem-65-forms-releases}
 
