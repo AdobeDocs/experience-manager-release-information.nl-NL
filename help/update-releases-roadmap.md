@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 070e40df3293af42558f94d50cfdf8aca7180195
+source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,11 +23,13 @@ ht-degree: 3%
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2022 10,0 | 2022.10.0 | Functie activeren | 10 november 2022 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,1,0 | 2023.1.0 | Functie activeren | 9 februari 2023 |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2023,2,0 | 2023.2.0 | Functie activeren | 12 april 2023 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,4,0 | 2023.4.0 | Functie activeren | 4 mei 2023 |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,5,0 | 2023.5.0 | Functie activeren | 25 mei 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,4,0 | 2023.4.0 | Functie activeren | 18 mei 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,6,0 | 2023.6.0 | Functie activeren | 29 juni 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,7,0 | 2023.7.0 | Functie activeren | 27 juli 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,8,0 | 2023.8.0 | Functie activeren | 31 augustus 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,9,0 | 2023.9.0 | Functie activeren | 28 september 2023 |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023 10,0 | 2023.10.0 | Functie activeren | 26 oktober 2023 |
 
 Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van onderhoudsuitzettingen, waarbij een overeenkomstige onderhoudsupdate over het algemeen vaker plaatsvindt.
 
@@ -41,10 +43,10 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 | Geen | Versie | Type | Schema |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25 augustus 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24 november 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 februari 2023 |
 | [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mei 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 31 augustus 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 30 november 2023 |
 
 >[!NOTE]
 >
