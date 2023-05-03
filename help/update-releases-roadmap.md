@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
+source-git-commit: a6fe2531f159b29279c7fcbf9f782e1985700eee
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '328'
+ht-degree: 3%
 
 ---
 
@@ -51,10 +51,6 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 >[!NOTE]
 >
 >[!DNL Experience Manager] Forms geeft de invoegpakketten één week na de geplande [!DNL Experience Manager] Releasedatum van Service Pack.
-
-### [!DNL Experience Manager] 6.4 {#aem64}
-
-[!DNL Experience Manager] 6.4 Service Pack 8 GVB 4 is het laatste GVB voor [!DNL Experience Manager] 6.4 Voor meer informatie over het meest recente GVB raadpleegt u [[!DNL Experience Manager] 6.4 Opmerkingen bij de release Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
 
 >[!MORELIKETHIS]
 >

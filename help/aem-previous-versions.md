@@ -2,10 +2,10 @@
 title: Oudere versies van AEM-, CQ- en CRX-documentatie downloaden
 description: Download documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,7 @@ Een geldige Adobe ID is vereist:
 
 | [!DNL Experience Manager] Versie | Software Distribution Link |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4-documentatie](https://experienceleague.adobe.com/docs/experience-manager-64.html) |
 | [!DNL Experience Manager] 6.3 | [Download AEM-DOCS-6.3 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [Download AEM-DOCS-6.2 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [Download AEM-DOCS-6.1 van de Distributie van de Software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |

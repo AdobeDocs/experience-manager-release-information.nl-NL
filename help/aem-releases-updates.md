@@ -3,10 +3,10 @@ title: "[!DNL Adobe Experience Manager] releaseupdates"
 description: "[!DNL Adobe Experience Manager] releaseupdates"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+source-git-commit: 3d078becd3165d77bb027c4d8aec040e1cf01932
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 1%
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ In dit artikel wordt de meest recente versie voor elke releasecategorie weergege
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] als [!DNL Cloud Service] volgt elke maand een release cadence. Als gevolg hiervan zijn nieuwe functies beschikbaar als continue updates voor [!DNL Experience Manager] elke maand.
+[!DNL Experience Manager] als [!DNL Cloud Service] over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht.
 
 Zie [Huidige releaseopmerkingen voor [!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) voor meer informatie over de huidige/laatste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
 
@@ -33,13 +33,3 @@ Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een li
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen.
 
 Zie [[!DNL Experience Manager] 6.5 Nieuwste functiepakket](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) voor meer informatie over de huidige/laatste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
-
-### [!DNL Experience Manager] 6.4 {#aem-64}
-
-[!DNL Experience Manager] 6.4 productupdates worden geleverd via driemaandelijkse GVB&#39;s. Dit zijn onder andere foutoplossingen.
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulatief Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html)
-
-* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html)
