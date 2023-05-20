@@ -6,7 +6,7 @@ exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
 source-wordcount: '890'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -75,11 +75,11 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
 1. Om de onderbreking van alle de dienstverrichtingen aan 600 sec te plaatsen:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. Als u de `DesigntimeService` tijd-out van bewerkingswaarden tot 500 sec., gebruik:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Als u de `DesigntimeService's previewLCA` tijd-out van bewerkingswaarden tot 700 sec., gebruik:
 
@@ -87,7 +87,7 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
 1. Als u de `DSC operations`tot 600 sec. gebruiken:
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## AEM installeren en configureren [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 

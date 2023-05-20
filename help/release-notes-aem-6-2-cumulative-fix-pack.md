@@ -18,7 +18,7 @@ ht-degree: 0%
 
 | **Product** | Adobe Experience Manager |
 |---|---|
-| **Versie** | 6,2 |
+| **Versie** | 6.2 |
 | **Geen** | Cumulatief Fix Pack 6.2 SP1-GVB20 |
 | **Vereiste** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Algemene beschikbaarheid** | 6 juni 2019 |
@@ -191,7 +191,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Het lek in ReplicationEventListener is gecorrigeerd voor een sessie.
 * Ondersteuning voor omleiding is toegevoegd aan de basispaginacomponent.
 
-### Activa {#assets-1}
+### Assets {#assets-1}
 
 * Camera Raw processen blijven vastzitten tijdens perioden van enorme inname, waardoor uiteindelijk alle workflowverwerking wordt geblokkeerd. NPR-26990: Hotfix voor NPR-23860
 * De downloadfunctionaliteit gebruikt AEM Assets via assetdownload servlet, zodat anonieme gebruikers alle middelen kunnen downloaden. NPR-27054, Hotfix voor CQ-4254732
@@ -260,7 +260,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Veranderingen in de mening van het publiek om omslagstructuur voor multi-huurdersimplementatie te steunen.
 * Update aan jqueryui clientlib v1.12.1.
 
-### Activa {#assets-2}
+### Assets {#assets-2}
 
 * Voor het starten van workflows vanuit de gebruikersinterface van middelen moet de gebruiker beschikken over de machtigingen voor schrijven, verwijderen en wijzigen. NPR-25688: Hotfix voor CQ-4250140
 * De knoppen Publiceren en Publiceren worden zichtbaar, zelfs voor gebruikers die geen machtigingen voor repliceren hebben. NPR-25094
@@ -352,7 +352,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Oplossingen in de functionaliteit voor weergeven/verbergen van een vervolgkeuzelijst.
 * Upgrade naar nieuwste Jackson versie 2.8.11
 
-### Activa {#assets-3}
+### Assets {#assets-3}
 
 * Kan geen workflow starten vanuit een lijstweergave. NPR-24393: Hotfix voor CQ-4245788
 * (Firefox/Chrome) Kan geen elementen downloaden op de pagina voor het delen van bedrijfsmiddelen. NPR-24523: Hotfix voor CQ-4224408
@@ -465,7 +465,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Update naar het nieuwste bestand adobe-reader-extensions-dsc.jar voor oplossingen in Extension Reader.
 * Aangepaste validatiehaak om &#39;:invalid&#39; items voor de invoer van het verhogingsgetal te overwegen.
 
-### Activa {#assets-4}
+### Assets {#assets-4}
 
 * De EmbedXMP-gegevens worden altijd ingesteld op &quot;actief&quot; voor het genereren van profielen. NPR-22776: Hotfix voor CQ-4234498
 * Kan meerdere standaardwaarden niet instellen in velden met meerdere waarden. NPR-22900: Hotfix voor CQ-4239000
@@ -585,7 +585,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Bijgewerkte cq-msm-core voor efficiënte synchronisatie Livecopyindex.
 * Gestroomlijnde replicatiefunctionaliteit voor verschillende rollouts.
 
-### Activa {#assets-5}
+### Assets {#assets-5}
 
 * Gebruikers kunnen geen elementen downloaden met een disclaimer- en lange bestandsnaam. NPR-22163: Hotfix voor CQ-4235274
 * Eén aanhalingsteken voorkomt dat de metagegevens worden bijgewerkt in de bulkweergave en de gebruikersinterface wordt volledig verbroken wanneer u de eigenschappen van een element opent met behulp van de snelle werkbalkhandelingen. NPR-22317, NPR-22353: Hotfix voor CQ-4236990, CQ-4236469
@@ -691,7 +691,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Oplossingen voor het gebruik van doelsynchronisatiepubliek.
 * Meer veelzijdigheid voor Correspondentiebeheer om speciale tekens te kunnen gebruiken.
 
-### Activa {#assets-6}
+### Assets {#assets-6}
 
 * Versie wissen kan oude versies van elementen niet verwijderen. NPR-21682: Hotfix voor CQ-4212996
 * Het opnieuw ordenen van mappen onder een map die opnieuw kan worden geordend, duurt niet voort. NPR-21964: Hotfix voor CQ-4231761
@@ -770,7 +770,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verbeterde weergave van pagina&#39;s met meerdere geneste componenten.
 * Verbeterde synchronisatie van publicatiedata voor middelen tussen AEM en Adobe Digital Publishing Suite.
 
-### Activa {#assets-7}
+### Assets {#assets-7}
 
 * Te veel tekens in OmniSearch zorgen ervoor dat AEM server vastloopt. NPR-21083: Hotfix voor CQ-4223602
 * Waarden die zijn opgegeven in de tweede optie in een multiwaardeveld in een metagegevensschema, worden niet toegevoegd aan de eerder opgegeven waarden in de CRX-de. NPR-21220: Hotfix voor CQ-4224526
@@ -878,7 +878,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verbeterde mogelijkheden voor videocodering voor Dynamic Media-bestanden.
 * Oplossingen in Correcte Component en LiveCopies.
 
-### Activa {#assets-8}
+### Assets {#assets-8}
 
 * Dynamic Media video encoding failed for files that include spaces in their names. NPR-20818: Hotfix voor CQ-102469
 * Meerdere XSS-kwetsbaarheden (cross-site scripting) in sommige SWF-bestanden in AEM CQ-auteur/publicatiesnelstart. NPR-21071, NPR-21072
@@ -981,7 +981,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Prestaties worden hersteld in de component Multiple image in-place Editor.
 * Configuratie-updates in Apache Sling JCR ResourceBundleProvider.
 
-### Activa {#assets-9}
+### Assets {#assets-9}
 
 * De voorvertoning van elementen werkt niet als workflows voor het bijwerken van elementen zijn uitgeschakeld. NPR-20543: Hotfix voor CQ-4204986
 * Renderproblemen met klasse toegevoegd aan graniet: class, eigenschap (cq-damadmin-admin-assets-upload). NPR-20514: Hotfix voor CQ-4219238
@@ -1067,7 +1067,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Enhanced Adaptive Forms to attach PDF as attachments in Safari.\
    Biedt een nieuwe Dynamic Media die verbinding maakt met de nieuwe Dynamic Media Publishing Infrastructure voor snellere en schaalbaardere replicatie.
 
-### Activa {#assets-10}
+### Assets {#assets-10}
 
 * AEM Assets kan subelementverwijzingen voor InDesign-elementen niet extraheren door dubbele koppelingen naar het element te maken. NPR-19006: Hotfix voor CQ-4204186
 * De sorteeroptie werkt niet voor elementen binnen de collectie onder Handel. NPR-19508: Hotfix voor CQ-4213622
@@ -1149,7 +1149,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Ingeschakelde hoofdlettergevoelige zoekfunctionaliteit voor documentfragmentinhoud.
 * Lijst met Linux-bibliotheken toegevoegd aan de installatiedocumentatie van AEM Forms.
 
-### Activa {#assets-11}
+### Assets {#assets-11}
 
 * Problemen met het toepassen van het filter Onderzoek op slimme verzamelingen in Safari-browser. NPR-19511
 * Metagegevens van het trefwoord PDF worden niet correct geëxtraheerd en gewijzigd wanneer er meerdere trefwoorden zijn gekoppeld aan een element PDF. Om het probleem op te lossen, is de eigenschap voor metagegevens van het veld Onderwerp verwijderd voor PDF Assets. U kunt echter wel het metagegevensschema bewerken om een tekstveld met meerdere waarden toe te voegen voor het veld Onderwerp. NPR-19126
@@ -1246,7 +1246,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * AT.JS, een implementatiebibliotheek voor integratie aan de clientzijde met Adobe Target die is ontworpen voor zowel standaard webimplementaties als toepassingen van één pagina, wordt ondersteund voor het doelbibliotheekbestand.
 * Verbeterde AEM door een door de gebruiker configureerbare time-outperiode voor Marketing Cloud-oplossingen (Analytics, DTM, Target en S&amp;P) in te voeren.
 
-### Activa {#assets-12}
+### Assets {#assets-12}
 
 * Tijdens het testen van videoinvoer met AEM 6.3 geconfigureerd met Dynamic Media-Cloud Services wordt de uitzondering &#39;Te veel geopende bestanden&#39; veroorzaakt. NPR-18734; Hotfix voor CQ-4211407
 * De vanity URL-instelling voor elementen op een pagina werkt niet nadat de AEM opnieuw is gestart. NPR-18634; Hotfix voor graniet-18085
@@ -1276,7 +1276,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 ### Platform {#platform-10}
 
 * JCR Installer werkt bundelversie na de installatie van het pakket niet bij. NPR-18728; Hotfix voor NPR-15135
-* BLR (Binaryless Replication) werkt niet met binaire bestanden zonder de auteur- en publicatieomgeving. NPR-18704
+* Binaryless Replication (BLR) werkt niet met binaire bestanden zonder ontwikkelaars- en publicatieomgeving. NPR-18704
 * Apache Felix Http Bridge Resolution request in AEM environment. NPR-18297
 * De replicatie mislukt wanneer meerdere pagina&#39;s met een vergelijkbare structuur tegelijkertijd met de distributie van de inhoud worden gerepliceerd. NPR-18665; Hotfix voor graniet-13712
 * Verspreidingspakketten opbouwen en niet zelfgereinigd. NPR-18601; Hotfix voor graniet-16183
@@ -1360,7 +1360,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Introductie van QuickActions op Hybride Apparaten.
 * Synchronisatieproblemen op componentniveau oplossen met live kopieën.
 
-### Activa {#assets-13}
+### Assets {#assets-13}
 
 * De klant wordt geblokkeerd wanneer de gebruiker die niet de vereiste toestemming heeft om verrichting op activa probeert te bewegen. NPR-18330; Hotfix voor CQ-4212560
 * Het samenvoegen van meerdere configuraties voor slimme-inhoudsservices veroorzaakt een gebruiksprobleem. NPR-18273; Hotfix voor CQ-4201557
@@ -1465,7 +1465,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Verschillende problemen met WCM-componenten en -workflows zijn opgelost, zoals Unpublish en Version Purge.
 * Verbeterde responsiviteit van de actiebalk voor de weergave van werkbalkhandelingen en koraalcomponenten.
 
-### Activa {#assets-14}
+### Assets {#assets-14}
 
 * Prestatieverbeteringen in de functie Publiceren naar Brand Portal. NPR-17189; Hotfix voor CQ-4204150
 * Als u middelen deelt met de optie Koppeling delen, wordt er geen zip-bestand met een platte mapstructuur gemaakt om te worden gedownload. NPR-17513; Hotfix voor CQ-4209381
@@ -1607,7 +1607,7 @@ De belangrijkste kenmerken van dit Cumulative Fix Pack zijn:
 * Het aantal resultaten dat op het scherm Gebruikersbeheer wordt weergegeven, is anders in de Kaart- en lijstweergave. NPR-16241; Hotfix voor GRANITE-16914
 * Workflowmeldingen kunnen niet lui worden geladen wanneer ze worden weergegeven in de Google Chrome-browser in de modus Volledig scherm. NPR-17013: Hotfix voor CQ-4207567
 
-### Activa {#assets-15}
+### Assets {#assets-15}
 
 * De richting van de afbeelding wordt niet correct toegepast tijdens het importeren van een afbeelding met een gedefinieerde richting. NPR-16750: Hotfix voor CQ-4204356
 * In de weergave op de tijdlijn van middelen worden geen elementen weergegeven, ook al is Alles tonen standaard ingesteld. NPR-16957: Hotfix voor CQ-98780
@@ -1760,7 +1760,7 @@ De belangrijkste kenmerken van GVB3 zijn:
 * De formulierbeperking kan de `ConstraintMessage` eigenschap. NPR-16388: Hotfix voor CQ-101330
 * De `wcm/foundation/components/parsys` component geeft de component niet weer **[!UICONTROL 'Drag components here]** tijdelijke aanduiding. NPR: 16748: Hotfix voor CQ-4205187
 
-### Activa {#assets-16}
+### Assets {#assets-16}
 
 * De pdf-rasterizer werkt niet meer en veroorzaakt problemen met het geheugen na de installatie van 6.2 SP1 of Hotfix 12430. NPR-15991
 * De metagegevens voor een tekenreekseigenschap, `documentNumber` verschijnt als datum terwijl het een aantal zou moeten zijn. NPR-16134: Hotfix voor GRANITE-16916
@@ -1907,7 +1907,7 @@ De belangrijkste kenmerken van Cumulative Fix Pack 2 zijn:
 * Als u de pagina Bewerken sluit in de modus Tijdlijn verdraaien en deze probeert opnieuw te openen vanuit Siteadmin, treedt er een fout op met status &#39;500&#39; in plaats van de pagina opnieuw te openen. NPR-14965: Hotfix voor CQ-109647:
 * In de DAM-gebruikersinterface (Digital Asset Manager) leidt de zoekopdracht &#39;Volgorde van autorisaties zoeken&#39; tot de uitzondering &#39;Onvoldoende geheugen&#39;. NPR: 15307: HotFix voor CQ-98542
 
-### Activa {#assets-17}
+### Assets {#assets-17}
 
 * Nadat u een element hebt gezocht in de zoekfunctie, selecteert u een element en probeert u eigenschappen te bewerken door op Eigenschappen weergeven te klikken en op de knop Opslaan te klikken, wordt de gebruiker omgeleid naar een lege pagina. NPR-15900: Hotfix voor CQ-4202372
 * Elementen De gebruikersinterface reageert niet op gebeurtenissen. Het selecteren van een element en het klikken op &#39;Publiceren&#39; of &#39;Uitvoeringen&#39; leidt niet tot enige activiteit. NPR-15828: Hotfix voor CQ-4202247
@@ -2043,7 +2043,7 @@ De belangrijkste hoogtepunten van AEM 6.2 SP2-GVB1 zijn:
 * Wanneer het Dialoogvenster PaginaProperties van de Redacteur wordt voorgelegd, schrijft de Bewerker van de Post MSM sommige parameters van het verzoek in plaats van `msm:writeLiveCopyConfig` parameter. NPR-14434
 * Meerdere problemen met betrekking tot de component Rollout, actieve kopieën en andere aspecten van MSM. NPR-12235
 
-### Activa {#assets-18}
+### Assets {#assets-18}
 
 * UnPack-workflow kan afbeeldingen met speciale tekens in de naam van het afbeeldingsbestand niet verwerken. NPR-15227: Hotfix voor CQ-103887
 * Elementen met de expressie Herhalen met voorwaarde worden niet correct weergegeven. Wanneer de gebruiker een voorvertoning weergeeft van de `*CDN3835RLCEN*` lettertypesjabloon. Er worden geen elementen weergegeven die zich in het doelgebied Body bevinden. Wanneer het element `*VIPReassement*`, een optioneel element, dat vooraf is geselecteerd, is niet geselecteerd. De andere elementen die vooraf zijn geselecteerd, worden dan in de letter weergegeven. NPR-14844
@@ -2273,10 +2273,10 @@ Met AEM Cumulatieve Pak 6.2 SP1-GFP7 van de Moeilijke situatie en recentere vers
 
 | **Verbindingen** | **Time-out verbinding&#42;** | **Time-out socket&#42;&#42;** |
 |---|---|---|
-| DTM | 30000 ms | 30000 ms |
-| Analyse | 30000 ms | 30000 ms |
-| Doel | 60000 ms | 30000 ms |
-| Zoeken en promoten | 30000 ms | 30000 ms |
+| DTM | 30000ms | 30000ms |
+| Analyse | 30000ms | 30000ms |
+| Doel | 60000ms | 30000ms |
+| Zoeken en promoten | 30000ms | 30000ms |
 
 * **Time-out verbinding&#42;**- Time-out in milliseconden totdat een verbinding tot stand is gebracht. Een time-outwaarde nul wordt geïnterpreteerd als een oneindige time-out.
 * **Time-out socket&#42;&#42;**- Time-out in milliseconden voor wachten op gegevens of een maximale periode van inactiviteit tussen twee opeenvolgende gegevenspakketten.

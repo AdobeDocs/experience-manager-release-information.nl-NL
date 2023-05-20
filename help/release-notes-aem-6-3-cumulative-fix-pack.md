@@ -15,7 +15,7 @@ ht-degree: 0%
 
 | **Product** | Adobe Experience Manager |
 |---|---|
-| **Versie** | 6,3 |
+| **Versie** | 6.3 |
 | **Geen** | Cumulatief repareren Pack 6.3.3.8 op [Softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
 | **Vereiste** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **Algemene beschikbaarheid** | 5 maart 2020 |
@@ -106,7 +106,7 @@ AEM Cumulative Fix Pack 6.3.3.7 is een belangrijke update die verscheidene inter
 
 AEM Cumulative Fix Pack 6.3.3.7 is afhankelijk van AEM 6.3 Service Pack 3. Daarom moet u het pakket AEM Cumulative Fix Pack 6.3.3.x installeren nadat u AEM 6.3 Service Pack 3 hebt geïnstalleerd. Voor installatie-instructies raadpleegt u [AEM 6.3 Opmerkingen bij de release Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
-### Activa {#assets-1}
+### Assets {#assets-1}
 
 * Elementen die zijn geselecteerd (in de kolomweergave in de aanraakinterface) voordat de filteroptie is geselecteerd in de vervolgkeuzelijst Alleen inhoud en vervolgens de verplaatsingsoptie is geselecteerd, worden ook verplaatst (NPR-30693).
 * De `${extension}` variabele wordt niet gerenderd in auteurinstantie op werkschemaverwerking (NPR-31694).
@@ -174,7 +174,7 @@ AEM Cumulative Fix Pack 6.3.3.6 is een belangrijke update die verscheidene inter
 
 AEM Cumulative Fix Pack 6.3.3.6 is afhankelijk van AEM 6.3 Service Pack 3. Daarom moet u het pakket AEM Cumulative Fix Pack 6.3.3.x installeren nadat u AEM 6.3 Service Pack 3 hebt geïnstalleerd. Voor installatie-instructies raadpleegt u [AEM 6.3 Opmerkingen bij de release Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
-### Activa {#assets-2}
+### Assets {#assets-2}
 
 * De videosamenvoeging door Dynamische Video keert slechts de hoogste 100 punten in resultaatreeks terug. NPR-30441; Hotfix voor CQ-4213561
 * Verbindingsprobleem met Adobe Smart Tag via Datapower. NPR-30026: Hotfix voor CQ-4269457
@@ -232,7 +232,7 @@ De belangrijkste hooglichten van de **AEM Cumulatief reparatiepakket** zijn:
 
 * De ingebouwde opslagplaats (Apache Jackrabbit Oak) wordt bijgewerkt naar versie 1.6.17.
 
-### Activa {#assets-3}
+### Assets {#assets-3}
 
 * Bijgewerkte interface DAM DMGateway voor S3 multipart steun. NPR-29740: Hotfix voor Q-4226303
 * Kan een afbeeldingsuitvoering op een video-element niet verwijderen van de pagina met elementdetails. NPR-29417: Hotfix voor CQ-4268675
@@ -301,7 +301,7 @@ De belangrijkste hooglichten van de **AEM Cumulatief reparatiepakket** zijn:
 * De ingebouwde opslagplaats (Apache Jackrabbit Oak) wordt bijgewerkt naar versie 1.6.16.
 * Time-out voor socket toegevoegd en time-out voor verbinding in Brand Portal-replicatieagents.
 
-### Activa {#assets-4}
+### Assets {#assets-4}
 
 * Als u een archief met dezelfde naam opnieuw uploadt, worden er geen uitvoeringen gegenereerd voor de nieuwe verwerkte elementen. NPR-28643: Hotfix voor CQ-4262286
 * Workflow CommandLineProcess mislukt met een bestandsnaam met één aanhalingsteken. NPR-28805: Hotfix voor CQ-4262287
@@ -413,7 +413,7 @@ De belangrijkste hooglichten van de **AEM Cumulatief reparatiepakket** zijn:
 * Er is een escape-teken voor de komma opgenomen wanneer een zoekopdracht wordt uitgevoerd.
 * Toegelaten steun van synthetische middelen voor inhoudsbeleid.
 
-#### Activa {#assets-5}
+#### Assets {#assets-5}
 
 * Kan geen meerdere bestanden van het type .jp2, .max, .oft, .msg downloaden. NPR-28002: Hotfix voor CQ-4210856
 * De publicatie-instellingen van ImageServer worden niet gerepliceerd naar hybride levering. NPR-28329: Hotfix voor CQ-4253030
@@ -514,7 +514,7 @@ De belangrijkste kenmerken van het AEM Cumulative Fix Pack zijn:
 * Toegelaten bericht unreadCount dat met om het even welk aantal moet worden gevormd. Standaardwaarde ingesteld op 20.
 * Oplossingen in externe koppelingencontrole.
 
-#### Activa {#assets-6}
+#### Assets {#assets-6}
 
 * Cascading dropdown wordt niet ondersteund op dynamische vervolgkeuzelijsten. NPR-27044; Hotfix voor CQ-4252564
 * Verbeter vraag om de eigenschap te gebruiken ExpiryNotification. NPR-26999: Hotfix voor CQ-4251188
@@ -642,7 +642,7 @@ De belangrijkste hooglichten van de **AEM Cumulatief reparatiepakket** zijn:
 * Toegevoegde ondersteuning voor samengestelde velden.
 * Ingeschakelde/uitgeschakelde werkbalkitems van de Rich Text Editor met een inhoudsbeleid voor het dialoogvenster Bewerken.
 
-#### Activa {#assets-7}
+#### Assets {#assets-7}
 
 * Als IDS-ontkoppeling is ingeschakeld, worden verwijzingen niet meer gekoppeld aan de workflow voor DAM-updatemiddelen. NPR-26135: Hotfix voor CQ-4250933
 * Als u een archief dat is gemaakt met de unarchiver-stap uitpakt met een map met een naam van %, wordt dit archief niet geopend. NPR-26275: Hotfix voor CQ-4251482
@@ -842,7 +842,7 @@ De belangrijkste hooglichten van de **AEM Cumulatief reparatiepakket** zijn:
 * De verzekerde rendervoorwaarde keert een normaal resultaat terug als expressionResolver ongeldig is.
 * Coral.ColumnView: Toegevoegde ondersteuning voor shift+klikken.
 
-### Activa {#assets-8}
+### Assets {#assets-8}
 
 * Het veld CUG (Asset Folder Closed User Group) retourneert niet de groep &#39;Iedereen&#39;. NPR-23163: Hotfix voor CQ-4239377
 * Zoeken naar opgeslagen zoekopdrachten in slimme verzamelingen retourneert niet alle resultaten. NPR-23243: Hotfix voor CQ-4240355
@@ -1035,7 +1035,7 @@ De belangrijkste hooglichten van de **AEM Cumulatief reparatiepakket** zijn:
 
 * Cache=true is verwijderd bij Sling Models vanwege problemen met geheugenverbruik.
 
-### Activa {#assets-9}
+### Assets {#assets-9}
 
 * Wanneer u de titel of miniatuurafbeelding wijzigt in de instellingen voor de map Asset Folder, worden de oorspronkelijke groep en machtigingen van de map overschreven. NPR-22171: Hotfix voor CQ-4216080
 * De gebruikersinterface genereert de fout &quot;Publiceren naar Brand Portal is mislukt&quot;, terwijl de taak wordt toegevoegd aan de replicatiewachtrij en de middelen worden gepubliceerd naar Brand Portal. NPR-22179: Hotfix voor CQ-4205273
@@ -1261,7 +1261,7 @@ De belangrijkste kenmerken van het AEM Cumulative Fix Pack zijn:
 * Problemen met de gebruikersinterface op de pagina voor licentiecontrole zijn opgelost voor een betere ervaring.
 * Ondersteuning voor OSGi-workflowtaken ingeschakeld in AEM Forms App.
 
-### Activa {#assets-10}
+### Assets {#assets-10}
 
 * Gewijzigde interface voor ondersteuning van de implementatie van CUG-functionaliteit in AEM Assets. NPR-19485
 * Het uploaden van een element als een rechtstreeks onderliggend knooppunt van zichzelf via de aanraakinterface veroorzaakt een probleem. Het element wordt geüpload als een direct onderliggend element van het eerder geselecteerde element. NPR-19736
@@ -1415,7 +1415,7 @@ De belangrijkste kenmerken van het AEM Cumulative Fix Pack zijn:
 * Gepubliceerde JSON API voor het opnemen van inhoudsfragmenten.
 * De ingebouwde opslagplaats (Apache Jackrabbit Oak) wordt bijgewerkt naar versie 1.6.5.
 
-### Activa {#assets-11}
+### Assets {#assets-11}
 
 * Als twee velden met dezelfde eigenschap worden toegewezen aan verschillende typen eigenschapvelden, treedt er een interne fout op. NPR-19462: HF voor CQ-4216828
 * dc: titel en dc: de beschrijving verandert niet in een meerveldwaarde in crx /de. NPR-19570: HF voor CQ-4209086
@@ -1592,7 +1592,7 @@ De belangrijkste kenmerken van het AEM Cumulative Fix Pack zijn:
 * Verplichting voor de controleerbaarheid van wijzigingen in de gebruikerstoestemming in AEM. NPR-17061
 * Lingingerverbindingen met DM-Cloud Services die uitzonderingen op &quot;Te veel geopende bestanden&quot; veroorzaken. CQ-421407
 
-### Activa {#assets-12}
+### Assets {#assets-12}
 
 * Gebruiksproblemen met het configureren van services voor slimme inhoud met behulp van verschillende opties. NPR-18200: Hotfix voor CQ-4201557
 * Het weglekken van middelen in binaire stromen aan S3 datastore. NPR-18041: Hotfix voor CQ-4209506
@@ -1626,7 +1626,7 @@ De belangrijkste kenmerken van het AEM Cumulative Fix Pack zijn:
    * `com.day.cq.wcm.workflow.impl.WcmWorkflowServiceImpl` NPR-17494: GVB voor CQ-4208669
    * `com.day.crx.delite.impl.AuthHttpContext` NPR-17493: GVB voor GRANITE-17404
 
-### Integraties {#integrations-1}
+### Integrations {#integrations-1}
 
 * Opgeloste AEM de componentenfouten van het Onderzoek die kunnen voorkomen wanneer AEM Cliënt 3.1 van HTTP van Dag OSGI met een Volmacht wordt gevormd die de Authentificatie van de Samenvatting vereist. NPR 18128: Hotfix voor NPR-18029
 * Kwesties met het personaliseren van campagnes en bijbehorende ervaringen via Klassieke UI. NPR-18127: Hotfix voor CQ-4211559
@@ -1832,14 +1832,14 @@ Met AEM Cumulatieve die Pak 6.3.0.2 van de Fix en recentere versies, de configur
 
 * De volgende fouten en waarschuwingen kunnen optreden tijdens de installatie van AEM GVB 6.3.3.x en kunnen veilig worden genegeerd:
 
-   * * WAARSCHUWING * [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallaak-0.0.2-jar-with-dependences.jar heeft een runtime-uitzondering gegenereerd.
-   * *FOUT* [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Time-out bij wachten op wijziging van reg om niet-geregistreerd te voltooien. CQ-4209974.
+   * &#42;WAARSCHUWING&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallaak-0.0.2-jar-with-dependences.jar heeft een runtime-uitzondering gegenereerd.
+   * &#42;FOUT&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Time-out bij wachten op wijziging van reg om niet-geregistreerd te voltooien. CQ-4209974.
    * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver-service ontbreekt, kan geen serviceaanvragen verzenden en status 503 verzenden
    * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource: kan resource niet controleren [/bin/receive], paginabeheer niet beschikbaar
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver: Het aanroepen van de fouthandler heeft geleid tot een fout
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver Oorspronkelijke fout null
    * org.apache.sling.engine.impl.DefaultErrorHandler Error-handler mislukt:java.io.IOException
-   * *FOUT* [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory heeft null geretourneerd. (Component: com.day.cq.dam.handler.standard.ps.PostScriptHandler)
+   * &#42;FOUT&#42; [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: Service factory heeft null geretourneerd. (Component: com.day.cq.dam.handler.standard.ps.PostScriptHandler)
 
 **Brand Portal**
 
@@ -1868,11 +1868,11 @@ Volg de onderstaande stappen om wijzigingen in adobe- livecycle - cq -author.ear
 
    * de update **sling.bootdelegatie.ibm** param-name waarde met:
 
-      * com.ibm.xml.*,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
+      * com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
    * Na de bovenstaande wijziging moet de init-param er als volgt uitzien:
 
       * &lt;init-param>\
-         &lt;param-name>sling.bootdelegatie.ibm&lt;/param-name> &lt;param-value>com.ibm.xml.*,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value>\
+         &lt;param-name>sling.bootdelegatie.ibm&lt;/param-name> &lt;param-value>com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value>\
          &lt;/init-param>
 
 
@@ -1893,11 +1893,11 @@ Om ACL beleid bij te werken, voeg de hieronder controles van de Toegang door CRX
 `a)` Opdrachtgever: referentieaanpassingsdienst\
 Type: Toestaan\
 Bevoegdheden : jcr:read , jcr:modifyProperties\
-Beperkingen : rep:glob=&quot;/*/jcr:content&quot;\
+Beperkingen : rep:glob=&quot;/&#42;/jcr:content&quot;\
 `b)` Opdrachtgever: referentieaanpassingsdienst\
 Type: Toestaan\
 Bevoegdheden : jcr:read , jcr:modifyProperties\
-Beperkingen : rep:glob=&quot;/*/jcr:content/*&quot;
+Beperkingen : rep:glob=&quot;/&#42;/jcr:content/&#42;&quot;
 
 `2)` Op pad &quot;/content/usergenerated&quot;\
 `a)` Opdrachtgever: referentieaanpassingsdienst\
@@ -1908,11 +1908,11 @@ Bevoegdheden : jcr:write
 `a)` Opdrachtgever: referentieaanpassingsdienst\
 Type: Toestaan\
 Bevoegdheden : jcr:read , jcr:modifyProperties\
-Beperkingen : rep:glob=&quot;/*/jcr:content&quot;\
+Beperkingen : rep:glob=&quot;/&#42;/jcr:content&quot;\
 `b)` Opdrachtgever: referentieaanpassingsdienst\
 Type: Toestaan\
 Bevoegdheden : jcr:read , jcr:modifyProperties\
-Beperkingen : rep:glob=&quot;/*/jcr:content/*&quot;
+Beperkingen : rep:glob=&quot;/&#42;/jcr:content/&#42;&quot;
 
 ## Voor NPR-19450 vereiste configuratie-instellingen {#configuration-settings-required-for-npr-2}
 
