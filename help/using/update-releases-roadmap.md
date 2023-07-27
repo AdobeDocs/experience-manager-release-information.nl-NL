@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 8431dac82cec9454c6a4683dc566f34c3978fae6
+source-git-commit: 0d6d189e10b38d5a87baf381bfab15c8afc7a128
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 1%
@@ -23,15 +23,15 @@ ht-degree: 1%
 
 | Geen | Type | Schema | Status |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,2,0 | Functie activeren | 12 april 2023 | Geactiveerd |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,4,0 | Functie activeren | 7 juni 2023 | Geactiveerd |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,6,0 | Functie activeren | 29 juni 2023 | Geactiveerd |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,7,0 | Functie activeren | 27 juli 2023 | Doel |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,2,0 | Functie activeren | 12 april 2023 | geactiveerd |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,4,0 | Functie activeren | 7 juni 2023 | geactiveerd |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,6,0 | Functie activeren | 29 juni 2023 | geactiveerd |
+| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,7,0 | Functie activeren | 27 juli 2023 | geactiveerd |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2023,8,0 | Functie activeren | 31 augustus 2023 | Doel |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2023,9,0 | Functie activeren | 28 september 2023 | Doel |
 | [!DNL Experience Manager] als [!DNL Cloud Service] 2023 10,0 | Functie activeren | 26 oktober 2023 | Doel |
 
-Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm van [onderhoudsreleases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), waarbij een overeenkomstige onderhoudsupdate doorgaans vaker plaatsvindt.
+Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm [onderhoudsreleases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), waarbij een overeenkomstige onderhoudsupdate doorgaans vaker plaatsvindt.
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
