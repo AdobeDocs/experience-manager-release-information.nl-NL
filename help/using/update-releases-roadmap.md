@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0d6d189e10b38d5a87baf381bfab15c8afc7a128
+source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
@@ -41,12 +41,12 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor meer informatie over het nieuwste servicepack raadpleegt u [[!DNL Experience Manager] Opmerkingen bij de release van 6.5 servicepack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html).
 
-| Geen | Versie | Type | Schema |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 februari 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mei 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 31 augustus 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 30 november 2023 |
+| Geen | Versie | Type | Schema | Status |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 februari 2023 | geactiveerd |
+| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mei 2023 | geactiveerd |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 24 augustus 2023 | Doel |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23 november 2023 | Doel |
 
 >[!NOTE]
 >
