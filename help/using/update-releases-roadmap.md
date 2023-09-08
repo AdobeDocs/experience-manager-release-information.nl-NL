@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 15841ed517305f1db2d12931add81ff1ef817492
+source-git-commit: 3c1188eba0a6a7efb252d4d0fe5152778afa4a77
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '406'
 ht-degree: 1%
 
 ---
@@ -19,19 +19,27 @@ ht-degree: 1%
 
 ## [!DNL Experience Manager] als [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] als [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html) over het algemeen wordt een maandelijks releasecadence voor nieuwe eigenschappen gericht. De komende eigenschapactivering voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn als volgt gepland.
+[!DNL Experience Manager] als [!DNL Cloud Service] nieuwe functies worden geleverd via een [maandelijkse activering van functies](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html), terwijl de verbeteringen en insectenmoeilijke situaties tweemaal per maand door worden geleverd [onderhoudsreleases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html).
+De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn als volgt gepland:
 
-| Geen | Type | Schema | Status |
+| Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,6,0 | Functie activeren | 29 juni 2023 | geactiveerd |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,7,0 | Functie activeren | 27 juli 2023 | geactiveerd |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,8,0 | Functie activeren | 31 augustus 2023 | Doel |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023,9,0 | Functie activeren | 28 september 2023 | Doel |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023 10,0 | Functie activeren | 26 oktober 2023 | Doel |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023 11,0 | Functie activeren | 30 november 2023 | Doel |
-| [!DNL Experience Manager] als [!DNL Cloud Service] 2023 12,0 | Functie activeren | 14 december 2023 | Doel |
-
-Naast de eigenschapversies, worden de kritieke insecten en veiligheidsmoeilijke situaties ter beschikking gesteld in [!DNL Experience Manager] als [!DNL Cloud Service] in de vorm [onderhoudsreleases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), waarbij een overeenkomstige onderhoudsupdate doorgaans vaker plaatsvindt.
+| Feature 2023.6.0 | Functie activeren | 29 juni 2023 | geactiveerd |
+| Feature 2023.7.0 | Functie activeren | 27 juli 2023 | geactiveerd |
+| Onderhoudsrelease | Automatisch bijwerken | 7-10 augustus 2023 | Bijgewerkt |
+| Onderhoudsrelease | Automatisch bijwerken | 21 augustus 2023-24 augustus 2023 | Bijgewerkt |
+| Feature 2023.8.0 | Functie activeren | 31 augustus 2023 | geactiveerd |
+| Onderhoudsrelease | Automatisch bijwerken | 4-7 september 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 18 september 2023 | Doel |
+| Feature 2023.9.0 | Functie activeren | 28 september 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 2-5 oktober 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 16-19 oktober 2023 | Doel |
+| Feature 2023.10.0 | Functie activeren | 26 oktober 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 30 oktober - 2 november 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 13-16 november 2023 | Doel |
+| Feature 2023.11.0 | Functie activeren | 30 november 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 11-14 december 2023 | Doel |
+| Feature 2023.12.0 | Functie activeren | 14 december 2023 | Doel |
 
 >[!CAUTION]
 >
@@ -54,7 +62,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23 februari 2023 | geactiveerd |
 | [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25 mei 2023 | geactiveerd |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 24 augustus 2023 | Doel |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 24 augustus 2023 | geactiveerd |
 | [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23 november 2023 | Doel |
 
 >[!NOTE]
