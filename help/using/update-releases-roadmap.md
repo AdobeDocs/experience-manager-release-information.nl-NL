@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ffa37b42c9f90404900d9e4c5e4ce25fe4a1d12f
+source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 1%
@@ -36,13 +36,13 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 | Feature 2023.11.0 | Functie activeren | 30 november 2023 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 11-14 december 2023 | Doel |
 | Feature 2023.12.0 | Functie activeren | 14 december 2023 | Doel |
-| Feature 2024.1.0 | Functie activeren | 25 januari 2023 | Doel |
-| Feature 2024.2.0 | Functie activeren | 29 februari 2023 | Doel |
-| Feature 2024.3.0 | Functie activeren | 28 maart 2023 | Doel |
-| Feature 2024.4.0 | Functie activeren | 25 april 2023 | Doel |
-| Feature 2024.5.0 | Functie activeren | 30 mei 2023 | Doel |
-| Feature 2024.6.0 | Functie activeren | 27 juni 2023 | Doel |
-| Feature 2024.7.0 | Functie activeren | 25 juli 2023 | Doel |
+| Feature 2024.1.0 | Functie activeren | 25 januari 2024 | Doel |
+| Feature 2024.2.0 | Functie activeren | 29 februari 2024 | Doel |
+| Feature 2024.3.0 | Functie activeren | 28 maart 2024 | Doel |
+| Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
+| Feature 2024.5.0 | Functie activeren | 30 mei 2024 | Doel |
+| Feature 2024.6.0 | Functie activeren | 27 juni 2024 | Doel |
+| Feature 2024.7.0 | Functie activeren | 25 juli 2024 | Doel |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 >
 > Er wordt geen automatisch AEMaaCS-onderhoud uitgevoerd tijdens de volgende tijdframes, die beginnen en eindigen om middernacht (00:00) CET:
 >
->* Donderdag 16 november tot dinsdag 28 november
->* vrijdag, 15 december tot en met dinsdag 2 januari
+>* Donderdag 16 november 2023 tot dinsdag 28 november 2023
+>* vrijdag 15 december 2023 tot dinsdag 2 januari 2024
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
