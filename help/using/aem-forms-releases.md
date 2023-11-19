@@ -3,9 +3,9 @@ title: AEM Forms-releases
 description: Bevat een lijst met alle AEM Forms-releases en bijbehorende pakketten
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: f03a2ce6bef6d167e780f750c7fdb6627d088094
+source-git-commit: a0c476e652ee19ee1f6ef3f7bc8a8eab91c2da33
 workflow-type: tm+mt
-source-wordcount: '8168'
+source-wordcount: '8171'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ Adobe Experience Manager [!DNL Forms] is een toepassing die op AEM wordt opgeste
 
 >[!NOTE]
 >
-> De AEM Forms-functies, zoals Adaptive Forms, zijn beschikbaar in [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html), uitsluitend bestemd zijn voor exploratie en evaluatie. Voor productiedoeleinden is het van essentieel belang een geldige vergunning voor AEM Forms te verkrijgen.
+>
+>De functie Adaptive Forms is beschikbaar in [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html), is uitsluitend ontworpen voor exploratie en evaluatie. Voor productiegebruik is het van essentieel belang een geldige licentie voor AEM Forms te verkrijgen, aangezien voor de adaptieve Forms-functionaliteit een correcte licentie vereist is.
 
 
 <!--
