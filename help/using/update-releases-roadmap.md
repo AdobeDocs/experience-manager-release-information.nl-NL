@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 97cb94f05cd40bb1321712a6713b93db626948ce
+source-git-commit: 3f2d9eaa75b0da45e55b977a578ef4b73b5269fd
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '553'
 ht-degree: 1%
 
 ---
@@ -22,18 +22,24 @@ ht-degree: 1%
 [!DNL Experience Manager] als [!DNL Cloud Service] nieuwe functies worden geleverd via een [maandelijkse activering van functies](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html), terwijl de verbeteringen en insectenmoeilijke situaties tweemaal per maand door worden geleverd [onderhoudsreleases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html).
 De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn als volgt gepland:
 
+### Eerdere versies {#past}
+
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Functie vrijgeven [2023,8,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-8-0.html) | Functie activeren | 31 augustus 2023 | geactiveerd |
 | Onderhoudsrelease [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Automatisch bijwerken | 1 september 2023 | Bijgewerkt |
 | Onderhoudsrelease [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13420) | Automatisch bijwerken | 18 september 2023 | Bijgewerkt |
 | Functie vrijgeven [2023,9,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0.html) | Functie activeren | 28 september 2023 | geactiveerd |
 | Onderhoudsrelease [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13665) | Automatisch bijwerken | 2-5 oktober 2023 | Bijgewerkt |
 | Onderhoudsrelease [1384](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13804) | Automatisch bijwerken | 16-19 oktober 2023 | Bijgewerkt |
-| Functie vrijgeven [2023 10,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | Functie activeren | 26 oktober 2023 | geactiveerd |
+| Functie vrijgeven [2023 10,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html) | Functie activeren | 26 oktober 2023 | geactiveerd |
 | Onderhoudsrelease [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14029) | Automatisch bijwerken | 30 oktober - 2 november 2023 | Bijgewerkt |
-| Onderhoudsrelease [1427](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | Automatisch bijwerken | 13-16 november 2023 | Doel |
-| Feature 2023.11.0 | Functie activeren | 30 november 2023 | Doel |
+| Onderhoudsrelease [1427](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | Automatisch bijwerken | 13-16 november 2023 | Bijgewerkt |
+| Functie vrijgeven [2023 11,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | Functie activeren | 30 november 2023 | geactiveerd |
+
+### Volgende releases {#upcoming}
+
+| Geen | Gebeurtenis | Schema | Status |
+|---|---|---|---|
 | Onderhoudsrelease | Automatisch bijwerken | 11-14 december 2023 | Doel |
 | Feature 2023.12.0 | Functie activeren | 14 december 2023 | Doel |
 | Feature 2024.1.0 | Functie activeren | 25 januari 2024 | Doel |
