@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: aa2d2b96f7539eee682d9ddb945218562068810a
+source-git-commit: 7eee7e685910e936892e110ef68ac9e6b67ab016
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 1%
+source-wordcount: '522'
+ht-degree: 0%
 
 ---
 
@@ -42,7 +42,10 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 |---|---|---|---|
 | Onderhoudsrelease | Automatisch bijwerken | 11-14 december 2023 | Doel |
 | Feature 2023.12.0 | Functie activeren | 14 december 2023 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 8 januari 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 22-24 januari 2024 | Doel |
 | Feature 2024.1.0 | Functie activeren | 25 januari 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 5 februari 2024 | Doel |
 | Feature 2024.2.0 | Functie activeren | 29 februari 2024 | Doel |
 | Feature 2024.3.0 | Functie activeren | 28 maart 2024 | Doel |
 | Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
@@ -63,20 +66,19 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 
 Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde producten [!DNL Experience Manager] Op locatie en Managed Services worden geleverd via driemaandelijkse servicepakketten en Cumulatieve Fix Packs (GFP&#39;s). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
-### [!DNL Experience Manager] 6.5 {#aem65}
+### [!DNL Experience Manager] 6,5 {#aem65}
 
 [!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor meer informatie over het nieuwste servicepack raadpleegt u [[!DNL Experience Manager] Opmerkingen bij de release van 6.5 servicepack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html).
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6,5 [Service Pack 16](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.16.html) | 6.5.16.0 | Service Pack | 23 februari 2023 | geactiveerd |
-| [!DNL Experience Manager] 6,5 [Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0 | Service Pack | 25 mei 2023 | geactiveerd |
-| [!DNL Experience Manager] 6,5 [Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.18.html) | 6.5.18.0 | Service Pack | 24 augustus 2023 | geactiveerd |
-| [!DNL Experience Manager] 6,5 [Service Pack 19](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) | 6.5.19.0 | Service Pack | 30 november 2023 | geactiveerd |
-| [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20.0 | Service Pack | 22 februari 2024 | Doel |
-| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 23 mei 2024 | Doel |
-| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 22 augustus 2024 | Doel |
-| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 21 november 2024 | Doel |
+| [!DNL Experience Manager] 6,5 [Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0. | Service Pack | 25 mei 2023 | geactiveerd |
+| [!DNL Experience Manager] 6,5 [Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.18.html) | 6.5.18.0. | Service Pack | 24 augustus 2023 | geactiveerd |
+| [!DNL Experience Manager] 6,5 [Service Pack 19](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) | 6.5.19,0 | Service Pack | 30 november 2023 | geactiveerd |
+| [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20,0 | Service Pack | 22 februari 2024 | Doel |
+| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0. | Service Pack | 23 mei 2024 | Doel |
+| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0. | Service Pack | 22 augustus 2024 | Doel |
+| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0. | Service Pack | 21 november 2024 | Doel |
 
 >[!NOTE]
 >
