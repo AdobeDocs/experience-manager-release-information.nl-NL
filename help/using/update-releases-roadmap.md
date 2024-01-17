@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f0d7dff2ff21befed5f0c2fde36b5442267d61ad
+source-git-commit: 4e209f166c0401279f73632e19bf8f05ee0e9dec
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -50,15 +50,6 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 | Feature 2024.5.0 | Functie activeren | 30 mei 2024 | Doel |
 | Feature 2024.6.0 | Functie activeren | 27 juni 2024 | Doel |
 | Feature 2024.7.0 | Functie activeren | 25 juli 2024 | Doel |
-
->[!CAUTION]
->
->**Geplande uitsluitingsperiode voor onderhoud**
->
-> Er wordt geen automatisch AEMaaCS-onderhoud uitgevoerd tijdens de volgende tijdframes, die beginnen en eindigen om middernacht (00:00) CET:
->
->* Donderdag 16 november 2023 tot dinsdag 28 november 2023
->* vrijdag 15 december 2023 tot dinsdag 2 januari 2024
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
