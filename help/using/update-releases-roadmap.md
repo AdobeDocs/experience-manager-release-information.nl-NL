@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4e209f166c0401279f73632e19bf8f05ee0e9dec
+source-git-commit: 6349e074790bc922482eee3b40f28931751c26d0
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -36,13 +36,13 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 | Onderhoudsrelease [1427](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14227) | Automatisch bijwerken | 13-16 november 2023 | Bijgewerkt |
 | Functie vrijgeven [2023 11,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html) | Functie activeren | 30 november 2023 | geactiveerd |
 | Onderhoudsrelease [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | Automatisch bijwerken | 11-14 december 2023 | Bijgewerkt |
-| Functie vrijgeven [2023 12,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | Functie activeren | 14 december 2023 | geactiveerd |
+| Functie vrijgeven [2023 12,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) | Functie activeren | 14 december 2023 | geactiveerd |
+| Functie vrijgeven [2024,1,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | Functie activeren | 25 januari 2024 | geactiveerd |
 
 ### Volgende releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Feature 2024.1.0 | Functie activeren | 25 januari 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 5 februari 2024 | Doel |
 | Feature 2024.2.0 | Functie activeren | 29 februari 2024 | Doel |
 | Feature 2024.3.0 | Functie activeren | 28 maart 2024 | Doel |
