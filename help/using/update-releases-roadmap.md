@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 6349e074790bc922482eee3b40f28931751c26d0
+source-git-commit: 4308334a9df7a76c7fd813cb21f459d167caeb4a
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,8 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Onderhoudsrelease | Automatisch bijwerken | 5 februari 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 12-14 februari 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 26-28 februari 2024 | Doel |
 | Feature 2024.2.0 | Functie activeren | 29 februari 2024 | Doel |
 | Feature 2024.3.0 | Functie activeren | 28 maart 2024 | Doel |
 | Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
