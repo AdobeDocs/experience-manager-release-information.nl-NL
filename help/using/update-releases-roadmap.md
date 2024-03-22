@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
+source-git-commit: d0ad1c9e02ff25bffe5cf4eb1eb385ee0202e941
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -46,8 +46,18 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-
-| Onderhoudsrelease|Automatische update|8-10 april 2024|Doel| | Feature 2024.3.0 |Functie activeren|4 april 2024 |Doel| | Onderhoudsrelease|Automatische update|22-24 april 2024|Doel| | Feature 2024.4.0 |Functie activeren|25 april 2024 |Doel| | Onderhoudsrelease|Automatische update|6-8 mei 2024|Doel| | Onderhoudsrelease|Automatische update|20-22 mei 2024|Doel| | Feature 2024.5.0 |Functieactivering|30 mei 2024 |Doel| | Onderhoudsrelease|Automatische update|3-5 juni 2024|Doel| | Onderhoudsrelease|Automatische update|17-19 juni 2024|Doel| | Feature 2024.6.0 |Functie activeren|27 juni 2024 |Doel| | Onderhoudsrelease|Automatische update|1-3 juli 2024|Doel| | Feature 2024.7.0 |Functie activeren|25 juli 2024 |Doel|
+| Onderhoudsrelease | Automatisch bijwerken | 8 april 2024 | Doel |
+| Feature 2024.3.0 | Functie activeren | 4 april 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 22 april 2024 | Doel |
+| Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 6-8 mei 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 20 mei 2024 | Doel |
+| Feature 2024.5.0 | Functie activeren | 30 mei 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 3-5 juni 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 17-19 juni 2024 | Doel |
+| Feature 2024.6.0 | Functie activeren | 27 juni 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 1-3 juli 2024 | Doel |
+| Feature 2024.7.0 | Functie activeren | 25 juli 2024 | Doel |
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
