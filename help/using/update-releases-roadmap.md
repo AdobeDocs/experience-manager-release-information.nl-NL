@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9ef364f5e561b07ae9d81dba9b772e884e74d322
+source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -39,25 +39,15 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 | Functie vrijgeven [2023 12,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) | Functie activeren | 14 december 2023 | geactiveerd |
 | Functie vrijgeven [2024,1,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | Functie activeren | 25 januari 2024 | geactiveerd |
 | Onderhoudsrelease [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html#release-15262) | Automatisch bijwerken | 11 maart 2024 | geactiveerd |
+| Onderhoudsrelease [1575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 19 maart-21 maart 2024 | geactiveerd |
 
 
 ### Volgende releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Onderhoudsrelease [1575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 19 maart-21 maart 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 1 april 2024 | Doel |
-| Feature 2024.3.0 | Functie activeren | 4 april 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 15 april 2024 | Doel |
-| Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 29 april - 1 mei 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 13-15 mei 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 27 mei 2024 - 29 mei 2024 | Doel |
-| Feature 2024.5.0 | Functie activeren | 30 mei 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 10-12 juni 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 24-26 juni 2024 | Doel |
-| Feature 2024.6.0 | Functie activeren | 27 juni 2024 | Doel |
-| Feature 2024.7.0 | Functie activeren | 25 juli 2024 | Doel |
+
+| Onderhoudsrelease|Automatische update|8-10 april 2024|Doel| | Feature 2024.3.0 |Functie activeren|4 april 2024 |Doel| | Onderhoudsrelease|Automatische update|22-24 april 2024|Doel| | Feature 2024.4.0 |Functie activeren|25 april 2024 |Doel| | Onderhoudsrelease|Automatische update|6-8 mei 2024|Doel| | Onderhoudsrelease|Automatische update|20-22 mei 2024|Doel| | Feature 2024.5.0 |Functieactivering|30 mei 2024 |Doel| | Onderhoudsrelease|Automatische update|3-5 juni 2024|Doel| | Onderhoudsrelease|Automatische update|17-19 juni 2024|Doel| | Feature 2024.6.0 |Functie activeren|27 juni 2024 |Doel| | Onderhoudsrelease|Automatische update|1-3 juli 2024|Doel| | Feature 2024.7.0 |Functie activeren|25 juli 2024 |Doel|
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
