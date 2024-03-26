@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dfad170db445a5bcbb9e1abc65f297a1cd4f928e
+source-git-commit: 7fe057f759a0ae328957efd6d425c6a2d37ef1d1
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 ### [!DNL Experience Manager] 6,5 {#aem65}
 
-[!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor meer informatie over het nieuwste servicepack raadpleegt u [[!DNL Experience Manager] Opmerkingen bij de release van 6.5 servicepack](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html).
+[!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor meer informatie over het nieuwste servicepack raadpleegt u [[!DNL Experience Manager] Opmerkingen bij de release van 6.5 servicepack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
