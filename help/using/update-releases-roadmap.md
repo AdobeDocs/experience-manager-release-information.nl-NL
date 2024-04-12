@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7c6a37d666cd305e7a910b2e0da31defd59d2e2c
+source-git-commit: 9dba6bffa6d6649409809afae17b1c5f3be70284
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
