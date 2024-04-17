@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9dba6bffa6d6649409809afae17b1c5f3be70284
+source-git-commit: 76ac75c7b83a52593b63a123b7b1cd4acb3daa52
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -41,14 +41,13 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 | Onderhoudsrelease [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html#release-15262) | Automatisch bijwerken | 11 maart 2024 | Bijgewerkt |
 | Onderhoudsrelease [1575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Automatisch bijwerken | 19 maart-21 maart 2024 | Bijgewerkt |
 | Functie vrijgeven [2024,3,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | Functie activeren | 11 april 2024 | geactiveerd |
+| Onderhoudsrelease [1586](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Automatisch bijwerken | 8 april 2024 | Bijgewerkt |
 
 ### Volgende releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Onderhoudsrelease [1586](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 8 april 2024 | Gestart |
-| Feature 2024.3.0 | Functie activeren | 11 april 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 22 april 2024 | Doel |
+| Onderhoudsrelease [1593](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 22 april 2024 | Doel |
 | Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 6-8 mei 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 20 mei 2024 | Doel |
