@@ -1,17 +1,17 @@
 ---
-title: "[!DNL Adobe Experience Manager] Updates vrijgeven en routekaart"
-description: "[!DNL Adobe Experience Manager] Updates vrijgeven en routekaart"
+title: Adobe Experience Manager-release-updates en -routekaart
+description: Updates en routekaart van Adobe Experience Manager-versie.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 12%
+source-wordcount: '63'
+ht-degree: 22%
 
 ---
 
 # Adobe Experience Manager-release-updates en -routekaart
 
-Deze handleiding behandelt informatie over [!DNL Adobe Experience Manager] versies roadmap, vorige versieupdates, en documentatieupdates.
+Deze handleiding bevat informatie over de [!DNL Adobe Experience Manager] release roadmap, vorige release updates en documentatie updates.
 
 * [[!DNL Experience Manager] releaseupdates](aem-releases-updates.md)
 * [[!DNL Experience Manager] routekaart voor releases](update-releases-roadmap.md)
@@ -24,5 +24,5 @@ Deze handleiding behandelt informatie over [!DNL Adobe Experience Manager] versi
 
 ## Documentatie-updates
 
-* [[!DNL Experience Manager] documentatie: Recente documentatie-updates](documentation-updates.md)
+* [[!DNL Experience Manager] documentatie: recente documentatie-updates](documentation-updates.md)
 * [Vorige documentupdates](previous-documentation-updates.md)

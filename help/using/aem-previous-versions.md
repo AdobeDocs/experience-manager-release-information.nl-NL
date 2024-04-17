@@ -2,9 +2,9 @@
 title: Oudere versies van AEM-, CQ- en CRX-documentatie downloaden
 description: Download documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '561'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ Vorige Help-hulplijnen voor oudere versies van AEM, CQ en CRX vinden.
 
 ## Oudere versies van [!DNL Experience Manager] documentatie {#older-version-aem-documentation}
 
-De versies van [!DNL Adobe Experience Manager], CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door de Adobe verkocht. De laatste versies van de officiële documentatie van de Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).
+De versies van [!DNL Adobe Experience Manager], CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door de Adobe verkocht. De laatste versies van de officiële documentatie van de Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service).
 
 >[!NOTE]
 >
@@ -40,13 +40,13 @@ Een geldige Adobe ID is vereist:
 
 | [!DNL Experience Manager] Versie | Koppeling naar softwaredistributie |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4-documentatie](https://experienceleague.adobe.com/docs/experience-manager-64.html) |
-| [!DNL Experience Manager] 6.3 | [AEM-DOCS-6.3 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
-| [!DNL Experience Manager] 6.2 | [AEM-DOCS-6.2 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
-| [!DNL Experience Manager] 6.1 | [AEM-DOCS-6.1 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
-| [!DNL Experience Manager] 6.0 | [AEM-DOCS-6.0 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
-| [!DNL Experience Manager] 5.6.1 | [Download AEM-DOCS-5.6.1 via softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
-| [!DNL Experience Manager] 5.6 | [AEM-DOCS-5.6 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
+| [!DNL Experience Manager] 6,4 | [Adobe Experience Manager 6.4-documentatie](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
+| [!DNL Experience Manager] 6,3 | [AEM-DOCS-6.3 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
+| [!DNL Experience Manager] 6,2 | [AEM-DOCS-6.2 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
+| [!DNL Experience Manager] 6,1 | [AEM-DOCS-6.1 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
+| [!DNL Experience Manager] 6,0 | [AEM-DOCS-6.0 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
+| [!DNL Experience Manager] 5.6.1. | [Download AEM-DOCS-5.6.1 via softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
+| [!DNL Experience Manager] 5,6 | [AEM-DOCS-5.6 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
 | CQ 5.5 | [CQ-DOCS-5.5 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip) |
 | CQ 5.4 | [CQ-DOCS-5.4 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip) |
 | CQ 5.3 | [CQ-DOCS-5.3 downloaden van softwaredistributie](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip) |
@@ -79,7 +79,7 @@ Als u een verouderd documentatiepakket wilt installeren, moet u over [!DNL Exper
 
 1. Open de [!DNL Experience Manager] gebruikersinterface. Voer in een webbrowser de volgende gegevens in: `http://localhost:4502/`. Meld u aan als beheerder.
 
-1. Selecteer **[!UICONTROL Tools]** > **[!UICONTROL Deployment]** > **[!UICONTROL Packages]**.
+1. Selecteren **[!UICONTROL Tools]** > **[!UICONTROL Deployment]** > **[!UICONTROL Packages]**.
 
 1. Selecteer in de gebruikersinterface van Package Manager de optie **[!UICONTROL Upload Package]**.
 
