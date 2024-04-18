@@ -1,11 +1,11 @@
 ---
 title: Definities van releasevoertuig bijwerken
-description: In dit artikel worden de verschillende typen [!DNL Experience Manager] versies, met inbegrip van volledige versies, eigenschapspakken, en de dienstenpakketten.
+description: In dit artikel worden de verschillende typen [!DNL Experience Manager] versies, met inbegrip van volledige versies, eigenschapspakken, en de dienstpakken.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '731'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 
 >[!NOTE]
 >
->Voor releaseplanning van [!DNL Experience Manager] update-releases, raadpleegt u [[!DNL Experience Manager] update-releases roadmap](update-releases-roadmap.md)
+>Voor releaseplanning van [!DNL Experience Manager] update-releases, zie [[!DNL Experience Manager] update-releases roadmap](update-releases-roadmap.md)
 
 ## Volledige release {#full-release}
 
@@ -35,7 +35,7 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 | Item | Beschrijving |
 |-----|-----|
 | Definitie | <ul> <li> Geplande release </li> <li> Kan momenteel niet terugdraaien </li> </ul> |
-| Naamgeving | <ul> <li> Reparatienummer is een getal van één cijfer </li> <li> Na installatie zal het geïnstalleerde de flardcijfer van het versieaantal verhogen, die op formule X.Y.Z.SPx wordt gebaseerd </li> </ul> Waar X het primaire versienummer is, is Y het secundaire versienummer, en Z het flardaantal. x is het aantal van het de dienstpak. |
+| Naamgeving | <ul> <li> Reparatienummer is één cijfer </li> <li> Na installatie zal het geïnstalleerde de flardcijfer van het versienummer, gebaseerd op de formule X.Y.Z.SPx verhogen </li> </ul> Waar X het primaire versienummer is, is Y het secundaire versienummer, en Z het flardaantal. x is het aantal van het de dienstpak. |
 | Inclusies | <ul> <li> Nieuwe functies</li> <li>  Verbeteringen </li> <li> Bugfixes </li> <li> Pakketten met kenmerken van algemeen belang (indien aanwezig) </li> </ul> |
 | Documentatie | <ul> <li> Opmerkingen bij de release beschikbaar op het documentatieportaal </li> <li> Documentatie over functies, verbeteringen en foutoplossingen op het documentatieportaal </li> </ul> |
 | Cadence | Driemaandelijks |
@@ -62,19 +62,19 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 | Inclusies | Opgeloste problemen voor een JS- of JSP-bestand |
 | Documentatie | Geen |
 | Cadence | Indien nodig |
-| Beschikbaarheid en installatie | <ul> <li> Afgeleverd als pakket door [!DNL Experience Manager] Klantenservice  </li> <li> Niet noodzakelijk inbegrepen in de dienstpakken of volledige versies </li> </ul> |
+| Beschikbaarheid en installatie | <ul> <li> Geleverd als pakket per [!DNL Experience Manager] Klantenservice  </li> <li> Niet noodzakelijk inbegrepen in de dienstpakken of volledige versies </li> </ul> |
 | Testniveau | Gevalideerd door de klantenservice |
 
 ## Functiepakket {#feature-pack}
 
 | Items | Details |
 |--------|-----|
-| Definitie | <ul> <li>De Pakken van de eigenschap zijn toevoegings-functionaliteit en worden geleverd via de Pakken van de Dienst. Als een [!DNL Experience Manager] versie heeft zijn laatste de dienstpak vrijgegeven, zal Adobe geen eigenschapspak voor het in de toekomst leveren. </li> <li> KP&#39;s bevatten productverbeteringen, gepland voor een volgende productrelease, maar vroegtijdig geleverd op basis van het besluit van [!DNL Adobe's] Productbeheer.</li> <li>  Functies worden altijd samengevoegd met de volgende hoofdrelease en vervolgens naar de [!DNL Experience Manager] versie vereist door de klant </li> <li>  De gemeenschappelijke belangen en de eigenschapspakketten van GA worden samengevoegd in het volgende de dienstpak  </li> </ul> |
+| Definitie | <ul> <li>De Pakken van de eigenschap zijn toevoegings-functionaliteit en worden geleverd via de Pakken van de Dienst. Als een [!DNL Experience Manager] versie heeft zijn laatste de dienstpak vrijgegeven, zal de Adobe geen eigenschapspak voor het in de toekomst leveren. </li> <li> KP&#39;s bevatten productverbeteringen, gepland voor een volgende productrelease, maar vroegtijdig geleverd op basis van het besluit van [!DNL Adobe's] Productbeheer.</li> <li>  Functies worden altijd samengevoegd met de volgende hoofdrelease en vervolgens naar de [!DNL Experience Manager] versie vereist door de klant </li> <li>  De gemeenschappelijke belangen en de eigenschapspakketten van GA worden samengevoegd in het volgende de dienstpak  </li> </ul> |
 | Naamgeving | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusies | <ul> <li> Nieuwe functies </li> <li> Verbeteringen </li> <li> Bugfixes (incrementele productupdates) </li> </ul> |
 | Documentatie | Documentatie is beschikbaar op adobe.com. |
 | Cadence | Varieert met het gebied van het Product |
-| Beschikbaarheid en installatie | <ul> <li>Wordt geleverd via servicepacks </li> <li> Beschikbaar op softwaredistributie. Klanten accepteren [!DNL Adobe's] Voorwaarden en bepalingen via softwaredistributie. </li> </ul> |
+| Beschikbaarheid en installatie | <ul> <li>Wordt geleverd via servicepacks </li> <li> Beschikbaar op softwaredistributie. Klanten accepteren [!DNL Adobe's] Voorwaarden via softwaredistributie. </li> </ul> |
 | Testniveau | De algemene eigenschapspakketten van de Beschikbaarheid zijn gevalideerd QA. |
 
-* 1: Oak-fixes worden niet als afzonderlijke hotfixes geleverd. Zij worden echter wel opgenomen in de daaropvolgende Cumulatieve oak-hotfix. Indien nodig kan een diagnostische build boven op de nieuwste COFP beschikbaar worden gesteld. Voorwaarde is dat de klant de nieuwste COFP heeft die wordt uitgevoerd. Diagnostische builds bieden alleen dezelfde kwaliteitsgarantie als een hotfix. Daarom bieden zij niet zo veel kwaliteitsgarantie als een cumulatief fixpack, de dienstpak, of productversie. De laatste oplossing wordt geleverd bij het volgende GVB.
+* 1: eiken fixes worden niet als afzonderlijke hotfixes geleverd. Zij worden echter wel opgenomen in de daaropvolgende Cumulatieve oak-hotfix. Indien nodig kan een diagnose worden gesteld die bovenop de nieuwste COFP is gebouwd. Voorwaarde is dat de klant de nieuwste COFP heeft die wordt uitgevoerd. Diagnostische builds bieden alleen dezelfde kwaliteitsgarantie als een hotfix. Daarom bieden zij niet zo veel kwaliteitsgarantie als een cumulatief fixpack, de dienstpak, of productversie. De laatste oplossing wordt geleverd bij het volgende GVB.

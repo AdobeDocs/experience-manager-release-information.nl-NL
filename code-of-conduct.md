@@ -1,7 +1,7 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 ## Toezegging Adobe
 
-Om een open en welkome omgeving te bevorderen, verbinden contribuanten en onderhoudsleiders zich ertoe om van deelname aan het project en de gemeenschap een pesterijen-vrije ervaring te maken voor iedereen, ongeacht leeftijd, lichaamsgrootte, handicap, etniciteit, genderidentiteit en expressie, niveau van ervaring, nationaliteit, persoonlijk voorkomen, ras, godsdienst of seksuele identiteit en geaardheid.
+In het belang van een open en gastvrije omgeving verbinden de contribuanten en de onderhoudsleiders zich ertoe om van deelname aan het project en de gemeenschap een pesterijen-vrije ervaring te maken voor iedereen. Deze belofte geldt ongeacht leeftijd, lichaamsgrootte, handicap, etniciteit, genderidentiteit en expressie, niveau van ervaring, nationaliteit, persoonlijk uiterlijk, ras, godsdienst of seksuele identiteit en geaardheid.
 
 ## Standaarden van de Adobe
 
@@ -33,7 +33,7 @@ Voorbeelden van onacceptabel gedrag van deelnemers zijn:
 
 Projectbeheerders zijn verantwoordelijk voor het verduidelijken van de normen voor aanvaardbaar gedrag en zullen naar verwachting passende en eerlijke corrigerende maatregelen nemen in geval van onaanvaardbare gedragingen.
 
-Projectbeheerders hebben het recht en de verantwoordelijkheid om opmerkingen, verbintenissen, code, wiki-bewerkingen, problemen en andere bijdragen die niet aan deze gedragscode zijn aangepast, te verwijderen, te bewerken of te negeren. Of om een contribuant tijdelijk of permanent te verbieden voor ander gedrag dat zij ongeschikt, bedreigend, aanstootgevend of schadelijk achten.
+Projectbeheerders hebben het recht en de verantwoordelijkheid om opmerkingen, verbintenissen, code, wiki-bewerkingen en problemen die niet zijn uitgelijnd op deze gedragscode te verwijderen, te bewerken of af te wijzen. Of om een contribuant tijdelijk of permanent te verbieden voor ander gedrag dat zij ongeschikt, bedreigend, aanstootgevend of schadelijk achten.
 
 ## Scope
 
