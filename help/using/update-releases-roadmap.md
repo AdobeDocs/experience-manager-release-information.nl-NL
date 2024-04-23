@@ -2,12 +2,13 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: e8096928919b05bf86a972dcd7debbba3f0f6b59
+source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
 
 ---
+
 
 # [!DNL Experience Manager] Geeft Roadmap vrij {#aem-releases-roadmap}
 
@@ -60,7 +61,7 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
-Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde producten [!DNL Experience Manager] Op locatie en Managed Services worden geleverd via driemaandelijkse servicepakketten en Cumulatieve Fix Packs (GFP&#39;s). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
+Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde producten [!DNL Experience Manager] Op locatie en Managed Services worden geleverd via driemaandelijkse servicepacks en Cumulative Fix Packs (GFP&#39;s). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
 ### [!DNL Experience Manager] 6,5 {#aem65}
 
