@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
+source-git-commit: f2d1c4df7e8313c622b8ffde1dab9a2b8c117ff6
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,6 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Onderhoudsrelease [13323](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13323) | Automatisch bijwerken | 1 september 2023 | Bijgewerkt |
-| Onderhoudsrelease [13420](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13420) | Automatisch bijwerken | 18 september 2023 | Bijgewerkt |
-| Functie vrijgeven [2023,9,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0) | Functie activeren | 28 september 2023 | geactiveerd |
-| Onderhoudsrelease [13665](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13665) | Automatisch bijwerken | 2-5 oktober 2023 | Bijgewerkt |
-| Onderhoudsrelease [1384](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13804) | Automatisch bijwerken | 16-19 oktober 2023 | Bijgewerkt |
-| Functie vrijgeven [2023 10,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0) | Functie activeren | 26 oktober 2023 | geactiveerd |
 | Onderhoudsrelease [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | Automatisch bijwerken | 30 oktober - 2 november 2023 | Bijgewerkt |
 | Onderhoudsrelease [1427](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | Automatisch bijwerken | 13-16 november 2023 | Bijgewerkt |
 | Functie vrijgeven [2023 11,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | Functie activeren | 30 november 2023 | geactiveerd |
@@ -41,15 +35,15 @@ De komende versies voor [!DNL Experience Manager] als [!DNL Cloud Service] zijn 
 | Functie vrijgeven [2024,1,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | Functie activeren | 25 januari 2024 | geactiveerd |
 | Onderhoudsrelease [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | Automatisch bijwerken | 11 maart 2024 | Bijgewerkt |
 | Onderhoudsrelease [1575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Automatisch bijwerken | 19 maart-21 maart 2024 | Bijgewerkt |
-| Functie vrijgeven [2024,3,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 11 april 2024 | geactiveerd |
+| Functie vrijgeven [2024,3,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | Functie activeren | 11 april 2024 | geactiveerd |
 | Onderhoudsrelease [1586](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Automatisch bijwerken | 8 april 2024 | Bijgewerkt |
+| Onderhoudsrelease [1597](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 20 april 2024 | Bijgewerkt |
+| Functie vrijgeven [2024,4,0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 25 april 2024 | geactiveerd |
 
 ### Volgende releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Onderhoudsrelease [1597](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 20 april 2024 | Doel |
-| Feature 2024.4.0 | Functie activeren | 25 april 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 6-8 mei 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 20 mei 2024 | Doel |
 | Feature 2024.5.0 | Functie activeren | 30 mei 2024 | Doel |
