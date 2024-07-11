@@ -1,11 +1,11 @@
 ---
 title: Cumulatieve herstelpakketten installeren op AEM Forms JEE
-description: Overzicht van stappen voor de installatie en configuratie van Cumulative Fix Pack (GVB) op AEM Forms JEE.
+description: Overzicht van de stappen voor de installatie en configuratie van het cumulatieve fixpack (CFT) op AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ AEM [!DNL  Forms JEE] pakket (aemfd-jee-bundles-package-6.3GVB1; versie 1.0.2) b
 
 ### Meer instructies voor CQ-4208044 {#additional-instructions-for-cq}
 
-Als u AEM 6.3 gebruikt [!DNL Forms JEE] server met het gegevensbestand van het Oracle, vorm de volgende montages na plaatsing van GVB1, namelijk nadat de Manager van de Configuratie in werking wordt gesteld. Deze instelling is vereist voor het synchroniseren van gebruikers, groepen en groepsleden wanneer de domeinsynchronisatie van de onderneming wordt uitgevoerd.
+Bij gebruik van de AEM 6.3 [!DNL Forms JEE] server met het gegevensbestand van het Oracle, vorm de volgende montages na plaatsing van GVB1, namelijk nadat de Manager van de Configuratie in werking wordt gesteld. Deze instelling is vereist voor het synchroniseren van gebruikers, groepen en groepsleden wanneer de domeinsynchronisatie van de onderneming wordt uitgevoerd.
 
 1. Aanmelden bij de **Beheerder** UI.
 1. Navigeren naar **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
 1. Exporteer het bestand config.xml.
-1. Wijzig de vermelding voor &quot; `groupMemberDBQueryBatchSize`&quot; onder uw domeinconfiguraties in *config.xml*. Voorbeeld:
+1. Wijzig de vermelding voor &quot;`groupMemberDBQueryBatchSize`&quot; onder uw domeinconfiguraties in *config.xml*. Voorbeeld:
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -40,7 +40,7 @@ Als u AEM 6.3 gebruikt [!DNL Forms JEE] server met het gegevensbestand van het O
 
 ## GFP installeren op AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
-De cumulatieve verpakking installeren op AEM 6.2 [!DNL Forms JEE]voert u de volgende reeks stappen uit.
+De cumulatieve fix-verpakking installeren op AEM 6.2 [!DNL Forms JEE]voert u de volgende reeks stappen uit.
 
 1. De AEM 6.2 [!DNL Forms JEE] installateur voor het GVB, contact [Ondersteuning voor Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support).
 1. Voer het GVB-installatieprogramma uit en configureer AEM [!DNL Forms JEE] zoals beschreven in [AEM installeren en configureren [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
@@ -75,19 +75,19 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
 1. Om de onderbreking van alle de dienstverrichtingen aan 600 sec te plaatsen:
 
-   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   instellen &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. Als u het dialoogvenster `DesigntimeService` tijd-out van bewerkingswaarden tot 500 sec., gebruik:
 
-   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   instellen &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Als u het dialoogvenster `DesigntimeService's previewLCA` tijd-out van bewerkingswaarden tot 700 sec., gebruik:
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   instellen &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. Als u het dialoogvenster `DSC operations`tot 600 seconden gebruiken, zoals laden en installeren:
 
-   instellen &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   instellen &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## AEM installeren en configureren [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
    **Windows**
 
-   Navigeer naar de juiste map op de installatiemedia of -map op de vaste schijf waarnaar u het installatieprogramma hebt gekopieerd:
+   Navigeer naar de map op de installatiemedia of in de map waarnaar u het installatieprogramma hebt gekopieerd.
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
    Navigeer naar de juiste map:
 
-   * (Linux®): Disk1/InstData/Linux/ NoVM
-   * (Solaris™): Disk1/InstData/Solaris/ NoVM
+   * (Linux®): Disk1/InstData/Linux/NoVM
+   * (Solaris™): Disk1/InstData/Solaris/NoVM
    * (AIX®): Disk1/InstData/AIX/VM
 
    Van een bevelherinnering, type:

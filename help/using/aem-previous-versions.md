@@ -2,20 +2,20 @@
 title: Oudere versies van AEM-, CQ- en CRX-documentatie downloaden
 description: Download documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 2%
 
 ---
 
 # Oudere versies van [!DNL Adobe Experience Manager], CQ- en CRX-documentatie {#older-versions-aem-cq-crx}
 
-Vorige Help-hulplijnen voor oudere versies van AEM, CQ en CRX vinden.
+Vorige hulplijnen voor oudere versies van AEM, CQ en CRX zoeken.
 
 ## Oudere versies van [!DNL Experience Manager] documentatie {#older-version-aem-documentation}
 
-De versies van [!DNL Adobe Experience Manager], CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door de Adobe verkocht. De laatste versies van de officiële documentatie van de Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service).
+De versies van [!DNL Adobe Experience Manager], CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door Adobe verkocht. De laatste versies van de officiële documentatie van de Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe raadt u aan een upgrade naar de nieuwste versie uit te voeren - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service).
 
 >[!NOTE]
 >
@@ -26,11 +26,11 @@ De versies van [!DNL Adobe Experience Manager], CQ en CRX die op deze pagina wor
 Voordat u het pakket downloadt, moet u bepalen wie de inhoud verbruikt. Dit besluit bepaalt hoe het wordt opgesteld:
 
 * Ontwikkelaars kunnen hun installatie lokaal uitvoeren, zodat u ze snel kunt raadplegen.
-* Voor bredere organisatorische documentatiebehoeften, adviseert men het pakket op een intern toegankelijk, niet productie AEM de instantie van de Auteur wordt opgesteld.
+* Voor bredere organisatorische documentatiebehoeften, beveelt de Adobe aan dat het pakket wordt opgesteld op een intern toegankelijke, niet-productie AEM instantie van de Auteur.
 
 >[!NOTE]
 >
->Gebruikers moeten zijn aangemeld bij de [!DNL Experience Manager] -instantie om deze inhoud te openen op [!DNL Experience Manager] Auteur. Deze inhoud is standaard niet toegankelijk bij AEM Publiceren (zoals deze bestaat onder /libs).
+>Gebruikers moeten zijn aangemeld bij de [!DNL Experience Manager] -instantie om deze inhoud te openen op [!DNL Experience Manager] Auteur. Deze inhoud is standaard niet toegankelijk op AEM Publish (zoals deze bestaat onder /libs).
 
 ## Locaties voor softwaredistributie {#software-distribution-locations}
 

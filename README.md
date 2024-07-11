@@ -1,13 +1,13 @@
 ---
-source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 # Adobe Experience Manager Release-gegevens
 
-Dit is de opslagplaats voor Adobe Experience Manager Release Information.
+Deze gegevensopslagruimte is bedoeld voor Adobe Experience Manager Release-gegevens.
 
 Uw bijdragen aan de documentatie zijn welkom. Zie de volgende bronnen:
 

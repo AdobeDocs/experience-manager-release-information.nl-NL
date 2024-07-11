@@ -1,8 +1,8 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 2%
+source-wordcount: '482'
+ht-degree: 0%
 
 ---
 # Bijdragen aan Adobe Experience Manager-documentatie
@@ -11,15 +11,15 @@ Bedankt dat u hebt gekozen om een bijdrage te leveren aan de documentatie van Ad
 
 In dit artikel wordt beschreven hoe u een bijdrage kunt leveren en worden de richtlijnen beschreven die u moet volgen bij het maken van uw bijdragen.
 
-## Adobe Open Source Code of Conduct
+## Adobe Open gedragscode van Source
 
-Dit project heeft het [Adobe Open Source Code of Conduct](code-of-conduct.md). Door bij te dragen aan AEM documentatie gaat u akkoord met het naleven van deze gedragscode. Onacceptabel gedrag rapporteren aan [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+Dit project heeft het [Adobe Open gedragscode van Source](code-of-conduct.md). Door bij te dragen aan AEM documentatie gaat u akkoord met het naleven van deze gedragscode. Onacceptabel gedrag rapporteren aan [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Richtsnoeren voor de bijdrage
 
 Hoewel alle bijdragen worden toegejuicht om AEM documentatie te verbeteren, moeten bijdragen waar mogelijk aan bepaalde richtsnoeren en normen voldoen. Controleer de [Richtsnoeren voor het bijdragen aan AEM documentatie](guidelines.md) voor meer informatie .
 
-## Contribute
+## Hoe kan ik met Contribute?
 
 U kunt op twee manieren bijdragen:
 
@@ -40,9 +40,9 @@ De kwesties laten u uw idee voor verbetering aan de documenten gemakkelijk besch
 
 ### Een volledige aanvraag maken {#create-a-pull-request}
 
-Als u een probleem ziet en precies weet hoe u dit kunt verhelpen, kunt u een pull-verzoek maken. De verzoeken van de Trek staan u toe om uw eigen uit te geven aan de documentatie, die dan voor opneming door een lid van het Team van AEM Docs wordt herzien. Eenvoudig klikken **Deze pagina bewerken** Klik boven aan het rechternavigatievenster op een pagina, zodat u de voorgestelde wijzigingen kunt aanbrengen en de pull-aanvraag kunt maken.
+Als u een probleem ziet en precies weet hoe u dit kunt verhelpen, kunt u een pull-verzoek maken. Met aanvragen voor aftrekken kunt u uw eigen bewerkingen uitvoeren op de documentatie. Een lid van het Team van AEM Docs herziet deze uitgeeft voor opneming. Eenvoudig klikken **Deze pagina bewerken** Klik boven aan het rechternavigatievenster op een pagina, zodat u de voorgestelde wijzigingen kunt aanbrengen en de pull-aanvraag kunt maken.
 
-Alle intrekkingsverzoeken moeten vergezeld gaan van een ondertekend [licentieovereenkomst voor contribuanten of CLA](https://opensource.adobe.com/cla.html). Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. U legt slechts één keer een Adobe CLA voor, dus als u eerder hebt verzonden, bent u goed om te gaan!
+Een ondertekend document [licentieovereenkomst voor contribuanten of CLA](https://opensource.adobe.com/cla.html) moeten alle terugtrekkingsverzoeken vergezellen. Deze noodzaak geeft de Adobe toestemming om uw bijdragen te herverdelen als onderdeel van het project. U kunt slechts één keer een Adobe CLA voorleggen, zodat als u eerder hebt voorgelegd, bent u goed te gaan!
 
 ### Snelle video-introductie
 

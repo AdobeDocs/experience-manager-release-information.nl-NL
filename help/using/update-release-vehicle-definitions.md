@@ -3,9 +3,9 @@ title: Definities van releasevoertuig bijwerken
 description: In dit artikel worden de verschillende typen [!DNL Experience Manager] versies, met inbegrip van volledige versies, eigenschapspakken, en de dienstpakken.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
@@ -37,21 +37,21 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 | Definitie | <ul> <li> Geplande release </li> <li> Kan momenteel niet terugdraaien </li> </ul> |
 | Naamgeving | <ul> <li> Reparatienummer is één cijfer </li> <li> Na installatie zal het geïnstalleerde de flardcijfer van het versienummer, gebaseerd op de formule X.Y.Z.SPx verhogen </li> </ul> Waar X het primaire versienummer is, is Y het secundaire versienummer, en Z het flardaantal. x is het aantal van het de dienstpak. |
 | Inclusies | <ul> <li> Nieuwe functies</li> <li>  Verbeteringen </li> <li> Bugfixes </li> <li> Pakketten met kenmerken van algemeen belang (indien aanwezig) </li> </ul> |
-| Documentatie | <ul> <li> Opmerkingen bij de release beschikbaar op het documentatieportaal </li> <li> Documentatie over functies, verbeteringen en foutoplossingen op het documentatieportaal </li> </ul> |
+| Documentatie | <ul> <li> Opmerkingen bij de release zijn beschikbaar op het documentatieportaal </li> <li> Documentatie over functies, verbeteringen en foutoplossingen op het documentatieportaal </li> </ul> |
 | Cadence | Driemaandelijks |
 | Beschikbaarheid en installatie | <ul> <li> Geleverd als pakket </li> <li> Beschikbaar op softwaredistributie</li> <li>  Vereist bestaande functionele installatie </li> </ul> |
 | Testniveau | <ul> <li> Alle oplossingen voor gevalideerde kwaliteitscontrole </li> <li>  Algemene saniteit van pakketten met automatiseringsprestaties </li> </ul> |
 
-## Cumulatief reparatiepakket  {#cumulative-fix-pack-aem}
+## Cumulatief reparatiepakket {#cumulative-fix-pack-aem}
 
 | Item | Beschrijving |
 |-----|-----|
 | Definitie | <ul> <li> Single Deliasing Model of releasing fixes </li> <li> Aggregator-inhoudspakket met inhoudspakket van afzonderlijke componenten </li> <li>  GFP&#39;s zijn rollover van hotfixes en er zijn geen verbeteringen in opgenomen.  </li> </ul> |
 | Naamgeving | X.Y.Z.CFPx  <br> Waar X het primaire versienummer is, is Y het secundaire versienummer, en Z het flardaantal. x is het cumulatieve aantal van het de dienstpak. |
-| Inclusies | GFP is cumulatieve fixpack die fixes van alle componenten door gespecificeerde data bevat. Bijvoorbeeld, als een klant GVB3 toepast, dan GFP3 = GFP1 + GFP2. |
-| Documentatie | Opmerkingen bij de release beschikbaar op het documentatieportaal |
+| Inclusies | GFP is een cumulatief fixpack dat fixes van alle componenten door gespecificeerde data bevat. Bijvoorbeeld, als een klant GVB3 toepast, dan GFP3 = GFP1 + GFP2. |
+| Documentatie | Opmerkingen bij de release zijn beschikbaar op het documentatieportaal |
 | Cadence | Driemaandelijks |
-| Beschikbaarheid en installatie | <ul> <li> Geleverd als pakket </li> <li>  Beschikbaar op softwaredistributie </li> <li>  Afhankelijk van het nieuwste servicepakket dat wordt uitgebracht </li> <li>  Het GVB is onafhankelijk. Klanten hoeven zich geen zorgen te maken over het vinden/oplossen van afhankelijkheden. GFP zou op recentste vrijgegeven Service Pack moeten worden geïnstalleerd. </li> <li>  GFP kan als één enkel pakket worden geïnstalleerd, dat klantenervaring verbetert.  </li> </ul> |
+| Beschikbaarheid en installatie | <ul> <li> Geleverd als pakket </li> <li>  Beschikbaar op softwaredistributie </li> <li>  Afhankelijk van het nieuwste servicepakket dat wordt uitgebracht </li> <li>  Het GVB is onafhankelijk. Klanten hoeven zich geen zorgen te maken over het vinden/oplossen van afhankelijkheden. GFP zou op het recentste vrijgegeven de dienstpak moeten worden geïnstalleerd. </li> <li>  GFP kan als één enkel pakket worden geïnstalleerd, dat klantenervaring verbetert.  </li> </ul> |
 | Testniveau | QA gevalideerd op integratieniveau en regressietests |
 
 ## Bedekking {#overlay}
@@ -69,7 +69,7 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 
 | Items | Details |
 |--------|-----|
-| Definitie | <ul> <li>De Pakken van de eigenschap zijn toevoegings-functionaliteit en worden geleverd via de Pakken van de Dienst. Als een [!DNL Experience Manager] versie heeft zijn laatste de dienstpak vrijgegeven, zal de Adobe geen eigenschapspak voor het in de toekomst leveren. </li> <li> KP&#39;s bevatten productverbeteringen, gepland voor een volgende productrelease, maar vroegtijdig geleverd op basis van het besluit van [!DNL Adobe's] Productbeheer.</li> <li>  Functies worden altijd samengevoegd met de volgende hoofdrelease en vervolgens naar de [!DNL Experience Manager] versie vereist door de klant </li> <li>  De gemeenschappelijke belangen en de eigenschapspakketten van GA worden samengevoegd in het volgende de dienstpak  </li> </ul> |
+| Definitie | <ul> <li>De Pakken van de eigenschap zijn toe:voegen-op functionaliteit en door een de dienstpakken geleverd. Als een [!DNL Experience Manager] versie heeft zijn laatste de dienstpak vrijgegeven, zal de Adobe geen eigenschapspak voor het in de toekomst leveren. </li> <li> KP&#39;s bevatten productverbeteringen, gepland voor een volgende productrelease, maar vroegtijdig geleverd op basis van het besluit van [!DNL Adobe's] Productbeheer.</li> <li>  Functies worden altijd samengevoegd met de volgende grote release. Zij worden vervolgens naar de [!DNL Experience Manager] versie vereist door de klant </li> <li>  De gemeenschappelijke belangen en de eigenschapspakketten van GA worden samengevoegd in het volgende de dienstpak  </li> </ul> |
 | Naamgeving | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusies | <ul> <li> Nieuwe functies </li> <li> Verbeteringen </li> <li> Bugfixes (incrementele productupdates) </li> </ul> |
 | Documentatie | Documentatie is beschikbaar op adobe.com. |
@@ -77,4 +77,4 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 | Beschikbaarheid en installatie | <ul> <li>Wordt geleverd via servicepacks </li> <li> Beschikbaar op softwaredistributie. Klanten accepteren [!DNL Adobe's] Voorwaarden via softwaredistributie. </li> </ul> |
 | Testniveau | De algemene eigenschapspakketten van de Beschikbaarheid zijn gevalideerd QA. |
 
-* 1: eiken fixes worden niet als afzonderlijke hotfixes geleverd. Zij worden echter wel opgenomen in de daaropvolgende Cumulatieve oak-hotfix. Indien nodig kan een diagnose worden gesteld die bovenop de nieuwste COFP is gebouwd. Voorwaarde is dat de klant de nieuwste COFP heeft die wordt uitgevoerd. Diagnostische builds bieden alleen dezelfde kwaliteitsgarantie als een hotfix. Daarom bieden zij niet zo veel kwaliteitsgarantie als een cumulatief fixpack, de dienstpak, of productversie. De laatste oplossing wordt geleverd bij het volgende GVB.
+* 1: Oak-oplossingen worden niet als afzonderlijke hotfixes geleverd. Deze worden echter wel opgenomen in de volgende Cumulatieve hotfix voor Oak. Indien nodig kan een diagnose worden gesteld die bovenop de nieuwste COFP is gebouwd. Voorwaarde is dat de klant de nieuwste COFP heeft die wordt uitgevoerd. Diagnostische builds bieden alleen hetzelfde niveau van kwaliteitsborging als een hotfix. Daarom bieden zij niet zo veel kwaliteitsgarantie als een cumulatief fixpack, de dienstpak, of productversie. De laatste oplossing wordt geleverd bij het volgende GVB.

@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] releasemap"
 description: "[!DNL Adobe Experience Manager] releasemap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '475'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Experience Manager] Geeft Roadmap vrij {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] biedt voortdurend nieuwe functies, verbeteringen aan bestaande functies en oplossingen voor problemen voor gebruikers die [!DNL Cloud Service], Managed Services en on-premise aanbiedingen van het product. In dit artikel worden de komende releases voor [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] biedt voortdurend nieuwe functies en verbeteringen aan bestaande functies. Het verstrekt insectenmoeilijke situaties voor gebruikers over [!DNL Cloud Service], Managed Services en on-premise versies. In dit artikel worden de komende releases voor [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 ### [!DNL Experience Manager] 6,5 {#aem65}
 
-[!DNL Experience Manager] 6.5 productupdates worden geleverd door driemaandelijkse de dienstpakken. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor meer informatie over het nieuwste servicepack raadpleegt u [[!DNL Experience Manager] Opmerkingen bij de release van 6.5 servicepack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5 productupdates worden geleverd door middel van driemaandelijkse servicepacks. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor meer informatie over het nieuwste servicepack raadpleegt u [[!DNL Experience Manager] Opmerkingen bij de release van 6.5 servicepack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
