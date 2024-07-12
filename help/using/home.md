@@ -11,16 +11,16 @@ ht-degree: 21%
 
 # Adobe Experience Manager-release-updates en -routekaart
 
-Deze handleiding bevat informatie over de [!DNL Adobe Experience Manager] release roadmap, vorige release updates en documentatie updates.
+In deze handleiding vindt u informatie over de release roadmap van [!DNL Adobe Experience Manager] , vorige releaseupdates en documentatie-updates.
 
-* [[!DNL Experience Manager] releaseupdates](aem-releases-updates.md)
-* [[!DNL Experience Manager] routekaart voor releases](update-releases-roadmap.md)
+* [[!DNL Experience Manager] geeft updates weer](aem-releases-updates.md)
+* [[!DNL Experience Manager] releasewegmap](update-releases-roadmap.md)
 * [[!DNL Experience Manager] definities van releasevoertuigen](update-release-vehicle-definitions.md)
 
-## [!DNL Experience Manager] Forms-release-updates
+## [!DNL Experience Manager] Forms-releaseupdates
 
 * [[!DNL Experience Manager] Forms-releases](aem-forms-releases.md)
-* [Cumulatieve herstelpakketten installeren op [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
+* [Het installeren van Cumulatieve Packs van de Reparatie op  [!DNL Experience Manager]  Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Documentatie-updates
 

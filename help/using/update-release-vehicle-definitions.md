@@ -1,6 +1,6 @@
 ---
 title: Definities van releasevoertuig bijwerken
-description: In dit artikel worden de verschillende typen [!DNL Experience Manager] versies, met inbegrip van volledige versies, eigenschapspakken, en de dienstpakken.
+description: Dit artikel detailleert de diverse types van  [!DNL Experience Manager]  versies, met inbegrip van volledige versies, eigenschappakken, en de dienstpakken.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
@@ -12,11 +12,11 @@ ht-degree: 2%
 
 # [!DNL Experience Manager] definities van releasevoertuigen bijwerken {#update-release-vehicle-definitions}
 
-Dit document bevat details over de verschillende typen [!DNL Adobe Experience Manager] versies, met inbegrip van volledige versies, eigenschapspakken, en de dienstenpakketten die [!DNL Adobe] levert aan zijn klanten.
+Dit document bevat informatie over de verschillende typen [!DNL Adobe Experience Manager] -releases, waaronder volledige releases, functiepakketten en servicepakketten die [!DNL Adobe] aan klanten levert.
 
 >[!NOTE]
 >
->Voor releaseplanning van [!DNL Experience Manager] update-releases, zie [[!DNL Experience Manager] update-releases roadmap](update-releases-roadmap.md)
+>Voor versieschema van [!DNL Experience Manager] updateversies, verwijs naar [[!DNL Experience Manager]  update versies roadmap ](update-releases-roadmap.md)
 
 ## Volledige release {#full-release}
 
@@ -47,7 +47,7 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 | Item | Beschrijving |
 |-----|-----|
 | Definitie | <ul> <li> Single Deliasing Model of releasing fixes </li> <li> Aggregator-inhoudspakket met inhoudspakket van afzonderlijke componenten </li> <li>  GFP&#39;s zijn rollover van hotfixes en er zijn geen verbeteringen in opgenomen.  </li> </ul> |
-| Naamgeving | X.Y.Z.CFPx  <br> Waar X het primaire versienummer is, is Y het secundaire versienummer, en Z het flardaantal. x is het cumulatieve aantal van het de dienstpak. |
+| Naamgeving | X.Y.Z.CFPx <br> Waar X het primaire versienummer is, is Y het secundaire versienummer en Z het patchnummer. x is het cumulatieve aantal van het de dienstpak. |
 | Inclusies | GFP is een cumulatief fixpack dat fixes van alle componenten door gespecificeerde data bevat. Bijvoorbeeld, als een klant GVB3 toepast, dan GFP3 = GFP1 + GFP2. |
 | Documentatie | Opmerkingen bij de release zijn beschikbaar op het documentatieportaal |
 | Cadence | Driemaandelijks |
@@ -58,18 +58,18 @@ Dit document bevat details over de verschillende typen [!DNL Adobe Experience Ma
 
 | Item | Details |
 |-------|--------|
-| Naamgeving | bedekking-&lt;ticket id=&quot;&quot;> |
+| Naamgeving | bedekking-&lt;ticket-id> |
 | Inclusies | Opgeloste problemen voor een JS- of JSP-bestand |
 | Documentatie | Geen |
 | Cadence | Indien nodig |
-| Beschikbaarheid en installatie | <ul> <li> Geleverd als pakket per [!DNL Experience Manager] Klantenservice  </li> <li> Niet noodzakelijk inbegrepen in de dienstpakken of volledige versies </li> </ul> |
+| Beschikbaarheid en installatie | <ul> <li> Wordt geleverd als pakket door de [!DNL Experience Manager] klantenservice  </li> <li> Niet noodzakelijk inbegrepen in de dienstpakken of volledige versies </li> </ul> |
 | Testniveau | Gevalideerd door de klantenservice |
 
 ## Functiepakket {#feature-pack}
 
 | Items | Details |
 |--------|-----|
-| Definitie | <ul> <li>De Pakken van de eigenschap zijn toe:voegen-op functionaliteit en door een de dienstpakken geleverd. Als een [!DNL Experience Manager] versie heeft zijn laatste de dienstpak vrijgegeven, zal de Adobe geen eigenschapspak voor het in de toekomst leveren. </li> <li> KP&#39;s bevatten productverbeteringen, gepland voor een volgende productrelease, maar vroegtijdig geleverd op basis van het besluit van [!DNL Adobe's] Productbeheer.</li> <li>  Functies worden altijd samengevoegd met de volgende grote release. Zij worden vervolgens naar de [!DNL Experience Manager] versie vereist door de klant </li> <li>  De gemeenschappelijke belangen en de eigenschapspakketten van GA worden samengevoegd in het volgende de dienstpak  </li> </ul> |
+| Definitie | <ul> <li>De Pakken van de eigenschap zijn toe:voegen-op functionaliteit en door een de dienstpakken geleverd. Als een [!DNL Experience Manager] -versie zijn laatste servicepack heeft uitgebracht, levert Adobe in de toekomst geen functiepakket voor dit pakket. </li> <li> FPs bevatten productverhogingen, die voor een verdere productversie, maar vroege geleverd op basis van het besluit van [!DNL Adobe's] Product Management worden gepland.</li> <li>  Functies worden altijd samengevoegd met de volgende grote release. Deze worden vervolgens naar de door de klant vereiste [!DNL Experience Manager] versie verzonden </li> <li>  De gemeenschappelijke belangen en de eigenschapspakketten van GA worden samengevoegd in het volgende de dienstpak  </li> </ul> |
 | Naamgeving | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusies | <ul> <li> Nieuwe functies </li> <li> Verbeteringen </li> <li> Bugfixes (incrementele productupdates) </li> </ul> |
 | Documentatie | Documentatie is beschikbaar op adobe.com. |
