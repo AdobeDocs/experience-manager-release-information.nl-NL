@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: d65b79e8a568a0e2356930d25ec205b3548569a0
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | De Versie van het onderhoud [ 16544 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | Automatisch bijwerken | 10-12 juni 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 16799 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16799) | Automatisch bijwerken | 24-26 juni 2024 | Bijgewerkt |
 | De Versie van de eigenschap [ 2024.6.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 27 juni 2024 | geactiveerd |
+| De Versie van het onderhoud [ 16971 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Automatisch bijwerken | 8 juli 2024 | Bijgewerkt |
 
 ### Volgende releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| De Versie van het onderhoud [ 16971 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 8 juli 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 22-24 juli 2024 | Doel |
+| De Versie van het onderhoud [ 17098 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 22-24 juli 2024 | Doel |
 | Feature 2024.7.0 | Functie activeren | 25 juli 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 5 augustus 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 19-21 augustus 2024 | Doel |
