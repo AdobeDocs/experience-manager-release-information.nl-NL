@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 >[!NOTE]
 >
-> De releasedatums voor AEM 6.5-servicepacks worden nu afzonderlijk gepland en niet voor de vaste kwartaalcycli zoals voorheen. Gelieve te blijven geïnformeerd over de aanstaande versies Service Pack op deze pagina.
+> De releasedata voor AEM 6.5 Service Packs zijn nu afzonderlijk gepland en niet voor de vaste kwartaalcycli zoals voorheen. Zorg ervoor u over de aanstaande versies van het de dienstpak op deze pagina op de hoogte blijft.
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ title: Updates van vorige documentatie
 description: Leer meer over oudere belangrijke documentatieveranderingen en updates voor  [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 2aac500e8b094977f5431d213dbe658f5ff58729
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1172'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>10 oktober 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager Version 2019.10.0 is gepubliceerd op 10 oktober 2019.</p> <p>Verwijs naar <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0"> de Nota's van de Versie voor 2019.10.0 </a> die <i> benadrukt wat </i> en updates op plaatsingsstappen en uitgevoerde projectversie behandeling is.<br /> </p> </td> 
+   <td><p>Cloud Manager 2019.10.0 werd op 10 oktober 2019 vrijgegeven.</p> <p>Verwijs naar <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/rn-2019/2019-10-0"> de Nota's van de Versie voor 2019.10.0 </a> die <i> benadrukt wat </i> en updates op plaatsingsstappen en uitgevoerde projectversie behandeling is.<br /> </p> </td> 
   </tr>
   <tr>
    <td>8 oktober 2019</td> 
@@ -237,7 +237,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
 
 ## Oudere inhoud {#legacy-content}
 
-Vanaf 10 mei 2023, zijn de erfenisversies van AEM documentatie verplaatst naar een nieuwe plaats bij [ Oudere versies van Adobe Experience Manager, CQ, en CRX ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+Vanaf 1 Mei, 2023, zijn de erfenisversies van AEM documentatie verplaatst naar een nieuwe plaats bij [ Oudere versies van Adobe Experience Manager, CQ, en CRX ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 De volgende versies zijn verplaatst:
 
