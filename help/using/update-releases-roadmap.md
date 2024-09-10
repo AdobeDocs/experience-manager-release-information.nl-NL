@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+source-git-commit: 38cb8aa3a4a917db1087dbc36295f745cf3f07bf
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -35,18 +35,32 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | De Versie van de eigenschap [ 2024.6.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-6-0) | Functie activeren | 27 juni 2024 | geactiveerd |
 | De Versie van het onderhoud [ 16971 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Automatisch bijwerken | 8 juli 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 17098 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Automatisch bijwerken | 22-24 juli 2024 | Bijgewerkt |
-| De Versie van de eigenschap [ 2024.7.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 25 juli 2024 | geactiveerd |
+| De Versie van de eigenschap [ 2024.7.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | Functie activeren | 25 juli 2024 | geactiveerd |
 | De Versie van het onderhoud [ 17258 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Automatisch bijwerken | 5 augustus 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 17465 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Automatisch bijwerken | 19-21 augustus 2024 | Bijgewerkt |
+| De Versie van de eigenschap [ 2024.8.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 29 augustus 2024 | geactiveerd |
+| De Versie van het onderhoud [ 17569 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Automatisch bijwerken | 2-4 september 2024 | Bijgewerkt |
 
 ### Volgende releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Feature 2024.8.0 | Functie activeren | 29 augustus 2024 | Doel |
-| De Versie van het onderhoud [ 17569 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 2-4 september 2024 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 16 september 2024 | Doel |
+| De Versie van het onderhoud [ 17689 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 16 september 2024 | Doel |
 | Feature 2024.9.0 | Functie activeren | 26 september 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 30 september - 2 oktober 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 14 oktober 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 28 oktober 2024 | Doel |
+| Feature 2024.10.0 | Functie activeren | 31 oktober 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 11-13 november 2024 | Doel |
+
+>[!CAUTION]
+>
+>**Geplande Periode van de Uitsluiting van het Onderhoud**
+>
+> Er wordt geen automatisch AEMaaCS-onderhoud uitgevoerd tijdens de volgende tijdframes, die beginnen en eindigen om middernacht (00:00) CET:
+>
+>* Maandag 25 november 2024 tot dinsdag 3 december 2024.
+>* Het einde van de uitsluitingsperiode van het jaar wordt binnenkort toegevoegd.
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
