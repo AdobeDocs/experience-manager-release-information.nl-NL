@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dd035a73bbb70bf5067b15b39cd49472d3a34481
+source-git-commit: 60521ed99a45b4f820611accbc6e907fb17b6065
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 > Er wordt geen automatisch AEMaaCS-onderhoud uitgevoerd tijdens de volgende tijdframes, die beginnen en eindigen om middernacht (00:00) CET:
 >
 >* Maandag 25 november 2024 tot dinsdag 3 december 2024.
->* Het einde van de uitsluitingsperiode van het jaar wordt binnenkort toegevoegd.
+>* Maandag 16 december 2024 tot vrijdag 3 januari 2025.
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
