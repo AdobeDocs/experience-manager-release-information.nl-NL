@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 43a49d554a43b8f6959ca92c01732c8e6f534f3e
+source-git-commit: 139cdaab2d3d0a7d47809538501a92d13ba4dfdb
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 [!DNL Experience Manager] als [!DNL Cloud Service] nieuwe eigenschappen worden geleverd door de activering van de a [ maandelijkse eigenschap ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), terwijl de verhogingen en insectenmoeilijke situaties tweemaal per maand door [ onderhoudsversies ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) worden geleverd.
 De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zijn als volgt gepland:
 
-### Eerdere versies {#past}
+### Eerdere [!DNL Cloud Service] releases {#past}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
@@ -39,7 +39,7 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | De Versie van het onderhoud [ 17964 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Automatisch bijwerken | 30 september - 2 oktober 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 18175 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Automatisch bijwerken | 14 oktober 2024 | Bijgewerkt |
 
-### Volgende releases {#upcoming}
+### Binnenkomende [!DNL Cloud Service] releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
@@ -68,7 +68,6 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [ Service Pack 18 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-18) | 6.5.18.0. | Service Pack | 24 augustus 2023 | geactiveerd |
 | [!DNL Experience Manager] 6.5 [ Service Pack 19 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19,0 | Service Pack | 30 november 2023 | geactiveerd |
 | [!DNL Experience Manager] 6.5 [ Service Pack 20 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20,0 | Service Pack | 22 februari 2024 | geactiveerd |
 | [!DNL Experience Manager] 6.5 [ Service Pack 21 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0. | Service Pack | 6 juni 2024 | geactiveerd |
