@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 139cdaab2d3d0a7d47809538501a92d13ba4dfdb
+source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,6 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| De Versie van het onderhoud [ 16971 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Automatisch bijwerken | 8 juli 2024 | Bijgewerkt |
-| De Versie van het onderhoud [ 17098 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Automatisch bijwerken | 22-24 juli 2024 | Bijgewerkt |
-| De Versie van de eigenschap [ 2024.7.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | Functie activeren | 25 juli 2024 | geactiveerd |
 | De Versie van het onderhoud [ 17258 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Automatisch bijwerken | 5 augustus 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 17465 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Automatisch bijwerken | 19-21 augustus 2024 | Bijgewerkt |
 | De Versie van de eigenschap [ 2024.8.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-8-0) | Functie activeren | 29 augustus 2024 | geactiveerd |
@@ -47,7 +44,14 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | Feature 2024.10.0 | Functie activeren | 31 oktober 2024 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 11-13 november 2024 | Doel |
 | Feature 2024.11.0 | Functie activeren | 21 november 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 9 december 2024 | Doel |
 | Feature 2024.12.0 | Functie activeren | 12 december 2024 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 20 januari 2025-22 januari 2025 | Doel |
+| Feature 2025.1.0 | Functie activeren | 30 januari 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 3-5 februari 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 17 februari 2025 | Doel |
+| Feature 2025.2.0 | Functie activeren | 27 februari 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 3-5 maart 2025 | Doel |
 
 >[!CAUTION]
 >
