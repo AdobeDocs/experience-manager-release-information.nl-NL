@@ -3,9 +3,9 @@ title: AEM Forms-releases
 description: Meer informatie over alle AEM Forms-releases en bijbehorende pakketten.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: e095e86171db989af0c0f4f56b408d77540f3486
 workflow-type: tm+mt
-source-wordcount: '3030'
+source-wordcount: '3156'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,36 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>Versies samenstellen</strong></td>
    </tr>
   </tr>
+  <tr>
+    <td>29 november 2024</td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 22 Forms add-in pakket voor AEM 6.5.22.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.22.0</a></td>
+    <td>
+     <ul>
+     <br><b> AEM Forms op OSGi flardinstallateurs </b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1328.zip">AEM Forms-invoegtoepassing voor Linux®</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1328.zip">AEM Forms-add-in-pakket voor Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1328.zip">AEM Forms-invoegtoepassing voor macOS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.50.zip">AEM Forms-compatibiliteitspakket</a></li>
+      <br><b> AEM Forms op JEE flardinstallateurs </b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/jboss/win/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-jboss.zip">JBoss® Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/jboss/linux/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-jboss.zip">JBoss®Linux®</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/weblogic/win/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-weblogic.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/weblogic/linux/adobe-aem-forms-jee-service-pack-6.5.22.0-linux-weblogic.tar.gz">WebLogic Linux®</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/websphere/win/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-websphere.zip">WebSphere® Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/websphere/linux/adobe-aem-forms-jee-service-pack-6.5.22.0-linux-websphere.tar.gz">WebSphere® Linux®</a></li>
+      <br><b> SDK </b></br>
+      <li><a> de Cliënt SDK van AEM Forms </a> </li>
+      <br><b> Forms Designer 64-bits flardinstallateurs </b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_English_Cumulative_QF.msp"> Installateur van de Taal van het Engels </a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_French_Cumulative_QF.msp"> de Installateur van de Taal van Frans </a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_German_Cumulative_QF.msp"> de Installateur van de Taal van Duits </a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_Japanese_Cumulative_QF.msp"> de Installateur van de Taal van Japans </a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_Spanish_Cumulative_QF.msp"> de Installateur van de Taal van Spanje </a> </li>
+      </ul> 
+      </td>
+    <td><p>AEM Forms JEE-patchinstallatieprogramma: 6.5.0-00891 <br/><p>AEM Forms Packages add-in: 6.0.1328 <br/></p><p>AEM Forms Compatibility Package: 2.0.50 </td>
+   </tr>
   <tr>
     <td>13 juni 2024</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 21 Forms add-in pakket voor AEM 6.5.21.0</a></td>
