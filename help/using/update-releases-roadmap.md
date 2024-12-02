@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Adobe Experience Manager] geeft roadmap uit"
-description: "[!DNL Adobe Experience Manager] geeft roadmap uit"
+title: '[!DNL Adobe Experience Manager] releasewegmap'
+description: '[!DNL Adobe Experience Manager] releasewegmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 657fecf2d8df9bdf5f50daa63aadc42a828218ef
 workflow-type: tm+mt

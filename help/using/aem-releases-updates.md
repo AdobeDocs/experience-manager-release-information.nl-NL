@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Adobe Experience Manager] geeft updates uit"
-description: "[!DNL Adobe Experience Manager] geeft updates uit"
+title: '[!DNL Adobe Experience Manager] geeft updates weer'
+description: '[!DNL Adobe Experience Manager] geeft updates weer'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
