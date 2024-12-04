@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] releasewegmap'
 description: '[!DNL Adobe Experience Manager] releasewegmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 657fecf2d8df9bdf5f50daa63aadc42a828218ef
+source-git-commit: db8324576d462426bddec6a90cb67d03805ac478
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -62,11 +62,11 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
-Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde [!DNL Experience Manager] on-premise en Managed Services worden geleverd via driemaandelijkse servicepacks en Cumulative Fix Packs (GFP&#39;s). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
+Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor ondersteunde [!DNL Experience Manager] on-premise en Managed Services worden geleverd via servicepacks en Cumulative Fix Packs (Cumulative Fix Packs). Hierdoor kunnen productupdates sneller worden ingevoerd door middel van frequente releases. Het schema voor de komende productupdates is als volgt.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5-productupdates worden geleverd via driemaandelijkse servicepacks. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager]  6.5 de versiedetails van het de dienstpak ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5-productupdates worden geleverd via servicepacks. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager]  6.5 de versiedetails van het de dienstpak ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
