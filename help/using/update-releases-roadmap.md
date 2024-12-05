@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] releasewegmap'
 description: '[!DNL Adobe Experience Manager] releasewegmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: db8324576d462426bddec6a90cb67d03805ac478
+source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,6 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| De Versie van het onderhoud [ 17569 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Automatisch bijwerken | 2-4 september 2024 | Bijgewerkt |
-| De Versie van het onderhoud [ 17689 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Automatisch bijwerken | 16 september 2024 | Bijgewerkt |
-| De Versie van de eigenschap [ 2024.9.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-9-0) | Functie activeren | 26 september 2024 | geactiveerd |
 | De Versie van het onderhoud [ 17964 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | Automatisch bijwerken | 30 september - 2 oktober 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 18175 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | Automatisch bijwerken | 14 oktober 2024 | Bijgewerkt |
 | De Versie van het onderhoud [ 18311 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Automatisch bijwerken | 28 oktober 2024 | Bijgewerkt |
