@@ -1,8 +1,9 @@
 ---
 title: Oudere versies van AEM-, CQ- en CRX-documentatie downloaden
 description: Download documentatiepakketten voor oudere versies van Adobe Experience Manager, CQ en CRX.
+recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: b599547324e6c750050801ee64b9602d5068e4ef
+source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 2%
@@ -15,7 +16,7 @@ Vorige hulplijnen voor oudere versies van AEM, CQ en CRX zoeken.
 
 ## Oudere versies van [!DNL Experience Manager] documentatie {#older-version-aem-documentation}
 
-De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door de Adobe verkocht. De laatste versies van de officiële documentatie van de Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. De Adobe adviseert dat u aan de recentste versie - [[!DNL Adobe Experience Manager]  as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service) bevordert.
+De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door Adobe verkocht. De laatste versies van de officiële documentatie van Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe adviseert dat u aan de recentste versie - [[!DNL Adobe Experience Manager]  as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service) bevordert.
 
 >[!NOTE]
 >
@@ -26,11 +27,11 @@ De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina wo
 Voordat u het pakket downloadt, moet u bepalen wie de inhoud verbruikt. Dit besluit bepaalt hoe het wordt opgesteld:
 
 * Ontwikkelaars kunnen hun installatie lokaal uitvoeren, zodat u ze snel kunt raadplegen.
-* Voor bredere organisatorische documentatiebehoeften, beveelt de Adobe aan dat het pakket wordt opgesteld op een intern toegankelijke, niet-productie AEM instantie van de Auteur.
+* Voor bredere organisatorische documentatiebehoeften raadt Adobe aan het pakket te implementeren op een intern toegankelijke, niet voor productie bestemde AEM Author-instantie.
 
 >[!NOTE]
 >
->Gebruikers moeten zijn aangemeld bij de [!DNL Experience Manager] -instantie om toegang te krijgen tot deze inhoud op [!DNL Experience Manager] Auteur. Deze inhoud is standaard niet toegankelijk op AEM Publish (zoals deze bestaat onder /libs).
+>Gebruikers moeten zijn aangemeld bij de [!DNL Experience Manager] -instantie om toegang te krijgen tot deze inhoud op [!DNL Experience Manager] Auteur. Deze inhoud is standaard niet toegankelijk in AEM Publish (zoals deze bestaat onder /libs).
 
 ## Locaties voor softwaredistributie {#software-distribution-locations}
 
@@ -76,7 +77,7 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 >[!NOTE]
 >
->Start in AEM 6.2 de lokale instantie met een hogere maximale heapgrootte, bijvoorbeeld met de volgende opdracht: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+>Voor AEM 6.2 start u de lokale instantie met een verhoogde maximale heapgrootte door bijvoorbeeld de volgende opdracht te gebruiken: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
 1. Open de gebruikersinterface van [!DNL Experience Manager] . Voer in een webbrowser het volgende in: `http://localhost:4502/` . Meld u aan als beheerder.
 
@@ -84,7 +85,7 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 1. Selecteer **[!UICONTROL Upload Package]** in de interface van Package Manager.
 
-1. Blader naar de locatie waar u het AEM hebt gedownload.
+1. Blader naar de locatie waar u het AEM-pakket hebt gedownload.
 
 1. Selecteer het pakket en klik op **[!UICONTROL OK]** .
 
@@ -94,8 +95,8 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 1. Selecteer nogmaals **[!UICONTROL Install]** in het bevestigingsdialoogvenster. De installatie duurt een paar minuten.
 
-1. Start de documentatiepagina in een webbrowser. Gebruikend het AEM 5.6.1 voorbeeld, zou URL: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html zijn.
+1. Start de documentatiepagina in een webbrowser. Gebruikend AEM 5.6.1 voorbeeld, zou URL: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html zijn.
 
 ## Hulp van de gemeenschap van [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Als u vragen over het gebruiken van Experience Manager hebt, adviseert de Adobe dat u [ uit aan ervaren communautaire deskundigen in de  [!DNL Experience Manager]  forums ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) bereikt.
+Als u vragen over het gebruiken van Experience Manager hebt, adviseert Adobe dat u [ uit aan ervaren communautaire deskundigen in de  [!DNL Experience Manager]  forums ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) reiken.
