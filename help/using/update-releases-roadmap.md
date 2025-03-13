@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] releasewegmap'
 description: '[!DNL Adobe Experience Manager] releasewegmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bf25e2de0798ce9b3b8df54b651e7f77ea3df28a
+source-git-commit: f1d7dbd4a6ddba756ce9a438282969361a47d71d
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,18 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | De Versie van het onderhoud [ 19352 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Automatisch bijwerken | 10 februari 2025 | Bijgewerkt |
 | De Versie van het onderhoud [ 19687 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Automatisch bijwerken | 24-26 februari 2025 | Bijgewerkt |
 | De Versie van de eigenschap [ 2025.2.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 4 maart 2025 | geactiveerd |
+| De Versie van het onderhoud [ 19823 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 10 maart 2025-12 | Bijgewerkt |
 
 ### Binnenkomende [!DNL Cloud Service] releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| De Versie van het onderhoud [ 19823 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 10 maart 2025-12 | Doel |
 | Feature 2025.3.0 | Functie activeren | 27 maart 2025 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 31 maart - 2 april 2025 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 14 april 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 7 april 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 21 april 2025 | Doel |
 | Feature 2025.4.0 | Functie activeren | 24 april 2025 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 28 april 2025 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 12-14 mei 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 5 mei 2025 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 19 mei 2025 - 21 mei 2025 | Doel |
 
 ## [!DNL Experience Manager] Op locatie en Managed Services {#aem-on-prem-managed-services}
 
