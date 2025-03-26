@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] geeft updates weer'
 description: '[!DNL Adobe Experience Manager] geeft updates weer'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,13 @@ Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een li
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5-productupdates worden geleverd via driemaandelijkse servicepakketten. Dit zijn onder andere nieuwe functies, verbeteringen en foutoplossingen.
+[!DNL Experience Manager] 6.5-productupdates worden geleverd via halfjaarlijkse servicepacks en bevatten nieuwe functies, verbeteringen en oplossingen voor problemen.
 
 Zie [[!DNL Experience Manager]  6.5 het Laatste Pak van de Eigenschap ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) voor details van de huidige/recentste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
+
+### [!DNL Experience Manager] 6,5 LTS {#aem-65-lts}
+
+[!DNL Experience Manager] 6.5 LTS-productupdates worden geleverd via driemaandelijkse servicepakketten en bevatten nieuwe functies, verbeteringen en foutoplossingen.
+
+Zie [[!DNL Experience Manager]  6.5 LTS recentste eigenschappak ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en) voor details op de huidige/recentste versie.
+
