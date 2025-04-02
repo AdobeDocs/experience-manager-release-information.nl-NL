@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] releasewegmap'
 description: '[!DNL Adobe Experience Manager] releasewegmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05be3351acbfa775f8af6ba5e1d409ea1d3e1d2f
+source-git-commit: 9cb73dcc651c4d66dfc0f2230b96601bc80f2b31
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,14 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | De Versie van het onderhoud [ 19352 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Automatisch bijwerken | 10 februari 2025 | Bijgewerkt |
 | De Versie van het onderhoud [ 19687 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Automatisch bijwerken | 24-26 februari 2025 | Bijgewerkt |
 | De Versie van de eigenschap [ 2025.2.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | Functie activeren | 4 maart 2025 | geactiveerd |
-| De Versie van het onderhoud [ 19823 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 10 maart 2025-12 | Bijgewerkt |
+| De Versie van het onderhoud [ 19823 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Automatisch bijwerken | 10 maart 2025-12 | Bijgewerkt |
 | De Versie van de eigenschap [ 2025.3.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 27 maart 2025 | geactiveerd |
 
 ### Binnenkomende [!DNL Cloud Service] releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| Onderhoudsrelease | Automatisch bijwerken | 7 april 2025 | Doel |
+| De Versie van het onderhoud [ 20133 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 7 april 2025 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 21 april 2025 | Doel |
 | Feature 2025.4.0 | Functie activeren | 24 april 2025 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 5 mei 2025 | Doel |
