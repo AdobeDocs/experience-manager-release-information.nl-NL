@@ -58,4 +58,4 @@ Eventuele bijdragen worden verwelkomd en herzien als ze via de openbare gegevens
 
 ## Aanvullende informatie
 
-Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) voor verdere details op hoe te om het GitHub auteursplatform te gebruiken.
+Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction) voor verdere details op hoe te om het GitHub auteursplatform te gebruiken.

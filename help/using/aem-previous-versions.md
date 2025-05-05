@@ -16,11 +16,11 @@ Vorige hulplijnen voor oudere versies van AEM, CQ en CRX zoeken.
 
 ## Oudere versies van [!DNL Experience Manager] documentatie {#older-version-aem-documentation}
 
-De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door Adobe verkocht. De laatste versies van de officiële documentatie van Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe adviseert dat u aan de recentste versie - [[!DNL Adobe Experience Manager]  as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service) bevordert.
+De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door Adobe verkocht. De laatste versies van de officiële documentatie van Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe adviseert dat u aan de recentste versie - [[!DNL Adobe Experience Manager]  as a Cloud Service ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service) bevordert.
 
 >[!NOTE]
 >
->Om te weten wanneer een [!DNL Experience Manager] versie eind van kernsteun bereikt, zie [ producten en technische steunperiodes ](https://helpx.adobe.com/support/programs/eol-matrix.html) en onderzoek `AEM`.
+>Om te weten wanneer een [!DNL Experience Manager] versie eind van kernsteun bereikt, zie [ producten en technische steunperiodes ](https://helpx.adobe.com/nl/support/programs/eol-matrix.html) en onderzoek `AEM`.
 
 ### Voordat u gaat installeren {#before-installation}
 
@@ -38,11 +38,11 @@ Voordat u het pakket downloadt, moet u bepalen wie de inhoud verbruikt. Dit besl
 Een geldige Adobe ID is vereist:
 
 * Als u geen Adobe ID hebt, kunt u er een maken op https://www.adobe.com/
-Als u hulp nodig hebt die of uw Adobe ID creeert beheren, [ zie deze gids ](https://helpx.adobe.com/manage-account.html)
+Als u hulp nodig hebt die of uw Adobe ID creeert beheren, [ zie deze gids ](https://helpx.adobe.com/nl/manage-account.html)
 
 | [!DNL Experience Manager] Versie | Koppeling naar softwaredistributie |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [ Adobe Experience Manager 6.4 Documentatie ](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
+| [!DNL Experience Manager] 6.4 | [ Adobe Experience Manager 6.4 Documentatie ](https://experienceleague.adobe.com/nl/docs/experience-manager-64) |
 | [!DNL Experience Manager] 6.3 | [ Download AEM-DOCS-6.3 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [ Download AEM-DOCS-6.2 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [ Download AEM-DOCS-6.1 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
