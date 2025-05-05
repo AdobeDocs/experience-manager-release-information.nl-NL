@@ -181,7 +181,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>24 mei 2019</td> 
    <td>Tik de Status van de Eigenschap UI in AEM 6.5 <br /> </td> 
-   <td>Gepubliceerde </a> pagina van de Status van de Eigenschap van 0} Aanraakinterface voor AEM 6.5 <br /><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/touch-ui-features-status"> </td> 
+   <td>Gepubliceerde </a> pagina van de Status van de Eigenschap van 0&rbrace; Aanraakinterface voor AEM 6.5 <br /><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/touch-ui-features-status"> </td> 
   </tr>
   <tr>
    <td>14 mei 2019</td> 
