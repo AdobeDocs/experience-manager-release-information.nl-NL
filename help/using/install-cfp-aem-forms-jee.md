@@ -3,31 +3,31 @@ title: Cumulatieve herstelpakketten installeren op AEM Forms JEE
 description: Overzicht van de stappen voor de installatie en configuratie van het cumulatieve fixpack (CFT) op AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
 
-# Cumulatieve herstelpakketten installeren op AEM [!DNL &#x200B; Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Cumulatieve reparatiepakketten installeren op AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## GFP installeren op AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
-Voer de volgende stappen uit om het cumulatieve reparatiepakket op AEM 6.3 [!DNL Forms JEE] te installeren.
+Voer de volgende stappen uit om het cumulatieve reparatiepakket te installeren op AEM 6.3 [!DNL Forms JEE] .
 
-1. Om AEM 6.3 [!DNL Forms JEE] installatieprogramma voor GFP te verkrijgen, contacteer [ de Steun van de Adobe ](https://experienceleague.adobe.com/nl?support-solution=General&amp;support-tab=home#support).
+1. Om AEM 6.3 [!DNL Forms JEE] installer voor GVB te verkrijgen, contacteer [ Steun van Adobe ](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Voer het gestreken installatieprogramma in werking en vorm AEM [!DNL Forms JEE] zoals die in [ wordt beschreven installeer en vorm AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installeer de nieuwste AEM GVB 6.3.3.x
-1. Installeer het [!DNL Forms] toe:voegen-op pakket voor AEM GFP [ 6.3.3.x ](aem-forms-releases.md)
+1. Installeer het [!DNL Forms] toe:voegen-op pakket voor GFP van AEM [ 6.3.3.x ](aem-forms-releases.md)
 
-### AEM bundelpakket installeren [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package}
+### AEM [!DNL Forms JEE] -bundelpakket installeren {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL &#x200B; Forms JEE] -pakket (aemfd-jee-bundles-package-6.3CFP1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als op AEM [!DNL Forms OSGi] . Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+Het AEM [!DNL  Forms JEE] -pakket (aemfd-jee-bundles-package-6.3CFP1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als in AEM [!DNL Forms OSGi] . Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Meer instructies voor CQ-4208044 {#additional-instructions-for-cq}
 
-Als het gebruiken van AEM 6.3 [!DNL Forms JEE] server met het gegevensbestand van het Oracle, vorm de volgende montages na plaatsing van GVB1, namelijk nadat de Manager van de Configuratie in werking wordt gesteld. Deze instelling is vereist voor het synchroniseren van gebruikers, groepen en groepsleden wanneer de domeinsynchronisatie van de onderneming wordt uitgevoerd.
+Als u de AEM 6.3 [!DNL Forms JEE] -server met de Oracle-database gebruikt, configureert u de volgende instellingen na de implementatie van het GVB1, dat wil zeggen nadat de Configuration Manager is uitgevoerd. Deze instelling is vereist voor het synchroniseren van gebruikers, groepen en groepsleden wanneer de domeinsynchronisatie van de onderneming wordt uitgevoerd.
 
 1. Login aan **Admin** UI.
 1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
@@ -38,20 +38,20 @@ Als het gebruiken van AEM 6.3 [!DNL Forms JEE] server met het gegevensbestand va
 
 1. Importeer het gewijzigde bestand opnieuw en voer vervolgens de synchronisatie opnieuw uit.
 
-## GFP installeren op AEM 6.2 [!DNL &#x200B; Forms JEE] {#install-cfp-on-aem-62-forms-jee}
+## GFP installeren op AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
-Voer de volgende stappen uit om het cumulatieve reparatiepakket op AEM 6.2 [!DNL Forms JEE] te installeren.
+Voer de volgende stappen uit om het cumulatieve reparatiepakket te installeren op AEM 6.2 [!DNL Forms JEE] .
 
-1. Om AEM 6.2 [!DNL Forms JEE] installatieprogramma voor GFP te verkrijgen, contacteer [ de Steun van de Adobe ](https://experienceleague.adobe.com/nl?support-solution=General&amp;support-tab=home#support).
+1. Om AEM 6.2 [!DNL Forms JEE] installer voor GFP te verkrijgen, contacteer [ Steun van Adobe ](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Voer het gestreken installatieprogramma in werking en vorm AEM [!DNL Forms JEE] zoals die in [ wordt beschreven installeer en vorm AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installeer AEM Hotfix 12785 versie 7.0.
 1. Installeer AEM 6.2 Service Pack 1.
 1. Installeer de nieuwste release-notes-aem-6-2-cumulation-pack.md.
-1. Installeer het [!DNL Forms] Add-on-pakket voor AEM 6.2 Service Pack 1-gebeid.
+1. Installeer het [!DNL Forms] Add-on-pakket voor AEM 6.2 Service Pack 1 gestreken.
 
-### AEM bundelpakket installeren [!DNL Forms JEE] {#install-aem-forms-jee-bundles-package-1}
+### AEM [!DNL Forms JEE] -bundelpakket installeren {#install-aem-forms-jee-bundles-package-1}
 
-Het AEM Forms JEE-pakket (aemfd-jee-bundles-package-6.2GVB5; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als op AEM [!DNL Forms OSGi] . Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+Het AEM Forms JEE-pakket (aemfd-jee-bundles-package-6.2CFP5; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als op AEM [!DNL Forms OSGi] . Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Time-out configureren voor bewerkingen op componentniveau (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -59,7 +59,7 @@ Het AEM Forms JEE-pakket (aemfd-jee-bundles-package-6.2GVB5; versie 1.0.2) biedt
 >
 >Post AEM 6.2 GFP4, kunt u de volgende instructies gebruiken om onderbreking voor de verrichtingen van DSC te vormen voor het geval u problemen wegens onderbreking tijdens het verbeteringsproces ziet.
 
-De plaatsing van DSC vergt een veranderlijke tijd toe te schrijven aan welke het zou kunnen ontbreken. Als u de time-out van DSC-bewerkingen zoals Installeren, Laden, Starten en Stoppen wilt wijzigen, moet u de `adobe.component.registry.timeout` instellen met behulp van het JVM-argument met de optie -D.
+De plaatsing van DSC vergt een veranderlijke tijd toe te schrijven aan welke het zou kunnen ontbreken. Als u de time-out van DSC-bewerkingen zoals Installeren, Laden, Starten en Stoppen wilt wijzigen, moet u de `adobe.component.registry.timeout` instellen met behulp van het JVM-argument met de optie `-D` .
 
 Geef de waarde voor de toets op in seconden. Bijvoorbeeld: `-Dadobe.component.registry.timeout=300`
 
@@ -134,12 +134,12 @@ Gebruik de volgende opdrachten om de time-out in te stellen op componentniveau:
 
    Als u Configuration Manager later wilt uitvoeren, schakelt u de optie **[!UICONTROL Start Configuration Manager]** uit voordat u op **[!UICONTROL Done]** klikt. U kunt de Manager van de Configuratie later beginnen gebruikend het aangewezen manuscript in *`[AEM_forms_root]`/configurationManager/bin* folder.
 
-1. Afhankelijk van uw toepassingsserver, kies één van de volgende documenten en volg de instructies in *het Vormen en het Opstellen AEM[!DNL Forms]* sectie.
+1. Afhankelijk van uw toepassingsserver, kies één van de volgende documenten en volg de instructies in *het Vormen en het Opstellen van AEM[!DNL Forms]* sectie.
 
-   Raadpleeg voor AEM [!DNL Forms] 6.3:
+   Voor AEM [!DNL Forms] 6.3 raadpleegt u:
 
-   * AEM installeren en implementeren [!DNL Forms] voor JBoss®
-   * AEM installeren en implementeren [!DNL Forms] voor WebSphere®
-   * AEM installeren en implementeren [!DNL Forms] voor WebLogic
+   * AEM [!DNL Forms] voor JBoss® installeren en implementeren
+   * AEM [!DNL Forms] voor WebSphere® installeren en implementeren
+   * AEM voor WebLogic installeren en implementeren [!DNL Forms]
 
-1. Start AEM [!DNL Forms] JEE-server opnieuw.
+1. Start de AEM [!DNL Forms] JEE-server opnieuw.
