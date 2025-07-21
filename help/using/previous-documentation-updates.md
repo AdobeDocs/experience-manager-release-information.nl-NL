@@ -81,7 +81,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>25 september 2019</td> 
    <td>Kernonderdelen</td> 
-   <td>Versie 2.7.0 van de Componenten van de kern die ` inbedt Component' introduceert is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components"> ontwikkelaardetails en projectdownload beschikbaar op GitHub </a>.</td> 
+   <td>Versie 2.7.0 van de Componenten van de kern die &grave; inbedt Component' introduceert is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components"> ontwikkelaardetails en projectdownload beschikbaar op GitHub </a>.</td> 
   </tr>
   <tr>
    <td>25 september 2019</td> 
@@ -181,7 +181,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>24 mei 2019</td> 
    <td>Status van touch-functies in AEM 6.5 <br /> </td> 
-   <td>Gepubliceerde <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/touch-ui-features-status"> pagina van de Status van de Eigenschap van 0} Aanraak UI voor AEM 6.5 </a><br /> </td> 
+   <td>Gepubliceerde <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/touch-ui-features-status"> pagina van de Status van de Eigenschap van 0&rbrace; Aanraak UI voor AEM 6.5 </a><br /> </td> 
   </tr>
   <tr>
    <td>14 mei 2019</td> 

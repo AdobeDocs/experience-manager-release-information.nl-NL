@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Cumulatieve reparatiepakketten installeren op AEM [!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# Cumulatieve reparatiepakketten installeren op AEM [!DNL &#x200B; Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## GFP installeren op AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
@@ -23,7 +23,7 @@ Voer de volgende stappen uit om het cumulatieve reparatiepakket te installeren o
 
 ### AEM [!DNL Forms JEE] -bundelpakket installeren {#install-aem-forms-jee-bundles-package}
 
-Het AEM [!DNL  Forms JEE] -pakket (aemfd-jee-bundles-package-6.3CFP1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als in AEM [!DNL Forms OSGi] . Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
+Het AEM [!DNL &#x200B; Forms JEE] -pakket (aemfd-jee-bundles-package-6.3CFP1; versie 1.0.2) biedt [!DNL Forms] Gebruiker op AEM [!DNL Forms JEE] dezelfde rechten en mogelijkheden als in AEM [!DNL Forms OSGi] . Controleer de geïnstalleerde pakketten in Package Manager en installeer het pakket als dit nog niet is geïnstalleerd.
 
 ### Meer instructies voor CQ-4208044 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ Als u de AEM 6.3 [!DNL Forms JEE] -server met de Oracle-database gebruikt, confi
 
 1. Importeer het gewijzigde bestand opnieuw en voer vervolgens de synchronisatie opnieuw uit.
 
-## GFP installeren op AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
+## GFP installeren op AEM 6.2 [!DNL &#x200B; Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
 Voer de volgende stappen uit om het cumulatieve reparatiepakket te installeren op AEM 6.2 [!DNL Forms JEE] .
 
