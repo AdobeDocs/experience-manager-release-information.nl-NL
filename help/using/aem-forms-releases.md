@@ -934,7 +934,7 @@ Dit artikel bevat informatie voor:
   </tbody>
  </table>
 
-`[1]` De Steun van 1} Adobe van het contact [ om installateurs voor Workbench, Rights Management SDK, de Portable Protection Bibliotheek (PPL), en Verbeterde PPL te verkrijgen.](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)
+`[1]` De Steun van 1&rbrace; Adobe van het contact [ om installateurs voor Workbench, Rights Management SDK, de Portable Protection Bibliotheek (PPL), en Verbeterde PPL te verkrijgen.](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)
 
 `[2]` AEM [!DNL Forms] -invoegtoepassing voor macOS X wordt niet ondersteund in de productieomgeving en moet alleen worden gebruikt voor demonstratiedoeleinden. PDF Generator-mogelijkheden zijn niet beschikbaar voor het macOS X-pakket.
 
