@@ -33,7 +33,7 @@ De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zi
 | De Versie van het onderhoud [ 21772 ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Automatisch bijwerken | 11-13 augustus 2025 | Bijgewerkt |
 | De Versie van het onderhoud [ 21994 ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Automatisch bijwerken | 25 augustus 2025-27 augustus 2025 | Bijgewerkt |
 | De Versie van de eigenschap [ 2025.8.0 ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 28 augustus 2025 | geactiveerd |
-| De Versie van het onderhoud [ 22171 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | Automatisch bijwerken | 8 september 2025 | Bijgewerkt |
+| De Versie van het onderhoud [ 22171 ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | Automatisch bijwerken | 8 september 2025 | Bijgewerkt |
 
 ### Binnenkomende [!DNL Cloud Service] releases {#upcoming}
 
