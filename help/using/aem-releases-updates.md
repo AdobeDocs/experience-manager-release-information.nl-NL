@@ -21,7 +21,7 @@ In dit artikel wordt de meest recente versie voor elke releasecategorie weergege
 
 [!DNL Experience Manager] als [!DNL Cloud Service] richt zich doorgaans op een maandelijks releasecadence voor nieuwe functies.
 
-Zie [&#x200B; Huidige Nota&#39;s van de Versie voor  [!DNL Experience Manager]  als a  [!DNL Cloud Service] &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) voor details van de huidige/recentste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
+Zie [&#x200B; Huidige Nota&#39;s van de Versie voor  [!DNL Experience Manager]  als a  [!DNL Cloud Service] &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) voor details van de huidige/recentste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
 
 ## [!DNL Experience Manager] on-premise en Managed Services {#aem-on-prem-managed-services}
 
@@ -31,11 +31,11 @@ Voor Managed Services en het on-premise dienstenaanbod, maakt het artikel een li
 
 [!DNL Experience Manager] 6.5-productupdates worden geleverd via servicepacks en bevatten nieuwe functies, verbeteringen en oplossingen voor problemen.
 
-Zie [[!DNL Experience Manager]  6.5 het Laatste Pak van de Eigenschap &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) voor details van de huidige/recentste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
+Zie [[!DNL Experience Manager]  6.5 het Laatste Pak van de Eigenschap &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes) voor details van de huidige/recentste versie. Vanaf dat punt kunt u ook navigeren naar details van eerdere versies (chronologisch gerangschikt).
 
 ### [!DNL Experience Manager] 6,5 LTS {#aem-65-lts}
 
 [!DNL Experience Manager] 6.5 LTS productupdates worden geleverd door de dienstpakken en omvatten nieuwe eigenschappen, verhogingen, en insectenmoeilijke situaties.
 
-Zie [[!DNL Experience Manager]  6.5 LTS recentste eigenschappak &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes) voor details op de huidige/recentste versie.
+Zie [[!DNL Experience Manager]  6.5 LTS recentste eigenschappak &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65-lts/content/release-notes/release-notes) voor details op de huidige/recentste versie.
 
