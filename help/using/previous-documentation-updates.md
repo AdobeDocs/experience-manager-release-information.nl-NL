@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Updates van vorige documentatie{#previous-documentation-updates}
 
-Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager] . U kunt de [ Recente Updates van de Documentatie ](documentation-updates.md) hier bekijken.
+Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager] . U kunt de [&#x200B; Recente Updates van de Documentatie &#x200B;](documentation-updates.md) hier bekijken.
 
 ## [!DNL Adobe Experience Manager] 6.5 {#aem-65}
 
@@ -237,7 +237,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
 
 ## Oudere inhoud {#legacy-content}
 
-Vanaf 1 Mei, 2023, zijn de erfenisversies van de documentatie van AEM verplaatst naar een nieuwe plaats bij [ Oudere versies van Adobe Experience Manager, CQ, en CRX ](https://experienceleague.adobe.com/nl/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+Vanaf 1 Mei, 2023, zijn de erfenisversies van de documentatie van AEM verplaatst naar een nieuwe plaats bij [&#x200B; Oudere versies van Adobe Experience Manager, CQ, en CRX &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 De volgende versies zijn verplaatst:
 

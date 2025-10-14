@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Voer de volgende stappen uit om het cumulatieve reparatiepakket te installeren op AEM 6.3 [!DNL Forms JEE] .
 
-1. Om AEM 6.3 [!DNL Forms JEE] installer voor GVB te verkrijgen, contacteer [ Steun van Adobe ](https://experienceleague.adobe.com/nl?support-solution=General&support-tab=home#support).
-1. Voer het gestreken installatieprogramma in werking en vorm AEM [!DNL Forms JEE] zoals die in [ wordt beschreven installeer en vorm AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
+1. Om AEM 6.3 [!DNL Forms JEE] installer voor GVB te verkrijgen, contacteer [&#x200B; Steun van Adobe &#x200B;](https://experienceleague.adobe.com/nl?support-solution=General&support-tab=home#support).
+1. Voer het gestreken installatieprogramma in werking en vorm AEM [!DNL Forms JEE] zoals die in [&#x200B; wordt beschreven installeer en vorm AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Installeer de nieuwste AEM GVB 6.3.3.x
-1. Installeer het [!DNL Forms] toe:voegen-op pakket voor GFP van AEM [ 6.3.3.x ](aem-forms-releases.md)
+1. Installeer het [!DNL Forms] toe:voegen-op pakket voor GFP van AEM [&#x200B; 6.3.3.x &#x200B;](aem-forms-releases.md)
 
 ### AEM [!DNL Forms JEE] -bundelpakket installeren {#install-aem-forms-jee-bundles-package}
 
@@ -42,8 +42,8 @@ Als u de AEM 6.3 [!DNL Forms JEE] -server met de Oracle-database gebruikt, confi
 
 Voer de volgende stappen uit om het cumulatieve reparatiepakket te installeren op AEM 6.2 [!DNL Forms JEE] .
 
-1. Om AEM 6.2 [!DNL Forms JEE] installer voor GFP te verkrijgen, contacteer [ Steun van Adobe ](https://experienceleague.adobe.com/nl?support-solution=General&support-tab=home#support).
-1. Voer het gestreken installatieprogramma in werking en vorm AEM [!DNL Forms JEE] zoals die in [ wordt beschreven installeer en vorm AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
+1. Om AEM 6.2 [!DNL Forms JEE] installer voor GFP te verkrijgen, contacteer [&#x200B; Steun van Adobe &#x200B;](https://experienceleague.adobe.com/nl?support-solution=General&support-tab=home#support).
+1. Voer het gestreken installatieprogramma in werking en vorm AEM [!DNL Forms JEE] zoals die in [&#x200B; wordt beschreven installeer en vorm AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Installeer AEM Hotfix 12785 versie 7.0.
 1. Installeer AEM 6.2 Service Pack 1.
 1. Installeer de nieuwste release-notes-aem-6-2-cumulation-pack.md.

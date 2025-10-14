@@ -16,7 +16,7 @@ Dit document bevat informatie over de verschillende typen [!DNL Adobe Experience
 
 >[!NOTE]
 >
->Voor versieschema van [!DNL Experience Manager] updateversies, verwijs naar [[!DNL Experience Manager]  update versies roadmap ](update-releases-roadmap.md)
+>Voor versieschema van [!DNL Experience Manager] updateversies, verwijs naar [[!DNL Experience Manager]  update versies roadmap &#x200B;](update-releases-roadmap.md)
 
 ## Volledige release {#full-release}
 
