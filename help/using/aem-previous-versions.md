@@ -16,11 +16,11 @@ Vorige hulplijnen voor oudere versies van AEM, CQ en CRX zoeken.
 
 ## Oudere versies van [!DNL Experience Manager] documentatie {#older-version-aem-documentation}
 
-De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door Adobe verkocht. De laatste versies van de officiële documentatie van Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe adviseert dat u aan de recentste versie - [[!DNL Adobe Experience Manager]  as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service) bevordert.
+De versies van [!DNL Adobe Experience Manager] , CQ en CRX die op deze pagina worden vermeld, zijn End of Life en worden niet meer officieel door Adobe verkocht. De laatste versies van de officiële documentatie van Adobe voor deze oudere versies zijn beschikbaar voor uw zelfhulp behoeften. Adobe adviseert dat u aan de recentste versie - [[!DNL Adobe Experience Manager]  as a Cloud Service &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service) bevordert.
 
 >[!NOTE]
 >
->Om te weten wanneer een [!DNL Experience Manager] versie eind van kernsteun bereikt, zie [ producten en technische steunperiodes ](https://helpx.adobe.com/support/programs/eol-matrix.html) en onderzoek `AEM`.
+>Om te weten wanneer een [!DNL Experience Manager] versie eind van kernsteun bereikt, zie [&#x200B; producten en technische steunperiodes &#x200B;](https://helpx.adobe.com/support/programs/eol-matrix.html) en onderzoek `AEM`.
 
 ### Voordat u gaat installeren {#before-installation}
 
@@ -38,24 +38,24 @@ Voordat u het pakket downloadt, moet u bepalen wie de inhoud verbruikt. Dit besl
 Een geldige Adobe ID is vereist:
 
 * Als u geen Adobe ID hebt, kunt u er een maken op https://www.adobe.com/
-Als u hulp nodig hebt die of uw Adobe ID creeert beheren, [ zie deze gids ](https://helpx.adobe.com/manage-account.html)
+Als u hulp nodig hebt die of uw Adobe ID creeert beheren, [&#x200B; zie deze gids &#x200B;](https://helpx.adobe.com/manage-account.html)
 
 | [!DNL Experience Manager] Versie | Koppeling naar softwaredistributie |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [ Adobe Experience Manager 6.4 Documentatie ](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
-| [!DNL Experience Manager] 6.3 | [ Download AEM-DOCS-6.3 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
-| [!DNL Experience Manager] 6.2 | [ Download AEM-DOCS-6.2 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
-| [!DNL Experience Manager] 6.1 | [ Download AEM-DOCS-6.1 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
-| [!DNL Experience Manager] 6.0 | [ Download AEM-DOCS-6.0 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
-| [!DNL Experience Manager] 5.6.1 | [ Download AEM-DOCS-5.6.1 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
-| [!DNL Experience Manager] 5.6 | [ Download AEM-DOCS-5.6 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
-| CQ 5.5 | [ Download CQ-DOCS-5.5 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip) |
-| CQ 5.4 | [ download CQ-DOCS-5.4 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip) |
-| CQ 5.3 | [ Download CQ-DOCS-5.3 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip) |
-| CRX 2.3 | [ Download CRX-DOCS-2.3 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip) |
-| CRX 2.2 | [ Download CRX-DOCS-2.2 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip) |
-| CRX 2.1 | [ Download CRX-DOCS-2.1 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip) |
-| CRX 2.0 | [ Download CRX-DOCS-2.0 van de Distributie van de Software ](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip) |
+| [!DNL Experience Manager] 6.4 | [&#x200B; Adobe Experience Manager 6.4 Documentatie &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
+| [!DNL Experience Manager] 6.3 | [&#x200B; Download AEM-DOCS-6.3 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
+| [!DNL Experience Manager] 6.2 | [&#x200B; Download AEM-DOCS-6.2 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
+| [!DNL Experience Manager] 6.1 | [&#x200B; Download AEM-DOCS-6.1 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
+| [!DNL Experience Manager] 6.0 | [&#x200B; Download AEM-DOCS-6.0 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
+| [!DNL Experience Manager] 5.6.1 | [&#x200B; Download AEM-DOCS-5.6.1 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip) |
+| [!DNL Experience Manager] 5.6 | [&#x200B; Download AEM-DOCS-5.6 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip) |
+| CQ 5.5 | [&#x200B; Download CQ-DOCS-5.5 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip) |
+| CQ 5.4 | [&#x200B; download CQ-DOCS-5.4 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip) |
+| CQ 5.3 | [&#x200B; Download CQ-DOCS-5.3 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip) |
+| CRX 2.3 | [&#x200B; Download CRX-DOCS-2.3 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip) |
+| CRX 2.2 | [&#x200B; Download CRX-DOCS-2.2 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip) |
+| CRX 2.1 | [&#x200B; Download CRX-DOCS-2.1 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip) |
+| CRX 2.0 | [&#x200B; Download CRX-DOCS-2.0 van de Distributie van de Software &#x200B;](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip) |
 
 ## Een documentatiepakket installeren {#how-to-install-documentation-package}
 
@@ -71,7 +71,7 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 1. Hier is een voorbeeld van wat u ziet:
 
-![ Distributie van de Software van het Voorbeeld ](assets/screen_shot_2020-07-10at161922.jpg)
+![&#x200B; Distributie van de Software van het Voorbeeld &#x200B;](assets/screen_shot_2020-07-10at161922.jpg)
 
 ### Het pakket op uw lokale instantie installeren {#install-package-local-instance}
 
@@ -99,4 +99,4 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 ## Hulp van de gemeenschap van [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Als u vragen over het gebruiken van Experience Manager hebt, adviseert Adobe dat u [ uit aan ervaren communautaire deskundigen in de  [!DNL Experience Manager]  forums ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) reiken.
+Als u vragen over het gebruiken van Experience Manager hebt, adviseert Adobe dat u [&#x200B; uit aan ervaren communautaire deskundigen in de  [!DNL Experience Manager]  forums &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) reiken.
