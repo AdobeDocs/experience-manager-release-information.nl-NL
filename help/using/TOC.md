@@ -21,9 +21,9 @@ ht-degree: 32%
 # Adobe Experience Manager-release-updates en -routekaart {#aem-release-updates}
 
 + [Homepage van informatie vrijgeven](home.md)
-+ [Updates AEM](aem-releases-updates.md)
-+ [AEM](update-releases-roadmap.md)
-+ [Definities van releasevoertuigen AEM bijwerken](update-release-vehicle-definitions.md)
++ [AEM-versies](aem-releases-updates.md)
++ [AEM-versie](update-releases-roadmap.md)
++ [Definities van AEM Update Release Vehicle](update-release-vehicle-definitions.md)
 + Updates van vorige release {#previous-updates}
    + [Oudere versies van AEM, CQ en CRX](aem-previous-versions.md)
 + AEM Forms-release-updates {#forms-updates}
