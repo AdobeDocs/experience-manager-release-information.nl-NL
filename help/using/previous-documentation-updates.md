@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Updates van vorige documentatie{#previous-documentation-updates}
 
-Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager] . U kunt de [ Recente Updates van de Documentatie ](documentation-updates.md) hier bekijken.
+Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen en updates voor [!DNL Adobe Experience Manager] . U kunt de [&#x200B; Recente Updates van de Documentatie &#x200B;](documentation-updates.md) hier bekijken.
 
 ## [!DNL Adobe Experience Manager] 6.5 {#aem-65}
 
@@ -81,7 +81,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>25 september 2019</td> 
    <td>Kernonderdelen</td> 
-   <td>Versie 2.7.0 van de Componenten van de kern die ` inbedt Component' introduceert is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components"> ontwikkelaardetails en projectdownload beschikbaar op GitHub </a>.</td> 
+   <td>Versie 2.7.0 van de Componenten van de kern die &grave; inbedt Component' introduceert is nu beschikbaar samen met <a href="https://github.com/adobe/aem-core-wcm-components"> ontwikkelaardetails en projectdownload beschikbaar op GitHub </a>.</td> 
   </tr>
   <tr>
    <td>25 september 2019</td> 
@@ -181,7 +181,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
   <tr>
    <td>24 mei 2019</td> 
    <td>Status van touch-functies in AEM 6.5 <br /> </td> 
-   <td>Gepubliceerde <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/touch-ui-features-status"> pagina van de Status van de Eigenschap van 0} Aanraak UI voor AEM 6.5 </a><br /> </td> 
+   <td>Gepubliceerde <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/touch-ui-features-status"> pagina van de Status van de Eigenschap van 0&rbrace; Aanraak UI voor AEM 6.5 </a><br /> </td> 
   </tr>
   <tr>
    <td>14 mei 2019</td> 
@@ -237,7 +237,7 @@ Deze pagina bevat een overzicht van oudere belangrijke documentatiewijzigingen e
 
 ## Oudere inhoud {#legacy-content}
 
-Vanaf 1 Mei, 2023, zijn de erfenisversies van de documentatie van AEM verplaatst naar een nieuwe plaats bij [ Oudere versies van Adobe Experience Manager, CQ, en CRX ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+Vanaf 1 Mei, 2023, zijn de erfenisversies van de documentatie van AEM verplaatst naar een nieuwe plaats bij [&#x200B; Oudere versies van Adobe Experience Manager, CQ, en CRX &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 De volgende versies zijn verplaatst:
 
