@@ -82,7 +82,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 21 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 6 juni 2024 | geactiveerd |
 | [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 22 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Service Pack | 21 november 2024 | geactiveerd |
-| [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 23 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Service Pack | 22 mei 2025 | geactiveerd |
+| [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 23 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Service Pack | 22 mei 2025 | geactiveerd |
 | [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 24 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | Service Pack | 26 november 2025 | geactiveerd |
 
 >[!NOTE]
