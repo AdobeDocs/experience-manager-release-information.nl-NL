@@ -16,7 +16,7 @@ Adobe Experience Manager [!DNL Forms] is een toepassing die op AEM wordt geïmpl
 
 >[!NOTE]
 >
->De Adaptieve eigenschap van Forms, beschikbaar in [ AEM 6.5 QuickStart ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), wordt ontworpen voor exploratie en evaluatiedoeleinden slechts. Voor productiegebruik is het van essentieel belang een geldige licentie voor AEM Forms te verkrijgen, aangezien voor de adaptieve Forms-functionaliteit een correcte licentie vereist is.
+>De Adaptieve eigenschap van Forms, beschikbaar in [&#x200B; AEM 6.5 QuickStart &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), wordt ontworpen voor exploratie en evaluatiedoeleinden slechts. Voor productiegebruik is het van essentieel belang een geldige licentie voor AEM Forms te verkrijgen, aangezien voor de adaptieve Forms-functionaliteit een correcte licentie vereist is.
 
 <!--
 >[!NOTE]
@@ -125,7 +125,7 @@ Dit artikel bevat informatie voor:
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1448.zip">AEM Forms-invoegtoepassing voor Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1448.zip">AEM Forms-add-in-pakket voor Windows</a></li>
-          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">AEM Forms-invoegtoepassing voor macOS X [2]</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">AEM Forms-invoegtoepassing voor macOS X [2]</a></li>
         </ul>
         <b style="display:block; margin:10px 0;"> AEM Forms op de installateurs van het Reparatie JEE </b>
         <ul>
@@ -134,7 +134,7 @@ Dit artikel bevat informatie voor:
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/softwhttps://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® Windows</a></li>
-          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz"> WebSphere® Linux® </a>      </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz"> WebSphere® Linux® </a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;"> SDK </b>
         <ul>
@@ -977,7 +977,7 @@ Dit artikel bevat informatie voor:
   </tbody>
  </table>
 
-`[1]` De Steun van 1} Adobe van het contact [ om installateurs voor Workbench, Rights Management SDK, de Portable Protection Bibliotheek (PPL), en Verbeterde PPL te verkrijgen.](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)
+`[1]` De Steun van 1&rbrace; Adobe van het contact [&#x200B; om installateurs voor Workbench, Rights Management SDK, de Portable Protection Bibliotheek (PPL), en Verbeterde PPL te verkrijgen.](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)
 
 `[2]` AEM [!DNL Forms] -invoegtoepassing voor macOS X wordt niet ondersteund in de productieomgeving en moet alleen worden gebruikt voor demonstratiedoeleinden. PDF Generator-mogelijkheden zijn niet beschikbaar voor het macOS X-pakket.
 
