@@ -99,4 +99,4 @@ Als u een verouderd documentatiepakket wilt installeren, moet [!DNL Experience M
 
 ## Hulp van de gemeenschap van [!DNL Experience Manager] {#get-help-from-aem-community}
 
-Als u vragen over het gebruiken van Experience Manager hebt, adviseert Adobe dat u [&#x200B; uit aan ervaren communautaire deskundigen in de  [!DNL Experience Manager]  forums &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) reiken.
+Als u vragen over het gebruiken van Experience Manager hebt, adviseert Adobe dat u [&#x200B; uit aan ervaren communautaire deskundigen in de  [!DNL Experience Manager]  forums &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl) reiken.
