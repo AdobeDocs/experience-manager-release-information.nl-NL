@@ -16,7 +16,7 @@ Adobe Experience Manager [!DNL Forms] is een toepassing die op AEM wordt geïmpl
 
 >[!NOTE]
 >
->De Adaptieve eigenschap van Forms, beschikbaar in [ AEM 6.5 QuickStart ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), wordt ontworpen voor exploratie en evaluatiedoeleinden slechts. Voor productiegebruik is het van essentieel belang een geldige licentie voor AEM Forms te verkrijgen, aangezien voor de adaptieve Forms-functionaliteit een correcte licentie vereist is.
+>De Adaptieve eigenschap van Forms, beschikbaar in [&#x200B; AEM 6.5 QuickStart &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), wordt ontworpen voor exploratie en evaluatiedoeleinden slechts. Voor productiegebruik is het van essentieel belang een geldige licentie voor AEM Forms te verkrijgen, aangezien voor de adaptieve Forms-functionaliteit een correcte licentie vereist is.
 
 <!--
 >[!NOTE]
@@ -1001,7 +1001,7 @@ Dit artikel bevat informatie voor:
   </tbody>
  </table>
 
-`[1]` De Steun van 1} Adobe van het contact [ om installateurs voor Workbench, Rights Management SDK, de Portable Protection Bibliotheek (PPL), en Verbeterde PPL te verkrijgen.](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)
+`[1]` De Steun van 1&rbrace; Adobe van het contact [&#x200B; om installateurs voor Workbench, Rights Management SDK, de Portable Protection Bibliotheek (PPL), en Verbeterde PPL te verkrijgen.](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)
 
 `[2]` AEM [!DNL Forms] -invoegtoepassing voor macOS X wordt niet ondersteund in de productieomgeving en moet alleen worden gebruikt voor demonstratiedoeleinden. PDF Generator-mogelijkheden zijn niet beschikbaar voor het macOS X-pakket.
 
