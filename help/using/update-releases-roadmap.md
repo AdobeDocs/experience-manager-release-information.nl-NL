@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] releasewegmap'
 description: '[!DNL Adobe Experience Manager] releasewegmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7f5aedcf1ed5ec4c7583158acdd7d47729beb8bc
+source-git-commit: b449680d4c3a8eed5ad03853e0c5fb5ae37543ee
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1158'
 ht-degree: 0%
 
 ---
@@ -20,35 +20,43 @@ ht-degree: 0%
 
 ## [!DNL Experience Manager] als een [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] als [!DNL Cloud Service] nieuwe eigenschappen worden geleverd door de activering van de a [&#x200B; maandelijkse eigenschap &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), terwijl de verhogingen en insectenmoeilijke situaties tweemaal per maand door [&#x200B; onderhoudsversies &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) worden geleverd.
+[!DNL Experience Manager] als [!DNL Cloud Service] nieuwe eigenschappen worden geleverd door de activering van de a [ maandelijkse eigenschap ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), terwijl de verhogingen en insectenmoeilijke situaties tweemaal per maand door [ onderhoudsversies ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) worden geleverd.
 De volgende releases voor [!DNL Experience Manager] as a [!DNL Cloud Service] zijn als volgt gepland:
+
+>[!IMPORTANT]
+>
+>Voor klanten met verouderde versies: om de beveiliging en stabiliteit van uw AEM-omgevingen en verwante versies te helpen garanderen, moeten uw programma&#39;s als [!DNL Cloud Service] worden bijgewerkt naar de nieuwste versie [!DNL Experience Manager] .
+>
+>Neem contact op met uw technische vertegenwoordiger van Adobe (CSME, TAM) om een plan te coördineren om uw omgeving in de huidige versie te brengen. Oudere versies die **meer dan zes maanden** achter de huidige versie zijn vereisen geleidelijke geplande updates met de hulp van Adobe.
+>
+>Gelieve te worden geadviseerd dat als geen actie tegen **30 april, 2026** wordt genomen, de plaatsingspijpleidingen kunnen worden gedeactiveerd en andere functionaliteit AEMaaCS zal worden beïnvloed. Als u doorgaat met een versie die niet wordt ondersteund, kan dit negatieve gevolgen hebben voor de stabiliteit van de toepassing en de uptime, en kan de blootstelling aan beveiliging verder toenemen.
 
 ### Eerdere [!DNL Cloud Service] releases {#past}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| De Versie van het onderhoud [&#x200B; 22758 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | Automatisch bijwerken | 6 oktober 2025 | Bijgewerkt |
-| De Versie van het onderhoud [&#x200B; 22943 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | Automatisch bijwerken | 20 oktober 2025-22 oktober 2025 | Bijgewerkt |
-| De Versie van de eigenschap [&#x200B; 2025.10.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | Functie activeren | 30 oktober 2025 | geactiveerd |
-| De Versie van het onderhoud [&#x200B; 23385 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | Automatisch bijwerken | 17-19 november 2025 | Bijgewerkt |
-| De Versie van de eigenschap [&#x200B; 2025.11.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | Functie activeren | 20 november 2025 | geactiveerd |
-| De Versie van het onderhoud [&#x200B; 23482 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | Automatisch bijwerken | 8 december 2025 | Bijgewerkt |
-| De Versie van de eigenschap [&#x200B; 2025.12.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | Functie activeren | 11 december 2025 | geactiveerd |
-| De Versie van het onderhoud [&#x200B; 23963 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | Automatisch bijwerken | 26 januari 2026-28 januari 2026 | Bijgewerkt |
-| De Versie van de eigenschap [&#x200B; 2026.1.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | Functie activeren | 29 januari 2026 | geactiveerd |
-| De Versie van het onderhoud [&#x200B; 24288 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | Automatisch bijwerken | 9 februari 2026 | Bijgewerkt |
-| De Versie van het onderhoud [&#x200B; 24464 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 23 februari 2026 | Bijgewerkt |
-| De Versie van de eigenschap [&#x200B; 2026.2.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 3 maart 2026 | geactiveerd |
-| De Versie van het onderhoud [&#x200B; 24678 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | Automatisch bijwerken | 9 maart 2016 | Bijgewerkt |
+| De Versie van het onderhoud [ 22758 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | Automatisch bijwerken | 6 oktober 2025 | Bijgewerkt |
+| De Versie van het onderhoud [ 22943 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | Automatisch bijwerken | 20 oktober 2025-22 oktober 2025 | Bijgewerkt |
+| De Versie van de eigenschap [ 2025.10.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | Functie activeren | 30 oktober 2025 | geactiveerd |
+| De Versie van het onderhoud [ 23385 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | Automatisch bijwerken | 17-19 november 2025 | Bijgewerkt |
+| De Versie van de eigenschap [ 2025.11.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | Functie activeren | 20 november 2025 | geactiveerd |
+| De Versie van het onderhoud [ 23482 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | Automatisch bijwerken | 8 december 2025 | Bijgewerkt |
+| De Versie van de eigenschap [ 2025.12.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-12-0) | Functie activeren | 11 december 2025 | geactiveerd |
+| De Versie van het onderhoud [ 23963 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-1-0#23963) | Automatisch bijwerken | 26 januari 2026-28 januari 2026 | Bijgewerkt |
+| De Versie van de eigenschap [ 2026.1.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | Functie activeren | 29 januari 2026 | geactiveerd |
+| De Versie van het onderhoud [ 24288 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | Automatisch bijwerken | 9 februari 2026 | Bijgewerkt |
+| De Versie van het onderhoud [ 24464 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 23 februari 2026 | Bijgewerkt |
+| De Versie van de eigenschap [ 2026.2.0 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Functie activeren | 3 maart 2026 | geactiveerd |
+| De Versie van het onderhoud [ 24678 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | Automatisch bijwerken | 9 maart 2016 | Bijgewerkt |
 
 ### Binnenkomende [!DNL Cloud Service] releases {#upcoming}
 
 | Geen | Gebeurtenis | Schema | Status |
 |---|---|---|---|
-| De Versie van het onderhoud [&#x200B; 24893 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 23-25 maart 2026 | Doel |
+| De Versie van het onderhoud [ 24893 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisch bijwerken | 23-25 maart 2026 | Doel |
 | Feature 2026.3.0 | Functie activeren | 26 maart 2026 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 6 april 2026 | Doel |
-| Onderhoudsrelease | Automatisch bijwerken | 27 maart-29 maart 2026 | Doel |
+| Onderhoudsrelease | Automatisch bijwerken | 27 april 2026-29 april 2026 | Doel |
 | Feature 2026.4.0 | Functie activeren | 30 april 2026 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 11 mei 2026 | Doel |
 | Onderhoudsrelease | Automatisch bijwerken | 25 mei 2026-27 mei 2026 | Doel |
@@ -63,24 +71,24 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 ### [!DNL Experience Manager] 6,5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS-productupdates worden geleverd via servicepacks. Deze Service Packs bevatten nieuwe functies, verbeteringen en oplossingen voor problemen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager]  6.5 de versienota&#39;s van LTS &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65-lts/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5 LTS-productupdates worden geleverd via servicepacks. Deze Service Packs bevatten nieuwe functies, verbeteringen en oplossingen voor problemen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager]  6.5 de versienota&#39;s van LTS ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes).
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS [&#x200B; Service Pack 1 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28 augustus 2025 | geactiveerd |
-| [!DNL Experience Manager] 6.5 LTS [&#x200B; Service Pack 2 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | Service Pack | 19 februari 2026 | geactiveerd |
+| [!DNL Experience Manager] 6.5 LTS [ Service Pack 1 ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28 augustus 2025 | geactiveerd |
+| [!DNL Experience Manager] 6.5 LTS [ Service Pack 2 ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | Service Pack | 19 februari 2026 | geactiveerd |
 | [!DNL Experience Manager] 6.5 LTS Service Pack 3 | 6.5.LTS.SP3 | Service Pack | 20 augustus 2026 | Doel |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5-productupdates worden geleverd via servicepacks. Deze Service Packs bevatten nieuwe functies, verbeteringen en oplossingen voor problemen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager]  6.5 de versiedetails van het de dienstpak &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5-productupdates worden geleverd via servicepacks. Deze Service Packs bevatten nieuwe functies, verbeteringen en oplossingen voor problemen. Voor details over het recentste vrijgegeven de dienstpak, zie [[!DNL Experience Manager]  6.5 de versiedetails van het de dienstpak ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Geen | Versie | Type | Schema | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 21 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 6 juni 2024 | geactiveerd |
-| [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 22 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Service Pack | 21 november 2024 | geactiveerd |
-| [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 23 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Service Pack | 22 mei 2025 | geactiveerd |
-| [!DNL Experience Manager] 6.5 [&#x200B; Service Pack 24 &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | Service Pack | 26 november 2025 | geactiveerd |
+| [!DNL Experience Manager] 6.5 [ Service Pack 21 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 6 juni 2024 | geactiveerd |
+| [!DNL Experience Manager] 6.5 [ Service Pack 22 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Service Pack | 21 november 2024 | geactiveerd |
+| [!DNL Experience Manager] 6.5 [ Service Pack 23 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Service Pack | 22 mei 2025 | geactiveerd |
+| [!DNL Experience Manager] 6.5 [ Service Pack 24 ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | Service Pack | 26 november 2025 | geactiveerd |
 | [!DNL Experience Manager] 6.5 Service Pack 25 | 6.5.25.0 | Service Pack | 21 mei 2026 | Doel |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | 19 november 2026 | Doel |
 
@@ -99,7 +107,7 @@ Productupdates voor nieuwe functies, verbeteringen en foutoplossingen voor onder
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; matrix EOL &#x200B;](https://helpx.adobe.com/nl/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager]  versies en updates &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
->* [[!DNL Experience Manager]  leer en Steun &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service)
->* [[!DNL Experience Manager]  de Definities van het Voertuig van de Update van de Versie &#x200B;](/help/using/update-release-vehicle-definitions.md)
+>* [ matrix EOL ](https://helpx.adobe.com/support/programs/eol-matrix.html)
+>* [[!DNL Experience Manager]  versies en updates ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)
+>* [[!DNL Experience Manager]  leer en Steun ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service)
+>* [[!DNL Experience Manager]  de Definities van het Voertuig van de Update van de Versie ](/help/using/update-release-vehicle-definitions.md)
