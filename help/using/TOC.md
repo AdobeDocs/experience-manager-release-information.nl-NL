@@ -3,22 +3,22 @@ cloud: Experience Cloud
 product: experience manager
 solution: Experience Manager
 audience: end-user
-user-guide-title: Adobe Experience Manager-release-updates en -routekaart
-breadcrumb-title: AEM-release-informatie
-user-guide-description: Bekijk de nieuwste AEM-release-updates.
+user-guide-title: Updates van de Adobe Experience Manager-release en Routekaart
+breadcrumb-title: AEM Release-gegevens
+user-guide-description: Bekijk de nieuwste AEM-releaseupdates.
 feature-set: Experience Manager
 feature: Release Information
-role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
+role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: 1ecab683c9f72e1077b1ca2ace9c0bcd54d5bdcc
+source-git-commit: bbca238b99f4c72d65418f224103c37d417793d6
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 36%
+ht-degree: 0%
 
 ---
 
 
-# Adobe Experience Manager-release-updates en -routekaart {#aem-release-updates}
+# Updates van de Adobe Experience Manager-release en Routekaart {#aem-release-updates}
 
 + [Homepage van informatie vrijgeven](home.md)
 + [AEM-versies](aem-releases-updates.md)
